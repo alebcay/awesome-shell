@@ -11,13 +11,13 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ## Networking and Servers
 
-* Simple, amusing network tools written in shell scripts. Probably not for production usage. *
+*Simple, amusing network tools written in shell scripts. Probably not for production usage.*
 
 * [bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
 
 ## Customization
 
-* Make your terminal pretty. *
+*Make your terminal pretty.*
 
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A community-driven framework for managing your zsh configuration
   
