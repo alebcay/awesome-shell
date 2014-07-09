@@ -42,6 +42,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing bash scripts
 * [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+* [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [sub](https://github.com/basecamp/sub) - a delicious way to organize programs
   
 ## Utilities and Tools
