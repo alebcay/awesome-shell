@@ -6,6 +6,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 	- [Package Management and Frameworks](#package-management-and-frameworks)
 	- [Utilities and Tools](#utilities-and-shortcuts)
 - [Guides](#guides)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
   - To-do.
 
@@ -77,6 +78,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long running commands in zsh
 * [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
+
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 
 This entire repo is still under construction.
