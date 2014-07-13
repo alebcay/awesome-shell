@@ -22,6 +22,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
 * [bitpocket](https://github.com/sickill/bitpocket) - DIY Dropbox" or "2-way directory (r)sync with proper deletion
 * [dokku](https://github.com/progrium/dokku) - Docker powered mini-Heroku in around 100 lines of Bash
+* [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 
@@ -90,6 +91,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/guille/spot) - Tiny file search utility
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
+* [z](https://github.com/rupa/z) - z is the new j, yo
 * [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long running commands in zsh
 * [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 
