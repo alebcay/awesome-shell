@@ -83,6 +83,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments
 * [bash-slugify](https://github.com/benlinton/bash-slugify) - Command that converts filenames and directories to a web friendly format
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+* [cv](https://github.com/Xfennec/cv) - Linux tool to show progress for cp, rm, dd, ...
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
