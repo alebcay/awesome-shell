@@ -87,6 +87,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
+* [hstr](https://github.com/dvorka/hstr) - BASH History Suggest Box
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
