@@ -74,7 +74,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *All work and no play is a cruddy way to spend your day.*
 
 * [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
-  
+* [minesweeper](https://github.com/feherke/Bash-script/blob/master/minesweeper/minesweeper.sh) - Bash implementation of minesweeper 
+
 ## Utilities and Tools
 
 *Other various neat gizmos to make your terminal experience more enjoyable.*
