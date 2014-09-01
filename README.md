@@ -7,7 +7,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 	- [Writing and Testing Scripts](#writing-and-testing-scripts)
 	- [Multimedia](#multimedia)
 	- [Games](#games)
-	- [Utilities and Tools](#utilities-and-shortcuts)
+	- [Utilities and Tools](#utilities-and-tools)
 - [Guides](#guides)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
