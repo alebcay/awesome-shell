@@ -20,7 +20,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [balls](https://github.com/jneen/balls) - Bash on Balls
 * [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
 * [bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
-* [bitpocket](https://github.com/sickill/bitpocket) - DIY Dropbox" or "2-way directory (r)sync with proper deletion
+* [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 * [dokku](https://github.com/progrium/dokku) - Docker powered mini-Heroku in around 100 lines of Bash
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox
 * [pushblast](https://github.com/alebay/pushblast) - Get PushBullet notifications when a shell program exits
