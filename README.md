@@ -47,6 +47,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle
 * [bash-it](https://github.com/revans/bash-it) - A community bash framework
+* [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - git dotfile synchronizer written in bash
 * [oh-my-fish](https://github.com/bpinto/oh-my-fish) - Framework for managing your fish shell configuration inspired by Oh My ZSH
