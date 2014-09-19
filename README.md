@@ -39,6 +39,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 * [powerline-zsh](https://github.com/carlcarl/powerline-zsh) - Powerline for Zsh
 * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
 * [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative git prompt for zsh
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - A ZSH prompt based on the powerline font from the popular vim plugin
 
