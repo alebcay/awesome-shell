@@ -39,7 +39,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 * [powerline-zsh](https://github.com/carlcarl/powerline-zsh) - Powerline for Zsh
 * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
+* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches
 * [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative git prompt for zsh
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - A ZSH prompt based on the powerline font from the popular vim plugin
 
@@ -92,6 +92,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [cv](https://github.com/Xfennec/cv) - Linux tool to show progress for cp, rm, dd, ...
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
+* [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - BASH History Suggest Box
