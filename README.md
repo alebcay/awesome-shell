@@ -78,7 +78,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *All work and no play is a cruddy way to spend your day.*
 
 * [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
-* [minesweeper](https://github.com/feherke/Bash-script/blob/master/minesweeper/minesweeper.sh) - Bash implementation of minesweeper 
+* [minesweeper](https://github.com/feherke/Bash-script/blob/master/minesweeper/minesweeper.sh) - Bash implementation of minesweeper
+* [sedtris](https://github.com/uuner/sedtris) - Tetris in sed
+* [arkanoid and sokoban](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
 
 ## Utilities and Tools
 
