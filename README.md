@@ -80,7 +80,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 * [minesweeper](https://github.com/feherke/Bash-script/blob/master/minesweeper/minesweeper.sh) - Bash implementation of minesweeper
 * [sedtris](https://github.com/uuner/sedtris) - Tetris in sed
-* [arkanoid and sokoban](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
+* [sed-scripts](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
 
 ## Utilities and Tools
 
