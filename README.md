@@ -108,6 +108,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [z](https://github.com/rupa/z) - z is the new j, yo
 * [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long running commands in zsh
 * [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
+* [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
 
 # Guides
 * [Greg Wooledge's (aka "greycat") wiki](http://mywiki.wooledge.org).
