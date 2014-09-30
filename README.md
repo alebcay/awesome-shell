@@ -117,6 +117,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [The Linux Documentation Project: Advanced Bash Scripting Guide](http://www.tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell Scripting](http://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+* [Google's Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
