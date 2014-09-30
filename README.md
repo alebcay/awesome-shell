@@ -99,6 +99,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - BASH History Suggest Box
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
+* [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
@@ -108,7 +109,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [z](https://github.com/rupa/z) - z is the new j, yo
 * [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long running commands in zsh
 * [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
-* [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
 
 # Guides
 * [Greg Wooledge's (aka "greycat") wiki](http://mywiki.wooledge.org).
