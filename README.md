@@ -10,7 +10,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 	- [Utilities and Tools](#utilities-and-tools)
 - [Guides](#guides)
 - [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 ## Networking and Servers
 
