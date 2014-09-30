@@ -102,7 +102,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
-* [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
+* [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/guille/spot) - Tiny file search utility
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
