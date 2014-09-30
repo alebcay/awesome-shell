@@ -11,7 +11,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 - [Guides](#guides)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
-  - To-do.
 
 ## Networking and Servers
 
@@ -105,21 +104,21 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/guille/spot) - Tiny file search utility
+* [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [z](https://github.com/rupa/z) - z is the new j, yo
-* [v] (https://github.com/rupa/v) - z for vim.
 * [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long running commands in zsh
 * [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 
 # Guides
+* [Bash Hackers Wiki](http://wiki.bash-hackers.org/)
 * [Greg Wooledge's (aka "greycat") wiki](http://mywiki.wooledge.org).
   Specifically [Bash Guide](http://mywiki.wooledge.org/BashGuide), [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
-* [Bash Hackers Wiki] (http://wiki.bash-hackers.org/)
+* [Google's Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 * [The Linux Documentation Project: Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
 * [The Linux Documentation Project: Advanced Bash Scripting Guide](http://www.tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell Scripting](http://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-* [Google's Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
