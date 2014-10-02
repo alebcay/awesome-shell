@@ -66,7 +66,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [sub](https://github.com/basecamp/sub) - a delicious way to organize programs
-
+* [ts](https://github.com/thinkerbot/ts) - a shell test script
+ 
 ## Multimedia
 
 *Tools for handling video and audio files.*
