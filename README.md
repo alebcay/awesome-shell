@@ -65,6 +65,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
+* [shpec](https://github.com/rylnd/shpec) - A shell testing framework
 * [sub](https://github.com/basecamp/sub) - a delicious way to organize programs
 
 ## Multimedia
