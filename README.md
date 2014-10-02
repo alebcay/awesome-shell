@@ -105,6 +105,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
+* [mr](https://github.com/joeyh/myrepos) - Multiple Respository management tool
 * [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
