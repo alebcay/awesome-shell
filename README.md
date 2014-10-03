@@ -73,6 +73,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for handling video and audio files.*
 
+* [Beets](https://github.com/sampsyo/beets) - Music library manager and MusicBrainz tagger
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
 
 ## Games
@@ -96,6 +97,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [cv](https://github.com/Xfennec/cv) - Linux tool to show progress for cp, rm, dd, ...
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
+* [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
@@ -103,6 +105,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
+* [mr](https://github.com/joeyh/myrepos) - Multiple Respository management tool
 * [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
