@@ -117,6 +117,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [z](https://github.com/rupa/z) - z is the new j, yo
+* [zsh-dwim](https://github.com/oknowton/zsh-dwim) - ZSH Do what I mean.
 * [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long running commands in zsh
 * [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 
