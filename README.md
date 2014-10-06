@@ -100,6 +100,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work
+* [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - BASH History Suggest Box
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
