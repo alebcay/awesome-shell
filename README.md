@@ -34,6 +34,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
 * [bashstrap](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
+* [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Nicer colors for terminal
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 * [powerline-zsh](https://github.com/carlcarl/powerline-zsh) - Powerline for Zsh
 * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
