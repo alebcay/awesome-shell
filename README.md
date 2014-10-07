@@ -44,6 +44,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - A ZSH prompt based on the powerline font from the popular vim plugin
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for zsh
 * [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - An implementation of the Fish shell's history search feature for zsh.
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of zsh plugins usable with antigen, dotzsh, oh-my-zsh & prezto.
 
 ## Package Management and Frameworks
 
@@ -52,6 +53,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle
 * [bash-it](https://github.com/revans/bash-it) - A community bash framework
 * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
+* [dotzsh](https://github.com/dotphiles/dotzsh) - dotzsh strives to be platform and version independent, some functionality may be lost when running under older versions of zsh, but it should degrade cleanly and allow you to use the same setup on multiple machines of differing OS's without problems.
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - git dotfile synchronizer written in bash
 * [oh-my-fish](https://github.com/bpinto/oh-my-fish) - Framework for managing your fish shell configuration inspired by Oh My ZSH
