@@ -30,6 +30,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Custom prompts, color themes, etc.*
 
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of zsh plugins usable with antigen, dotzsh, oh-my-zsh & prezto.
 * [base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
@@ -44,7 +45,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - A ZSH prompt based on the powerline font from the popular vim plugin
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for zsh
 * [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - An implementation of the Fish shell's history search feature for zsh.
-* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of zsh plugins usable with antigen, dotzsh, oh-my-zsh & prezto.
 
 ## Package Management and Frameworks
 
