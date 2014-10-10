@@ -115,6 +115,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sejda](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
+* [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/guille/spot) - Tiny file search utility
