@@ -1,5 +1,5 @@
 # Awesome Shell
-A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [Awesome Bash](#awesome-bash)
 	- [Networking and Servers](#networking-and-servers)
 	- [Customization](#customization)
