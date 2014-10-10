@@ -108,6 +108,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - BASH History Suggest Box
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
+* [k](https://github.com/supercrabtree/k) - k is a zsh script to make directory listings more readable, adding git status, fileweight colors and rotting dates
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 * [mr](https://github.com/joeyh/myrepos) - Multiple Respository management tool
