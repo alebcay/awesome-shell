@@ -111,6 +111,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 * [mr](https://github.com/joeyh/myrepos) - Multiple Respository management tool
+* [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
 * [sejda](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
