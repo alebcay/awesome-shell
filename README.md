@@ -99,6 +99,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [autojump](https://github.com/joelthelion/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bash-slugify](https://github.com/benlinton/bash-slugify) - Command that converts filenames and directories to a web friendly format
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+* [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [cv](https://github.com/Xfennec/cv) - Linux tool to show progress for cp, rm, dd, ...
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
