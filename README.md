@@ -125,6 +125,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/guille/spot) - Tiny file search utility
 * [sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
+* [tmux] (http://tmux.sourceforge.net/) amazing terminal multiplexer
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
