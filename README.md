@@ -118,6 +118,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mr](https://github.com/joeyh/myrepos) - Multiple Respository management tool
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
+* [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
 * [sejda](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
