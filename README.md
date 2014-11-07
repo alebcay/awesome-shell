@@ -54,6 +54,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle
 * [antigen-hs](https://github.com/Tarrasch/antigen-hs) - A replacement for antigen optimized for a low overhead when starting up the shell.
 * [bash-it](https://github.com/revans/bash-it) - A community bash framework
+* [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
 * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
 * [dotzsh](https://github.com/dotphiles/dotzsh) - dotzsh strives to be platform and version independent, some functionality may be lost when running under older versions of zsh, but it should degrade cleanly and allow you to use the same setup on multiple machines of differing OS's without problems.
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
