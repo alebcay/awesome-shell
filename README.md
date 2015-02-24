@@ -97,6 +97,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Other various neat gizmos to make your terminal experience more enjoyable.*
 
+* [adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
 * [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments
