@@ -122,6 +122,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 * [mr](https://github.com/joeyh/myrepos) - Multiple Respository management tool
 * [ncdu](http://dev.yorhel.nl/ncdu) - NCurses Disk Usage
+* [parallel](http://www.gnu.org/software/parallel) - Build and execute shell command lines from standard input in parallel
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
