@@ -1,4 +1,4 @@
-# Awesome Shell
+﻿# Awesome Shell
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [Awesome Bash](#awesome-bash)
 	- [Networking and Servers](#networking-and-servers)
@@ -115,6 +115,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - BASH History Suggest Box
+* [image-scraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
 * [jq] (https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [k](https://github.com/supercrabtree/k) - k is a zsh script to make directory listings more readable, adding git status, fileweight colors and rotting dates
