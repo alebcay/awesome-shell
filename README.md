@@ -105,6 +105,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash-slugify](https://github.com/benlinton/bash-slugify) - Command that converts filenames and directories to a web friendly format
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
+* [cloc](http://cloc.sourceforge.net) - Count Lines of Code
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [cv](https://github.com/Xfennec/cv) - Linux tool to show progress for cp, rm, dd, ...
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
