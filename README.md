@@ -146,6 +146,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long running commands in zsh
 * [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
+* [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 
 # Guides
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/)
