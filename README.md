@@ -26,6 +26,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
+* [aria2](https://github.com/tatsuhiro-t/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
 
 ## Customization
 
