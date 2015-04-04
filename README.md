@@ -27,6 +27,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [aria2](https://github.com/tatsuhiro-t/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
+* [youtube-dl](https://github.com/rg3/youtube-dl) Small command-line program to download videos from YouTube.com and other video sites
 
 ## Customization
 
