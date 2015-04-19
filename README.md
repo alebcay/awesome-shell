@@ -40,6 +40,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashstrap](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Nicer colors for terminal
 * [git-prompt](https://github.com/lvv/git-prompt) - bash prompt with GIT, SVN and HG modules
+* [Gogh - Color Scheme](https://github.com/Mayccoll/Elementary-OS-Terminal-Colors) - Color Scheme for Gnome Terminal
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 * [powerline-zsh](https://github.com/carlcarl/powerline-zsh) - Powerline for Zsh
 * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -78,7 +79,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
 * [sub](https://github.com/basecamp/sub) - a delicious way to organize programs
 * [ts](https://github.com/thinkerbot/ts) - a shell test script
- 
+
 ## Multimedia
 
 *Tools for handling video and audio files.*
@@ -161,4 +162,3 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
-
