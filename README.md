@@ -80,6 +80,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
 * [sub](https://github.com/basecamp/sub) - a delicious way to organize programs
 * [ts](https://github.com/thinkerbot/ts) - a shell test script
+* [shunit2](https://code.google.com/p/shunit2/) - A unit test framework for bash scripts with a flavour of JUnit/PyUnit.
 
 ## Multimedia
 
