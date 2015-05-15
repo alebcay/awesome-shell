@@ -142,6 +142,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [tmux](http://tmux.sourceforge.net/) - amazing terminal multiplexer
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [v](https://github.com/rupa/v) - z for vim.
+* [wego](https://github.com/schachmat/wego) - weather app for the terminal
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [z](https://github.com/rupa/z) - z is the new j, yo
 * [zsh-dwim](https://github.com/oknowton/zsh-dwim) - ZSH Do what I mean.
