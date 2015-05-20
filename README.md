@@ -153,6 +153,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
+* [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client 
 
 # Guides
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/)
