@@ -146,6 +146,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [v](https://github.com/rupa/v) - z for vim.
 * [wego](https://github.com/schachmat/wego) - weather app for the terminal
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
+* [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
 * [z](https://github.com/rupa/z) - z is the new j, yo
 * [zsh-dwim](https://github.com/oknowton/zsh-dwim) - ZSH Do what I mean.
 * [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long running commands in zsh
