@@ -68,6 +68,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A community-driven framework for managing your zsh configuration
 * [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 * [vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
+* [zgen](https://github.com/tarjoilija/zgen) - A lightweight plugin manager for ZSH inspired by antigen, but optimized for speed when starting a new shell. Can load oh-my-zsh compatible plugins and themes.
 
 ## Writing and Testing Scripts
 
@@ -116,6 +117,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
@@ -153,7 +155,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
-* [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client 
+* [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
 
 # Guides
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/)
