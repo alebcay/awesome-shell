@@ -104,6 +104,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Other various neat gizmos to make your terminal experience more enjoyable.*
 
 * [adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
+* [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
 * [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments
@@ -116,24 +117,25 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [cv](https://github.com/Xfennec/cv) - Linux tool to show progress for cp, rm, dd, ...
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
-* [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many git extra utilities. Churn, cut-branch, improved-merge and many more.
+* [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work
-* [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - BASH History Suggest Box
 * [image-scraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
-* [jq] (https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
+* [jq](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [k](https://github.com/supercrabtree/k) - k is a zsh script to make directory listings more readable, adding git status, fileweight colors and rotting dates
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 * [mr](https://github.com/joeyh/myrepos) - Multiple Respository management tool
+* [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
 * [ncdu](http://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 * [parallel](http://www.gnu.org/software/parallel) - Build and execute shell command lines from standard input in parallel
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
+* [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
 * [sejda](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
@@ -142,6 +144,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/guille/spot) - Tiny file search utility
+* [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
 * [tmux](http://tmux.sourceforge.net/) - amazing terminal multiplexer
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
@@ -153,9 +156,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [zsh-dwim](https://github.com/oknowton/zsh-dwim) - ZSH Do what I mean.
 * [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long running commands in zsh
 * [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
-* [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
-* [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
-* [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
 
 # Guides
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/)
