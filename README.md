@@ -119,6 +119,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+* [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
