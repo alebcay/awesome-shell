@@ -71,6 +71,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [mr](https://github.com/joeyh/myrepos) - Multiple Respository management tool
+* [overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
+* [pre-commit](http://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
