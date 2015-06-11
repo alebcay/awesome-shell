@@ -195,6 +195,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [The Linux Documentation Project: Advanced Bash Scripting Guide](http://www.tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell Scripting](http://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 
 # Other Awesome Lists
