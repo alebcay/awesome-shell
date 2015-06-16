@@ -34,6 +34,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
+* [Marker](https://github.com/pindexis/marker) - Bookmark your shell commands
 * [parallel](http://www.gnu.org/software/parallel) - Build and execute shell command lines from standard input in parallel
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
