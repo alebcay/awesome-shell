@@ -147,6 +147,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
 * [oh-my-fish](https://github.com/bpinto/oh-my-fish) - Framework for managing your Fish shell configuration inspired by Oh My Zsh
+* [Wahoo](https://github.com/bucaran/wahoo) - All-purpose framework and decentralized package manager for the fishshell.
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
 
 ## Shell Script Development
