@@ -71,7 +71,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [mr](https://github.com/joeyh/myrepos) - Multiple Respository management tool
-* [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 * [overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](http://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
@@ -80,11 +79,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ## System Utilities
 
-*System administration and system debugging.*
+*OS-related tools, including system administration, system debugging, and file and process management.*
 
 * [cv](https://github.com/Xfennec/cv) - Linux tool to show progress for cp, rm, dd, ...
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 * [ncdu](http://dev.yorhel.nl/ncdu) - NCurses Disk Usage
+* [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 
 ## Downloading and Serving
