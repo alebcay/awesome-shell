@@ -41,7 +41,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [spot](https://github.com/guille/spot) - Tiny file search utility
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
-* [tmux](http://tmux.sourceforge.net/) - Amazing terminal multiplexer
+* [tmux](http://tmux.github.io/) - Amazing terminal multiplexer
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [z](https://github.com/rupa/z) - z is the new j, yo
@@ -72,7 +72,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-extras](https://github.com/visionmedia/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
-* [mr](https://github.com/joeyh/myrepos) - Multiple Respository management tool
+* [mr](https://github.com/joeyh/myrepos) - Multiple Repository management tool
 * [overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](http://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
@@ -135,7 +135,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *All work and no play is a cruddy way to spend your day.*
 
 * [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
-* [minesweeper](https://github.com/feherke/Bash-script/blob/master/minesweeper/minesweeper.sh) - Bash implementation of minesweeper
+* [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
 * [sedtris](https://github.com/uuner/sedtris) - Tetris in sed
 * [sed-scripts](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
 
