@@ -143,6 +143,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Tools for managing multiple shell configurations.*
 
 * [antigen-hs](https://github.com/Tarrasch/antigen-hs) - A replacement for antigen optimized for a low overhead when starting up the shell.
+* [antibody](https://github.com/caarlos0/antibody) - A faster and simpler replacement for antigen written in Go.
 * [bash-it](https://github.com/revans/bash-it) - A community Bash framework
 * [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
 * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
