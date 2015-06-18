@@ -41,6 +41,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [spot](https://github.com/guille/spot) - Tiny file search utility
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+* [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tmux](http://tmux.github.io/) - Amazing terminal multiplexer
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
@@ -60,6 +61,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Gogh - Color Scheme](https://github.com/Mayccoll/Elementary-OS-Terminal-Colors) - Color Scheme for Gnome Terminal
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 * [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
+* [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 
 ## For Developers
@@ -70,8 +72,10 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [dokku](https://github.com/progrium/dokku) - Docker powered mini-Heroku in around 100 lines of Bash
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/visionmedia/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
+* [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
+* [git-up](https://github.com/aanand/git-up) - Automatically rebase incoming changes instead of merging. Be polite!
 * [mr](https://github.com/joeyh/myrepos) - Multiple Repository management tool
 * [overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](http://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
