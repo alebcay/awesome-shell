@@ -1,4 +1,4 @@
-﻿# Awesome Shell
+# Awesome Shell
 
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [Awesome Bash](#awesome-bash)
@@ -26,6 +26,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [autojump](https://github.com/joelthelion/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bash-slugify](https://github.com/benlinton/bash-slugify) - Command that converts filenames and directories to a web friendly format
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+- [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
 * [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
