@@ -92,6 +92,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ncdu](http://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 * [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
+* [htop](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
+* [powertop](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 
 ## Downloading and Serving
 
