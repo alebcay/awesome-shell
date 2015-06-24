@@ -43,6 +43,7 @@
 * [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
 * [spot](https://github.com/guille/spot) - 微型的文件搜索工具
+* [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
 * [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误
