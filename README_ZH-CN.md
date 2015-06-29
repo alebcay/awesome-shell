@@ -47,7 +47,7 @@
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
 * [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误
-* [tmux](http://tmux.sourceforge.net/) - 很棒的终端复用器
+* [tmux](http://tmux.github.io/) - 很棒的终端复用器
 * [v](https://github.com/rupa/v) - 适用于 Vim 的 z
 * [wemux](https://github.com/zolrath/wemux) - 多用户使用 Tmux 变得更容易
 * [z](https://github.com/rupa/z) - z 是新的 j
