@@ -37,6 +37,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
 * [parallel](http://www.gnu.org/software/parallel) - Build and execute shell command lines from standard input in parallel
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
+* [SHML](https://github.com/MaxCDN/shml) - Style framework for the terminal (Shell Markup Language)
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/guille/spot) - Tiny file search utility
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
