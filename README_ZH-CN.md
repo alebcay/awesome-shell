@@ -41,6 +41,7 @@
 * [marker](https://github.com/pindexis/marker) - 将你的 shell 命令加到书签
 * [parallel](http://www.gnu.org/software/parallel) - 以并行化方式从标准输入构造并执行 shell 命令行
 * [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
+* [SHML](https://github.com/MaxCDN/shml) - 适用于终端的样式框架 (Shell 标记语言)
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
 * [spot](https://github.com/guille/spot) - 微型的文件搜索工具
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
