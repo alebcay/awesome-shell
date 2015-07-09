@@ -177,7 +177,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
 * [sub](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
-* [shunit2](https://code.google.com/p/shunit2/) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
+* [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 
 ## Zsh
 
