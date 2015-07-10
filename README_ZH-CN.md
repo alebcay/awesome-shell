@@ -180,7 +180,7 @@
 * [shpec](https://github.com/rylnd/shpec) - shell 测试框架
 * [sub](https://github.com/basecamp/sub) - 以美味之道来管理程序
 * [ts](https://github.com/thinkerbot/ts) - shell 测试脚本
-* [shunit2](https://code.google.com/p/shunit2/) - 适用于 Bash 脚本的单元测试框架（具有 JUnit/PyUnit 风味）
+* [shunit2](https://github.com/kward/shunit2) - 适用于 Bash 脚本的单元测试框架（具有 JUnit/PyUnit 风味）
 
 ## Zsh
 
