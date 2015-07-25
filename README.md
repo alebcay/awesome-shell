@@ -66,6 +66,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
+* [emojify](https://github.com/mrowa44/emojify) Emoji on the command line :scream:
 
 ## For Developers
 
