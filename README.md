@@ -92,6 +92,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
 * [cv](https://github.com/Xfennec/cv) - Linux tool to show progress for cp, rm, dd, ...
+* [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [htop](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 * [ncdu](http://dev.yorhel.nl/ncdu) - NCurses Disk Usage
