@@ -58,6 +58,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
 * [bashstrap](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
+* [emojify](https://github.com/mrowa44/emojify) Emoji on the command line :scream:
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Nicer colors for terminal
 * [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules
 * [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
