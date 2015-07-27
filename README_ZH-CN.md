@@ -61,6 +61,7 @@
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - 针对 Git 用户的信息及梦幻提示符
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline 风格的 Bash 提示符，纯 Bash 脚本
 * [bashstrap](https://github.com/barryclark/bashstrap) - 美化 OS X 终端的快速方法
+* [emojify](https://github.com/mrowa44/emojify) - 适用于命令行的表情 :scream:
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - 很好的终端颜色主题
 * [git-prompt](https://github.com/lvv/git-prompt) - 包含 Git、SVN 及 HG 模块的 Bash 提示符
 * [gittify](https://github.com/momeni/gittify) - 彩色的 Bash 提示符及定制的 Git 别名
@@ -95,6 +96,7 @@
 *操作系统相关工具，包括系统管理、系统调试、及文件和进程管理。*
 
 * [cv](https://github.com/Xfennec/cv) - 显示 cp、rm、dd 等命令进度的 Linux 工具
+* [glances](https://github.com/nicolargo/glances) - 系统监视之眼
 * [htop](https://github.com/hishamhm/htop) - 基于 ncurses 的交互式进程查看器，其目标是比 `top` 更好
 * [lsp](https://github.com/dborzov/lsp) - 改进的 `ls`，包含无格式语言的文件说明及智能的文件分组
 * [ncdu](http://dev.yorhel.nl/ncdu) - NCurses 磁盘占用统计
