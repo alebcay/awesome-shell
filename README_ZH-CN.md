@@ -163,6 +163,7 @@
 * [bash-it](https://github.com/revans/bash-it) - 社区化的 Bash 框架
 * [basher](https://github.com/basherpm/basher) - 针对 shell 脚本的包管理器
 * [bpkg](http://www.bpkg.io/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
+* [dotfiler](https://github.com/svetlyak40wt/dotfiler) – 使用 Python 编写的基于 Git 的 Shell dotfiles 管理器
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
 * [oh-my-fish](https://github.com/bpinto/oh-my-fish) - 用于管理 Fish shell 配置的框架，由 Oh My Zsh 获得灵感
