@@ -137,9 +137,12 @@
 
 * [ansiweather](https://github.com/fcambus/ansiweather) - 终端中的天气预报，包含 ANSI 颜色及 Unicode 符号
 * [bashblog](https://github.com/cfenollosa/bashblog) - 处理 blog 投递的 Bash 脚本
+* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 把 http://choosealicense.com 带到你的终端
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - 命令行的 Evernote 客户端
+* [isitup](https://github.com/lord63/isitup) - 检查一个网站是否正常上线
 * [jrnl](https://github.com/maebert/jrnl) - 使用无格式文本文件存储日记的简单命令行程序
 * [ledger](https://github.com/ledger/ledger) - 命令行记账
+* [licen](https://github.com/lord63/licen) - 生成项目 license
 * [pushblast](https://github.com/alebcay/pushblast) - 当 shell 程序退出时获得 PushBullet 通知
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - PushBullet API 的 Bash 接口
 * [transfer.sh](https://transfer.sh/) — 从 shell 快速上传并分享文件
