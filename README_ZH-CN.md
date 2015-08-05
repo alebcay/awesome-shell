@@ -1,4 +1,4 @@
-﻿# Awesome Shell
+﻿# Awesome Shell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 这是一份非常棒的命令行框架、工具包、指南、以及小玩意儿组织清单。由 awesome-php 获得灵感。该 awesome 收集在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu) 上也可用。
 - [Awesome Bash](#awesome-bash)
