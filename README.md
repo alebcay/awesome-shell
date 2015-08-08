@@ -174,6 +174,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for writing, improving, or organizing Bash or other shell scripts*
 
+* [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 * [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 * [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
