@@ -177,6 +177,7 @@
 
 *用于编写、改进、及管理 Bash 或其它 shell 脚本的工具。*
 
+* [assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
 * [bashful](https://github.com/jmcantrell/bashful) - 简化编写 Bash 脚本的库收集
 * [bats](https://github.com/sstephenson/bats) - Bash 自动化测试系统
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
