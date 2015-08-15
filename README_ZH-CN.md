@@ -78,6 +78,7 @@
 * [bocker](https://github.com/p8952/bocker) - 使用百行 bash 实现的 Docker
 * [cloc](http://cloc.sourceforge.net) - 统计代码行数
 * [dokku](https://github.com/progrium/dokku) - 百行 Bash 打造的 Docker 迷你 Heroku
+* [dokku-alt](https://github.com/dokku-alt/dokku-alt) - dokku 的 fork 版本，它利用覆盖最稳定的使用案例及测试良好的插件来提供完整的解决文案
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - 很多 Git 扩展工具，包括 churn、cut-branch、improved-merge 等
 * [git-extras](https://github.com/visionmedia/git-extras) - Git 工具，包括仓库摘要、repl、更改日志人数、作者提交百分比等
 * [git-open](https://github.com/paulirish/git-open) - 输入 `git open` 在浏览器中打开 GitHub 页面或仓库网站
