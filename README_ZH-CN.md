@@ -32,6 +32,7 @@
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断
 * [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式
+* [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: 具有交互式过滤功能的下一代 cd 命令
 * [fasd](https://github.com/clvv/fasd) - 命令行效率提升器，提供快速访问文件及目录
 * [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索器
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - 在命令输出中给单词着色
@@ -178,11 +179,13 @@
 
 *用于编写、改进、及管理 Bash 或其它 shell 脚本的工具。*
 
+* [ansi](https://github.com/fidian/ansi) - 使用纯 Bash 实现的 ANSI 转义码，包括更改文本颜色、定位光标等等
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
 * [bashful](https://github.com/jmcantrell/bashful) - 简化编写 Bash 脚本的库收集
 * [bats](https://github.com/sstephenson/bats) - Bash 自动化测试系统
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - 使用 50 行可移植 shell 脚本写成的命令行参数解析器
+* [mo](https://github.com/tests-always-included/mo) - 使用纯 Bash 实现的 Mustache 模板
 * [rerun](https://github.com/rerun/rerun) - 用来管理保留脚本的模块化 shell 自动化框架
 * [semver_bash](https://github.com/cloudflare/semver_bash) - 使用 Bash 实现的语义化版本
 * [shellcheck](https://github.com/koalaman/shellcheck) - 针对 shell 脚本的静态化分析工具
