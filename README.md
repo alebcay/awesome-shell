@@ -97,6 +97,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [cv](https://github.com/Xfennec/cv) - Linux tool to show progress for cp, rm, dd, ...
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [htop](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
+* [atop](http://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 * [ncdu](http://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 * [powertop](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
