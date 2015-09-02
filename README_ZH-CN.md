@@ -127,6 +127,7 @@
 * [adb-export](https://github.com/sromku/adb-export) - 导出 Android 内容提供商为 CSV 格式
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - 基于文本的 Android ROM 定制 kitchen，使用 shell 脚本并支持 Cygwin/OS X/Linux
 * [Beets](https://github.com/sampsyo/beets) - 音乐库管理器及 MusicBrainz 标签工具
+* [cmus](https://github.com/cmus/cmus) - 跨平台的命令行音乐播放器
 * [image-scraper](https://github.com/sananth12/ImageScraper) - 包含诸多特性的酷命令行图像 scraper
 * [jq](https://github.com/stedolan/jq) - 针对 json 数据的 Sed，你可以使用它分片、过滤、映射及变换结构化数据
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST 将你的 35 刀 Raspberry Pi 变成类 Chromecast 设备
