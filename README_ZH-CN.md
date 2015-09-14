@@ -97,6 +97,7 @@
 
 *操作系统相关工具，包括系统管理、系统调试、及文件和进程管理。*
 
+* [atop](http://www.atoptool.nl) - 能够报告所有进程活动的 ASCII 全屏性能监视器
 * [cv](https://github.com/Xfennec/cv) - 显示 cp、rm、dd 等命令进度的 Linux 工具
 * [glances](https://github.com/nicolargo/glances) - 系统监视之眼
 * [htop](https://github.com/hishamhm/htop) - 基于 ncurses 的交互式进程查看器，其目标是比 `top` 更好
