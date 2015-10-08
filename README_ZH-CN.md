@@ -62,6 +62,7 @@
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - 针对 Git 用户的信息及梦幻提示符
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline 风格的 Bash 提示符，纯 Bash 脚本
 * [bashstrap](https://github.com/barryclark/bashstrap) - 美化 OS X 终端的快速方法
+* [bullet-train-oh-my-zsh-theme](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme) - :bullettrain_side: 基于 Powerline Vim 插件的 oh-my-zsh shell 主题
 * [emojify](https://github.com/mrowa44/emojify) - 适用于命令行的表情 :scream:
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - 很好的终端颜色主题
 * [git-prompt](https://github.com/lvv/git-prompt) - 包含 Git、SVN 及 HG 模块的 Bash 提示符
@@ -77,7 +78,7 @@
 *命令行开发、版本控制、以及部署。*
 
 * [bocker](https://github.com/p8952/bocker) - 使用百行 bash 实现的 Docker
-* [cloc](http://cloc.sourceforge.net) - 统计代码行数
+* [cloc](https://github.com/AlDanial/cloc) - 统计代码行数
 * [dokku](https://github.com/progrium/dokku) - 百行 Bash 打造的 Docker 迷你 Heroku
 * [dokku-alt](https://github.com/dokku-alt/dokku-alt) - dokku 的 fork 版本，它利用覆盖最稳定的使用案例及测试良好的插件来提供完整的解决文案
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - 很多 Git 扩展工具，包括 churn、cut-branch、improved-merge 等
@@ -142,6 +143,7 @@
 * [ansiweather](https://github.com/fcambus/ansiweather) - 终端中的天气预报，包含 ANSI 颜色及 Unicode 符号
 * [bashblog](https://github.com/cfenollosa/bashblog) - 处理 blog 投递的 Bash 脚本
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 把 http://choosealicense.com 带到你的终端
+* [facy](https://github.com/huydx/facy) - 命令行下的 Facebook 客户端
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - 命令行的 Evernote 客户端
 * [isitup](https://github.com/lord63/isitup) - 检查一个网站是否正常上线
 * [jrnl](https://github.com/maebert/jrnl) - 使用无格式文本文件存储日记的简单命令行程序
