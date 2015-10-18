@@ -150,6 +150,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
+* [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
 
