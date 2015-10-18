@@ -39,7 +39,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
 * [parallel](http://www.gnu.org/software/parallel) - Build and execute shell command lines from standard input in parallel
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
-* [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 * [SHML](https://github.com/MaxCDN/shml) - Style framework for the terminal (Shell Markup Language)
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/guille/spot) - Tiny file search utility
@@ -149,6 +148,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
+* [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
 
