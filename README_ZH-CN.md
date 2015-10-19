@@ -41,6 +41,7 @@
 * [k](https://github.com/supercrabtree/k) - k 是一个使目录列表更可读的 Zsh 脚本，它增添了 Git 状态、文件颜色、以及腐朽的日期
 * [marker](https://github.com/pindexis/marker) - 将你的 shell 命令加到书签
 * [parallel](http://www.gnu.org/software/parallel) - 以并行化方式从标准输入构造并执行 shell 命令行
+* [pathpicker](https://github.com/facebook/PathPicker) - 允许将 grep、搜索、git 等的输出结果作为输入，并提供友好的选择界面，以便打开或作为命令的参数
 * [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
 * [SHML](https://github.com/MaxCDN/shml) - 适用于终端的样式框架 (Shell 标记语言)
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
@@ -132,6 +133,7 @@
 * [cmus](https://github.com/cmus/cmus) - 跨平台的命令行音乐播放器
 * [image-scraper](https://github.com/sananth12/ImageScraper) - 包含诸多特性的酷命令行图像 scraper
 * [jq](https://github.com/stedolan/jq) - 针对 json 数据的 Sed，你可以使用它分片、过滤、映射及变换结构化数据
+* [mplayer](http://www.mplayerhq.hu/design7/news.html) - 让你在 shell 中播放主流的音频及视频格式（使用 ASCII 字符）
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST 将你的 35 刀 Raspberry Pi 变成类 Chromecast 设备
 * [sejda](https://github.com/torakiki/sejda/) - 命令行下的 PDF 文档处理工具（分割、合并、旋转、转换为 jpg、提取文本等）
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - 古老而强大的命令行 XML 格式化、过滤及处理工具
@@ -151,6 +153,7 @@
 * [licen](https://github.com/lord63/licen) - 生成项目 license
 * [pushblast](https://github.com/alebcay/pushblast) - 当 shell 程序退出时获得 PushBullet 通知
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - PushBullet API 的 Bash 接口
+* [SAWS](https://github.com/donnemartin/saws) - 超强的 AWS 命令行界面
 * [transfer.sh](https://transfer.sh/) — 从 shell 快速上传并分享文件
 * [wego](https://github.com/schachmat/wego) - 适用于终端的天气预报应用
 
