@@ -144,6 +144,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Bring http://choosealicense.com to your terminal
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
+* [iponmap](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup](https://github.com/lord63/isitup) - Check whether a website is up or down
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
