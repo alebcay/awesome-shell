@@ -147,6 +147,7 @@
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 把 http://choosealicense.com 带到你的终端
 * [facy](https://github.com/huydx/facy) - 命令行下的 Facebook 客户端
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - 命令行的 Evernote 客户端
+* [iponmap](https://github.com/nogizhopaboroda/iponmap) - 利用 IP 地址在世界地图上绘点
 * [isitup](https://github.com/lord63/isitup) - 检查一个网站是否正常上线
 * [jrnl](https://github.com/maebert/jrnl) - 使用无格式文本文件存储日记的简单命令行程序
 * [ledger](https://github.com/ledger/ledger) - 命令行记账
