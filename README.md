@@ -13,6 +13,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 	- [Shell Package Management](#shell-package-management)
 	- [Shell Script Development](#shell-script-development)
 	- [Zsh](#zsh)
+	- [Fish](#fish)
 - [Guides](#guides)
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -222,6 +223,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - A Zsh prompt based on the powerline font from the popular vim plugin
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh
 
+
+## Fish
+
+*Tools and customizations specifically for Fish.*
+
+* [fish-tmpdir](https://github.com/eush77/fish-tmpdir) - Fresh, one-time temporary directories for Fish.
 
 # Guides
 
