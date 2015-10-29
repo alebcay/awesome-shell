@@ -13,6 +13,7 @@
     - [Shell 包管理](#shell-包管理)
     - [Shell 脚本开发](#shell-脚本开发)
     - [Zsh](#zsh)
+	- [Fish](#fish)
 - [指南](#指南)
 - [其它 Awesome 清单](#其它-awesome-清单)
 
@@ -224,6 +225,13 @@
 * [zsh-notify](https://github.com/marzocchi/zsh-notify) - 适用于在 Zsh 中长时运行命令的桌面通知
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - 基于 powerline 字体（来自流行的 Vim 插件）的 Zsh 提示符
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - 针对 Zsh 的类 Fish shell 语法着色功能
+
+
+## Fish
+
+*特别针对 Fish 的工具及定制。*
+
+* [fish-tmpdir](https://github.com/eush77/fish-tmpdir) - 适用于 Fish 的新的一次性临时目录
 
 
 # 指南
