@@ -41,6 +41,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [parallel](http://www.gnu.org/software/parallel) - Build and execute shell command lines from standard input in parallel
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as arguement to a command.
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
+* [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [SHML](https://github.com/MaxCDN/shml) - Style framework for the terminal (Shell Markup Language)
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/guille/spot) - Tiny file search utility
