@@ -159,6 +159,7 @@
 * [SAWS](https://github.com/donnemartin/saws) - 超强的 AWS 命令行界面
 * [transfer.sh](https://transfer.sh/) — 从 shell 快速上传并分享文件
 * [wego](https://github.com/schachmat/wego) - 适用于终端的天气预报应用
+* [fanyi](https://github.com/afc163/fanyi) - 翻译英文为中文的命令行工具
 
 ## 游戏
 
