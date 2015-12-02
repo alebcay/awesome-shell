@@ -13,7 +13,7 @@
     - [Shell 包管理](#shell-包管理)
     - [Shell 脚本开发](#shell-脚本开发)
     - [Zsh](#zsh)
-	- [Fish](#fish)
+    - [Fish](#fish)
 - [指南](#指南)
 - [其它 Awesome 清单](#其它-awesome-清单)
 
@@ -30,6 +30,7 @@
 * [autojump](https://github.com/joelthelion/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录
 * [bash-slugify](https://github.com/benlinton/bash-slugify) - 将文件名及目录转换为 web 友好的格式
 * [bashmarks](https://github.com/huyng/bashmarks) - 适用于 shell 的目录书签
+* [bd](https://github.com/vigneshwaranr/bd) - 迅速回到父目录
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断
 * [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式
@@ -44,6 +45,7 @@
 * [parallel](http://www.gnu.org/software/parallel) - 以并行化方式从标准输入构造并执行 shell 命令行
 * [pathpicker](https://github.com/facebook/PathPicker) - 允许将 grep、搜索、git 等的输出结果作为输入，并提供友好的选择界面，以便打开或作为命令的参数
 * [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
+* [qfc](https://github.com/pindexis/qfc) - 针对 Bash 和 Zsh 的文件补全 widget
 * [SHML](https://github.com/MaxCDN/shml) - 适用于终端的样式框架 (Shell 标记语言)
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
 * [spot](https://github.com/guille/spot) - 微型的文件搜索工具
