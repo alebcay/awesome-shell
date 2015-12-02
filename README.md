@@ -27,6 +27,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [autojump](https://github.com/joelthelion/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bash-slugify](https://github.com/benlinton/bash-slugify) - Command that converts filenames and directories to a web friendly format
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+* [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 - [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
 * [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
@@ -39,8 +40,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
 * [parallel](http://www.gnu.org/software/parallel) - Build and execute shell command lines from standard input in parallel
-* [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as arguement to a command.
+* [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
+* [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [SHML](https://github.com/MaxCDN/shml) - Style framework for the terminal (Shell Markup Language)
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/guille/spot) - Tiny file search utility
