@@ -218,6 +218,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast Zsh prompt
 * [zgen](https://github.com/tarjoilija/zgen) - A lightweight plugin manager for Zsh inspired by antigen, but optimized for speed when starting a new shell. Can load oh-my-zsh compatible plugins and themes.
+* [zplug](https://github.com/b4b4r07/zplug) - :hibiscus: A next-generation plugin manager for zsh
 * [zsh-autosuggestions](https://github.com/tarruda/zsh-autosuggestions) - Fish-like autosuggestions for Zsh
 * [zsh-dwim](https://github.com/oknowton/zsh-dwim) - Zsh do what I mean.
 * [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative Git prompt for Zsh
