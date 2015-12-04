@@ -171,10 +171,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ## Shell Package Management
 
-*Tools for managing multiple shell configurations.*
+*Tools for managing multiple shell configurations. For zsh-specific tools, see the Zsh section.*
 
-* [antigen-hs](https://github.com/Tarrasch/antigen-hs) - A replacement for antigen optimized for a low overhead when starting up the shell.
-* [antibody](https://github.com/caarlos0/antibody) - A faster and simpler replacement for antigen written in Go.
 * [bash-it](https://github.com/revans/bash-it) - A community Bash framework
 * [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
 * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
@@ -209,6 +207,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools and customizations specifically for Zsh.*
 
+* [antigen-hs](https://github.com/Tarrasch/antigen-hs) - A replacement for antigen optimized for a low overhead when starting up the shell.
+* [antibody](https://github.com/caarlos0/antibody) - A faster and simpler replacement for antigen written in Go.
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of Zsh plugins usable with antigen, dotzsh, oh-my-zsh & prezto.
 * [antigen](https://github.com/zsh-users/antigen) - A plugin manager for Zsh, inspired by oh-my-zsh and vundle
 * [dotzsh](https://github.com/dotphiles/dotzsh) - dotzsh strives to be platform and version independent, some functionality may be lost when running under older versions of Zsh, but it should degrade cleanly and allow you to use the same setup on multiple machines of differing OS's without problems.
