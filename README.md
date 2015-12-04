@@ -184,7 +184,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [oh-my-fish](https://github.com/bpinto/oh-my-fish) - Framework for managing your Fish shell configuration inspired by Oh My Zsh
 * [Wahoo](https://github.com/bucaran/wahoo) - All-purpose framework and decentralized package manager for the fishshell.
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
-* [zplug](https://github.com/b4b4r07/zplug) - :hibiscus: A next-generation plugin manager for zsh
 
 ## Shell Script Development
 
