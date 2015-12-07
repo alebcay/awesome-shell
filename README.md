@@ -192,6 +192,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+* [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
