@@ -174,10 +174,8 @@
 
 ## Shell 包管理
 
-*用于管理多个 shell 配置的工具。*
+*用于管理多个 shell 配置的工具。对于特定的 zsh 工具，参阅 Zsh 节。*
 
-* [antigen-hs](https://github.com/Tarrasch/antigen-hs) - 针对启动 shell 时低开销进行优化的 antigen 替代品
-* [antibody](https://github.com/caarlos0/antibody) - 使用 Go 编写的更快且更简单的 antigen 替代品
 * [bash-it](https://github.com/revans/bash-it) - 社区化的 Bash 框架
 * [basher](https://github.com/basherpm/basher) - 针对 shell 脚本的包管理器
 * [bpkg](http://www.bpkg.io/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
@@ -199,6 +197,7 @@
 * [bats](https://github.com/sstephenson/bats) - Bash 自动化测试系统
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - 使用 50 行可移植 shell 脚本写成的命令行参数解析器
+* [Fishtape](https://github.com/fisherman/fishtape) - 适用于 fish 的 TAP 生产者及测试工具
 * [mo](https://github.com/tests-always-included/mo) - 使用纯 Bash 实现的 Mustache 模板
 * [rerun](https://github.com/rerun/rerun) - 用来管理保留脚本的模块化 shell 自动化框架
 * [semver_bash](https://github.com/cloudflare/semver_bash) - 使用 Bash 实现的语义化版本
@@ -212,6 +211,8 @@
 
 *特别针对 Zsh 的工具及定制。*
 
+* [antigen-hs](https://github.com/Tarrasch/antigen-hs) - 针对启动 shell 时低开销进行优化的 antigen 替代品
+* [antibody](https://github.com/caarlos0/antibody) - 使用 Go 编写的更快且更简单的 antigen 替代品
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - 可用于 antigen、dotzsh、oh-my-zsh 及 prezto 的 Zsh 插件列表
 * [antigen](https://github.com/zsh-users/antigen) - 适用于 Zsh 的插件管理器，由 oh-my-zsh 及 vundle 获得灵感
 * [dotzsh](https://github.com/dotphiles/dotzsh) - dotzsh 力争变成平台和版本独立，在 Zsh 旧版本下运行时可能缺少某些功能，但它让你在多个不同的系统上使用相同的设置而没问题
@@ -221,6 +222,7 @@
 * [prezto](https://github.com/sorin-ionescu/prezto) - 针对 Zsh 的配置框架
 * [pure](https://github.com/sindresorhus/pure) - 漂亮、极简、及快速的 Zsh 提示符
 * [zgen](https://github.com/tarjoilija/zgen) - 适用于 Zsh 的轻量级插件管理器，由 antigen 获得灵感，但为启动新的 shell 时优化了速度，可载入 oh-my-zsh 兼容的插件和主题
+* [zplug](https://github.com/b4b4r07/zplug) - :hibiscus: 针对 zsh 的下一代插件管理器
 * [zsh-autosuggestions](https://github.com/tarruda/zsh-autosuggestions) - 适用于 Zsh 的类 Fish 自动建议
 * [zsh-dwim](https://github.com/oknowton/zsh-dwim) - Zsh 照我之意做
 * [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - 针对 Zsh 的 Git 信息提示符
