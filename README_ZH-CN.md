@@ -27,7 +27,7 @@
 
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串
 * [autoenv](https://github.com/kennethreitz/autoenv) - 基于目录的环境
-* [autojump](https://github.com/joelthelion/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录
+* [autojump](https://github.com/wting/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录
 * [bash-slugify](https://github.com/benlinton/bash-slugify) - 将文件名及目录转换为 web 友好的格式
 * [bashmarks](https://github.com/huyng/bashmarks) - 适用于 shell 的目录书签
 * [bd](https://github.com/vigneshwaranr/bd) - 迅速回到父目录
@@ -40,15 +40,15 @@
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - 在命令输出中给单词着色
 * [hr](https://github.com/LuRsT/hr) - 适用于终端的 `<hr />`
 * [hstr](https://github.com/dvorka/hstr) - Bash 历史建议框
-* [k](https://github.com/supercrabtree/k) - k 是一个使目录列表更可读的 Zsh 脚本，它增添了 Git 状态、文件颜色、以及腐朽的日期
+* [k](https://github.com/rimraf/k) - k 是一个使目录列表更可读的 Zsh 脚本，它增添了 Git 状态、文件颜色、以及腐朽的日期
 * [marker](https://github.com/pindexis/marker) - 将你的 shell 命令加到书签
-* [parallel](http://www.gnu.org/software/parallel) - 以并行化方式从标准输入构造并执行 shell 命令行
+* [parallel](http://www.gnu.org/software/parallel/) - 以并行化方式从标准输入构造并执行 shell 命令行
 * [pathpicker](https://github.com/facebook/PathPicker) - 允许将 grep、搜索、git 等的输出结果作为输入，并提供友好的选择界面，以便打开或作为命令的参数
 * [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
 * [qfc](https://github.com/pindexis/qfc) - 针对 Bash 和 Zsh 的文件补全 widget
 * [SHML](https://github.com/MaxCDN/shml) - 适用于终端的样式框架 (Shell 标记语言)
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
-* [spot](https://github.com/guille/spot) - 微型的文件搜索工具
+* [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
@@ -71,7 +71,7 @@
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - 很好的终端颜色主题
 * [git-prompt](https://github.com/lvv/git-prompt) - 包含 Git、SVN 及 HG 模块的 Bash 提示符
 * [gittify](https://github.com/momeni/gittify) - 彩色的 Bash 提示符及定制的 Git 别名
-* [Gogh - Color Scheme](https://github.com/Mayccoll/Elementary-OS-Terminal-Colors) - 适用于 GNOME 终端的颜色主题
+* [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - 适用于 GNOME 终端的颜色主题
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - 针对 Bash 和 Zsh 的全功能及用心设计的自适应提示符
 * [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  彩色的 MySQL 命令行客户端
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - 针对 Bash 和 Zsh 的自用 Git 提示符
@@ -83,10 +83,10 @@
 
 * [bocker](https://github.com/p8952/bocker) - 使用百行 bash 实现的 Docker
 * [cloc](https://github.com/AlDanial/cloc) - 统计代码行数
-* [dokku](https://github.com/progrium/dokku) - 百行 Bash 打造的 Docker 迷你 Heroku
+* [dokku](https://github.com/dokku/dokku) - 百行 Bash 打造的 Docker 迷你 Heroku
 * [dokku-alt](https://github.com/dokku-alt/dokku-alt) - dokku 的 fork 版本，它利用覆盖最稳定的使用案例及测试良好的插件来提供完整的解决文案
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - 很多 Git 扩展工具，包括 churn、cut-branch、improved-merge 等
-* [git-extras](https://github.com/visionmedia/git-extras) - Git 工具，包括仓库摘要、repl、更改日志人数、作者提交百分比等
+* [git-extras](https://github.com/tj/git-extras) - Git 工具，包括仓库摘要、repl、更改日志人数、作者提交百分比等
 * [git-open](https://github.com/paulirish/git-open) - 输入 `git open` 在浏览器中打开 GitHub 页面或仓库网站
 * [git-semver](https://github.com/markchalloner/git-semver) - 用来方便的语义化版本及更改日志验证的 Git 插件
 * [git-sh](https://github.com/rtomayko/git-sh) - 适合 Git 工作的定制 Bash 环境
@@ -103,12 +103,12 @@
 *操作系统相关工具，包括系统管理、系统调试、及文件和进程管理。*
 
 * [atop](http://www.atoptool.nl) - 能够报告所有进程活动的 ASCII 全屏性能监视器
-* [cv](https://github.com/Xfennec/cv) - 显示 cp、rm、dd 等命令进度的 Linux 工具
+* [cv](https://github.com/Xfennec/progress) - 显示 cp、rm、dd 等命令进度的 Linux 工具
 * [glances](https://github.com/nicolargo/glances) - 系统监视之眼
 * [htop](https://github.com/hishamhm/htop) - 基于 ncurses 的交互式进程查看器，其目标是比 `top` 更好
 * [lnav](http://lnav.org) - 小型的高级日志文件查看器
 * [lsp](https://github.com/dborzov/lsp) - 改进的 `ls`，包含无格式语言的文件说明及智能的文件分组
-* [ncdu](http://dev.yorhel.nl/ncdu) - NCurses 磁盘占用统计
+* [ncdu](https://dev.yorhel.nl/ncdu) - NCurses 磁盘占用统计
 * [powertop](https://github.com/fenrus75/powertop) - 电池/电源占用及设备状态监视命令行工具，包含调整选项
 * [procdog](https://github.com/jlevy/procdog) - 轻量级的命令行控制类似服务器的长实时进程
 * [quick-secure](https://github.com/marshyski/quick-secure) - 快速的安全并加固 UNIX/Linux 系统
@@ -122,7 +122,7 @@
 * [bashttpd](https://github.com/avleen/bashttpd) - 使用 Bash 编写的 web 服务器
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" 或 "双向目录同步（含正确删除）"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader 是用来从 Dropbox 上传、下载、列出或删除文件的 Bash 脚本
-* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
+* [httpie](https://github.com/jkbrzt/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
 * [youtube-dl](https://github.com/rg3/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
@@ -176,14 +176,14 @@
 
 *用于管理多个 shell 配置的工具。对于特定的 zsh 工具，参阅 Zsh 节。*
 
-* [bash-it](https://github.com/revans/bash-it) - 社区化的 Bash 框架
+* [bash-it](https://github.com/Bash-it/bash-it) - 社区化的 Bash 框架
 * [basher](https://github.com/basherpm/basher) - 针对 shell 脚本的包管理器
 * [bpkg](http://www.bpkg.io/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – 使用 Python 编写的基于 Git 的 Shell dotfiles 管理器
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
 * [oh-my-fish](https://github.com/bpinto/oh-my-fish) - 用于管理 Fish shell 配置的框架，由 Oh My Zsh 获得灵感
-* [Wahoo](https://github.com/bucaran/wahoo) - 适用于 Fish shell 的全功能框架及去中心化包管理器
+* [Wahoo](https://github.com/wa/wahoo) - 适用于 Fish shell 的全功能框架及去中心化包管理器
 * [vcsh](https://github.com/RichiH/vcsh) - 基于 Git 的配置管理器
 
 ## Shell 脚本开发
@@ -247,7 +247,7 @@
 * [Google 的 Shell 风格指南](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 * [Linux 文档项目: Bash 编程 - 简介/如何做](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
 * [Linux 文档项目: 高级 Bash 脚本指南](http://www.tldp.org/LDP/abs/html/)
-* [WikiBooks: Bash Shell 脚本](http://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+* [WikiBooks: Bash Shell 脚本](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [使用非官方的 Bash 严格模式 (除非你爱调试)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
 

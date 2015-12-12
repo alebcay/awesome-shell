@@ -24,7 +24,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments
-* [autojump](https://github.com/joelthelion/autojump) - A cd command that learns - easily navigate directories from the command line
+* [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bash-slugify](https://github.com/benlinton/bash-slugify) - Command that converts filenames and directories to a web friendly format
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
@@ -37,15 +37,15 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
-* [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
+* [k](https://github.com/rimraf/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
-* [parallel](http://www.gnu.org/software/parallel) - Build and execute shell command lines from standard input in parallel
+* [parallel](http://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [SHML](https://github.com/MaxCDN/shml) - Style framework for the terminal (Shell Markup Language)
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
-* [spot](https://github.com/guille/spot) - Tiny file search utility
+* [spot](https://github.com/rauchg/spot) - Tiny file search utility
 - [snips](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
@@ -68,7 +68,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Nicer colors for terminal
 * [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules
 * [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
-* [Gogh - Color Scheme](https://github.com/Mayccoll/Elementary-OS-Terminal-Colors) - Color Scheme for Gnome Terminal
+* [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 * [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
@@ -80,10 +80,10 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code
-* [dokku](https://github.com/progrium/dokku) - Docker powered mini-Heroku in around 100 lines of Bash.
+* [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku in around 100 lines of Bash.
 * [dokku-alt](https://github.com/dokku-alt/dokku-alt) - It's a fork of the original dokku. The idea behind this fork is to provide complete solution with plugins covering most use-cases which are stable and well tested.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
-* [git-extras](https://github.com/visionmedia/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
+* [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
@@ -100,12 +100,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
 * [atop](http://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
-* [cv](https://github.com/Xfennec/cv) - Linux tool to show progress for cp, rm, dd, ...
+* [cv](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, rm, dd, ...
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [htop](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
 * [lnav](http://lnav.org) - An advanced log file viewer for the small-scale
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
-* [ncdu](http://dev.yorhel.nl/ncdu) - NCurses Disk Usage
+* [ncdu](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 * [powertop](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 * [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
@@ -119,7 +119,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
-* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
+* [httpie](https://github.com/jkbrzt/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
@@ -173,14 +173,14 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for managing multiple shell configurations. For zsh-specific tools, see the Zsh section.*
 
-* [bash-it](https://github.com/revans/bash-it) - A community Bash framework
+* [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework
 * [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
 * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
 * [oh-my-fish](https://github.com/bpinto/oh-my-fish) - Framework for managing your Fish shell configuration inspired by Oh My Zsh
-* [Wahoo](https://github.com/bucaran/wahoo) - All-purpose framework and decentralized package manager for the fishshell.
+* [Wahoo](https://github.com/wa/wahoo) - All-purpose framework and decentralized package manager for the fishshell.
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
 
 ## Shell Script Development
@@ -244,7 +244,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Google's Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 * [The Linux Documentation Project: Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
 * [The Linux Documentation Project: Advanced Bash Scripting Guide](http://www.tldp.org/LDP/abs/html/)
-* [WikiBooks: Bash Shell Scripting](http://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+* [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
