@@ -180,7 +180,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
-* [oh-my-fish](https://github.com/bpinto/oh-my-fish) - Framework for managing your Fish shell configuration inspired by Oh My Zsh
+* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your Fish shell configuration inspired by Oh My Zsh
 * [Wahoo](https://github.com/wa/wahoo) - All-purpose framework and decentralized package manager for the fishshell.
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
 
