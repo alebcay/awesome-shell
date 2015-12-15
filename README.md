@@ -31,6 +31,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 - [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
 * [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+* [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
