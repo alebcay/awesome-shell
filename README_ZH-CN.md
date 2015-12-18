@@ -34,6 +34,7 @@
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断
 * [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式
+* [desk](https://github.com/jamesob/desk) - 适用于 shell 的轻量级工作区管理器
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: 具有交互式过滤功能的下一代 cd 命令
 * [fasd](https://github.com/clvv/fasd) - 命令行效率提升器，提供快速访问文件及目录
 * [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索器
@@ -182,7 +183,7 @@
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – 使用 Python 编写的基于 Git 的 Shell dotfiles 管理器
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
-* [oh-my-fish](https://github.com/bpinto/oh-my-fish) - 用于管理 Fish shell 配置的框架，由 Oh My Zsh 获得灵感
+* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 用于管理 Fish shell 配置的框架，由 Oh My Zsh 获得灵感
 * [Wahoo](https://github.com/wa/wahoo) - 适用于 Fish shell 的全功能框架及去中心化包管理器
 * [vcsh](https://github.com/RichiH/vcsh) - 基于 Git 的配置管理器
 
