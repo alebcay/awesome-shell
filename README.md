@@ -28,6 +28,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash-slugify](https://github.com/benlinton/bash-slugify) - Command that converts filenames and directories to a web friendly format
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
+* [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 - [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
 * [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
