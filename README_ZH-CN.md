@@ -31,6 +31,7 @@
 * [bash-slugify](https://github.com/benlinton/bash-slugify) - 将文件名及目录转换为 web 友好的格式
 * [bashmarks](https://github.com/huyng/bashmarks) - 适用于 shell 的目录书签
 * [bd](https://github.com/vigneshwaranr/bd) - 迅速回到父目录
+* [boilr](https://github.com/tmrts/boilr) - 从 boilerplate 模板创建项目的超快命令行工具
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断
 * [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式
