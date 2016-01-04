@@ -110,6 +110,7 @@
 * [htop](https://github.com/hishamhm/htop) - 基于 ncurses 的交互式进程查看器，其目标是比 `top` 更好
 * [lnav](http://lnav.org) - 小型的高级日志文件查看器
 * [lsp](https://github.com/dborzov/lsp) - 改进的 `ls`，包含无格式语言的文件说明及智能的文件分组
+* [mtr](https://github.com/traviscross/mtr) - traceroute 和 ping 功能合二为一的网络诊断工具
 * [ncdu](https://dev.yorhel.nl/ncdu) - NCurses 磁盘占用统计
 * [powertop](https://github.com/fenrus75/powertop) - 电池/电源占用及设备状态监视命令行工具，包含调整选项
 * [procdog](https://github.com/jlevy/procdog) - 轻量级的命令行控制类似服务器的长实时进程
