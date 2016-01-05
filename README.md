@@ -90,6 +90,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [git-up](https://github.com/aanand/git-up) - Automatically rebase incoming changes instead of merging. Be polite!
+* [hub](https://github.com/github/hub) - hub helps you win at git.
 * [mr](https://github.com/joeyh/myrepos) - Multiple Repository management tool
 * [overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](http://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
