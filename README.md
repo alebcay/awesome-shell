@@ -178,6 +178,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
+* [Fisherman](https://github.com/fisherman/fisherman) - Fish Shell Plugin Manager 
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
 * [oh-my-fish](https://github.com/bpinto/oh-my-fish) - Framework for managing your Fish shell configuration inspired by Oh My Zsh
 * [Wahoo](https://github.com/bucaran/wahoo) - All-purpose framework and decentralized package manager for the fishshell.
