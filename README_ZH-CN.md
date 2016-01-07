@@ -186,7 +186,7 @@
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 用于管理 Fish shell 配置的框架，由 Oh My Zsh 获得灵感
-* [Wahoo](https://github.com/wa/wahoo) - 适用于 Fish shell 的全功能框架及去中心化包管理器
+* [Wahoo](https://github.com/bucaran/wahoo) - 适用于 Fish shell 的全功能框架及去中心化包管理器
 * [vcsh](https://github.com/RichiH/vcsh) - 基于 Git 的配置管理器
 
 ## Shell 脚本开发
@@ -195,7 +195,7 @@
 
 * [ansi](https://github.com/fidian/ansi) - 使用纯 Bash 实现的 ANSI 转义码，包括更改文本颜色、定位光标等等
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
-* [bashful](https://github.com/jmcantrell/bashful) - 简化编写 Bash 脚本的库收集
+* [bashful](https://github.com/unterzicht/bashful) - 简化编写 Bash 脚本的库收集
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - 用来创建命令行工具的微型 Bash 框架
 * [bats](https://github.com/sstephenson/bats) - Bash 自动化测试系统
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数

@@ -185,7 +185,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your Fish shell configuration inspired by Oh My Zsh
-* [Wahoo](https://github.com/wa/wahoo) - All-purpose framework and decentralized package manager for the fishshell.
+* [Wahoo](https://github.com/bucaran/wahoo) - All-purpose framework and decentralized package manager for the fishshell.
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
 
 ## Shell Script Development
@@ -194,7 +194,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
-* [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+* [bashful](https://github.com/unterzicht/bashful) - A collection of libraries to simplify writing Bash scripts
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish
