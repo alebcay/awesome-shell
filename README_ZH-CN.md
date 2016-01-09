@@ -93,6 +93,7 @@
 * [git-semver](https://github.com/markchalloner/git-semver) - 用来方便的语义化版本及更改日志验证的 Git 插件
 * [git-sh](https://github.com/rtomayko/git-sh) - 适合 Git 工作的定制 Bash 环境
 * [git-up](https://github.com/aanand/git-up) - 自动变基进来的更改代替合并，优雅！
+* [hub](https://github.com/github/hub) - 更易使用 GitHub 的命令行工具
 * [mr](https://github.com/joeyh/myrepos) - 多仓库管理工具
 * [overcommit](https://github.com/brigade/overcommit) - 完全可配置且可扩展的 Git hook 管理器
 * [pre-commit](http://pre-commit.com) - 用于管理及维护多语言 pre-commit hooks 的框架
@@ -107,6 +108,7 @@
 * [atop](http://www.atoptool.nl) - 能够报告所有进程活动的 ASCII 全屏性能监视器
 * [cv](https://github.com/Xfennec/progress) - 显示 cp、rm、dd 等命令进度的 Linux 工具
 * [glances](https://github.com/nicolargo/glances) - 系统监视之眼
+* [goaccess](https://github.com/allinurl/goaccess) - 运行于 \*nix 系统终端中的实时 web 日志分析器及交互式查看器
 * [htop](https://github.com/hishamhm/htop) - 基于 ncurses 的交互式进程查看器，其目标是比 `top` 更好
 * [lnav](http://lnav.org) - 小型的高级日志文件查看器
 * [lsp](https://github.com/dborzov/lsp) - 改进的 `ls`，包含无格式语言的文件说明及智能的文件分组
@@ -184,6 +186,7 @@
 * [bpkg](http://www.bpkg.io/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – 使用 Python 编写的基于 Git 的 Shell dotfiles 管理器
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
+* [Fisherman](https://github.com/fisherman/fisherman) - Fish Shell 插件管理器
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 用于管理 Fish shell 配置的框架，由 Oh My Zsh 获得灵感
 * [Wahoo](https://github.com/bucaran/wahoo) - 适用于 Fish shell 的全功能框架及去中心化包管理器
