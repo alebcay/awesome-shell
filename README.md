@@ -1,4 +1,4 @@
-# Awesome Shell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [Awesome Bash](#awesome-bash)
@@ -12,10 +12,13 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 	- [Games](#games)
 	- [Shell Package Management](#shell-package-management)
 	- [Shell Script Development](#shell-script-development)
-	- [Zsh](#zsh)
-	- [Fish](#fish)
 - [Guides](#guides)
+- [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
+- [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
 - [Other Awesome Lists](#other-awesome-lists)
+
+
+# Awesome Bash
 
 
 ## Command-Line Productivity
@@ -183,10 +186,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
-* [Fisherman](https://github.com/fisherman/fisherman) - Fish Shell Plugin Manager 
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
-* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your Fish shell configuration inspired by Oh My Zsh
-* [Wahoo](https://github.com/bucaran/wahoo) - All-purpose framework and decentralized package manager for the fishshell.
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
 
 ## Shell Script Development
@@ -198,7 +198,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashful](https://github.com/unterzicht/bashful) - A collection of libraries to simplify writing Bash scripts
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
-* [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
@@ -210,37 +209,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 
-## Zsh
-
-*Tools and customizations specifically for Zsh.*
-
-* [antigen-hs](https://github.com/Tarrasch/antigen-hs) - A replacement for antigen optimized for a low overhead when starting up the shell.
-* [antibody](https://github.com/caarlos0/antibody) - A faster and simpler replacement for antigen written in Go.
-* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of Zsh plugins usable with antigen, dotzsh, oh-my-zsh & prezto.
-* [antigen](https://github.com/zsh-users/antigen) - A plugin manager for Zsh, inspired by oh-my-zsh and vundle
-* [dotzsh](https://github.com/dotphiles/dotzsh) - dotzsh strives to be platform and version independent, some functionality may be lost when running under older versions of Zsh, but it should degrade cleanly and allow you to use the same setup on multiple machines of differing OS's without problems.
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A community-driven framework for managing your Zsh configuration
-* [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: `165392` → `1d 21h 56m 32s`
-* [powerline-zsh](https://github.com/carlcarl/powerline-zsh) - Powerline for Zsh
-* [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-* [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast Zsh prompt
-* [zgen](https://github.com/tarjoilija/zgen) - A lightweight plugin manager for Zsh inspired by antigen, but optimized for speed when starting a new shell. Can load oh-my-zsh compatible plugins and themes.
-* [zplug](https://github.com/b4b4r07/zplug) - :hibiscus: A next-generation plugin manager for zsh
-* [zsh-autosuggestions](https://github.com/tarruda/zsh-autosuggestions) - Fish-like autosuggestions for Zsh
-* [zsh-dwim](https://github.com/oknowton/zsh-dwim) - Zsh do what I mean.
-* [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative Git prompt for Zsh
-* [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - An implementation of the Fish shell's history search feature for Zsh.
-* [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
-* [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long running commands in Zsh
-* [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - A Zsh prompt based on the powerline font from the popular vim plugin
-* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh
-
-
-## Fish
-
-*Tools and customizations specifically for Fish.*
-
-* [fish-tmpdir](https://github.com/eush77/fish-tmpdir) - Fresh, one-time temporary directories for Fish.
 
 # Guides
 
@@ -258,3 +226,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 # Other Awesome Lists
 
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+
+[awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
+[awesome-fish]: https://github.com/bucaran/awesome-fish
+[awesome-link]: https://github.com/sindresorhus/awesome
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
