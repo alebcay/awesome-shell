@@ -1,4 +1,4 @@
-﻿# Awesome Shell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
 这是一份非常棒的命令行框架、工具包、指南、以及小玩意儿组织清单。由 awesome-php 获得灵感。该 awesome 收集在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu) 上也可用。
 - [Awesome Bash](#awesome-bash)
@@ -12,8 +12,8 @@
     - [游戏](#游戏)
     - [Shell 包管理](#shell-包管理)
     - [Shell 脚本开发](#shell-脚本开发)
-    - [Zsh](#zsh)
-    - [Fish](#fish)
+- [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
+- [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
 - [指南](#指南)
 - [其它 Awesome 清单](#其它-awesome-清单)
 
@@ -138,7 +138,7 @@
 
 * [adb-export](https://github.com/sromku/adb-export) - 导出 Android 内容提供商为 CSV 格式
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - 基于文本的 Android ROM 定制 kitchen，使用 shell 脚本并支持 Cygwin/OS X/Linux
-* [Beets](https://github.com/sampsyo/beets) - 音乐库管理器及 MusicBrainz 标签工具
+* [Beets](https://github.com/beetbox/beets) - 音乐库管理器及 MusicBrainz 标签工具
 * [cmus](https://github.com/cmus/cmus) - 跨平台的命令行音乐播放器
 * [image-scraper](https://github.com/sananth12/ImageScraper) - 包含诸多特性的酷命令行图像 scraper
 * [jq](https://github.com/stedolan/jq) - 针对 json 数据的 Sed，你可以使用它分片、过滤、映射及变换结构化数据
@@ -186,10 +186,7 @@
 * [bpkg](http://www.bpkg.io/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – 使用 Python 编写的基于 Git 的 Shell dotfiles 管理器
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
-* [Fisherman](https://github.com/fisherman/fisherman) - Fish Shell 插件管理器
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
-* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 用于管理 Fish shell 配置的框架，由 Oh My Zsh 获得灵感
-* [Wahoo](https://github.com/bucaran/wahoo) - 适用于 Fish shell 的全功能框架及去中心化包管理器
 * [vcsh](https://github.com/RichiH/vcsh) - 基于 Git 的配置管理器
 
 ## Shell 脚本开发
@@ -203,7 +200,6 @@
 * [bats](https://github.com/sstephenson/bats) - Bash 自动化测试系统
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - 使用 50 行可移植 shell 脚本写成的命令行参数解析器
-* [Fishtape](https://github.com/fisherman/fishtape) - 适用于 fish 的 TAP 生产者及测试工具
 * [mo](https://github.com/tests-always-included/mo) - 使用纯 Bash 实现的 Mustache 模板
 * [rerun](https://github.com/rerun/rerun) - 用来管理保留脚本的模块化 shell 自动化框架
 * [semver_bash](https://github.com/cloudflare/semver_bash) - 使用 Bash 实现的语义化版本
@@ -212,38 +208,6 @@
 * [sub](https://github.com/basecamp/sub) - 以美味之道来管理程序
 * [ts](https://github.com/thinkerbot/ts) - shell 测试脚本
 * [shunit2](https://github.com/kward/shunit2) - 适用于 Bash 脚本的单元测试框架（具有 JUnit/PyUnit 风味）
-
-## Zsh
-
-*特别针对 Zsh 的工具及定制。*
-
-* [antigen-hs](https://github.com/Tarrasch/antigen-hs) - 针对启动 shell 时低开销进行优化的 antigen 替代品
-* [antibody](https://github.com/caarlos0/antibody) - 使用 Go 编写的更快且更简单的 antigen 替代品
-* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - 可用于 antigen、dotzsh、oh-my-zsh 及 prezto 的 Zsh 插件列表
-* [antigen](https://github.com/zsh-users/antigen) - 适用于 Zsh 的插件管理器，由 oh-my-zsh 及 vundle 获得灵感
-* [dotzsh](https://github.com/dotphiles/dotzsh) - dotzsh 力争变成平台和版本独立，在 Zsh 旧版本下运行时可能缺少某些功能，但它让你在多个不同的系统上使用相同的设置而没问题
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 管理 Zsh 配置的社区化框架
-* [pretty-time-zsh](https://github.com/sindresorhus/pretty-time-zsh) - 将秒转换为人类可读的字符串: `165392` → `1d 21h 56m 32s`
-* [powerline-zsh](https://github.com/carlcarl/powerline-zsh) - 适用于 Zsh 的 powerline
-* [prezto](https://github.com/sorin-ionescu/prezto) - 针对 Zsh 的配置框架
-* [pure](https://github.com/sindresorhus/pure) - 漂亮、极简、及快速的 Zsh 提示符
-* [zgen](https://github.com/tarjoilija/zgen) - 适用于 Zsh 的轻量级插件管理器，由 antigen 获得灵感，但为启动新的 shell 时优化了速度，可载入 oh-my-zsh 兼容的插件和主题
-* [zplug](https://github.com/b4b4r07/zplug) - :hibiscus: 针对 zsh 的下一代插件管理器
-* [zsh-autosuggestions](https://github.com/tarruda/zsh-autosuggestions) - 适用于 Zsh 的类 Fish 自动建议
-* [zsh-dwim](https://github.com/oknowton/zsh-dwim) - Zsh 照我之意做
-* [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - 针对 Zsh 的 Git 信息提示符
-* [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 针对 Zsh 实现的 Fish shell 的历史搜索功能
-* [zshmarks](https://github.com/jocelynmallon/zshmarks) - 针对 oh-my-zsh 的 Bashmarks 移植（由 Todd Werth 编写的简单书签插件）
-* [zsh-notify](https://github.com/marzocchi/zsh-notify) - 适用于在 Zsh 中长时运行命令的桌面通知
-* [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - 基于 powerline 字体（来自流行的 Vim 插件）的 Zsh 提示符
-* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - 针对 Zsh 的类 Fish shell 语法着色功能
-
-
-## Fish
-
-*特别针对 Fish 的工具及定制。*
-
-* [fish-tmpdir](https://github.com/eush77/fish-tmpdir) - 适用于 Fish 的新的一次性临时目录
 
 
 # 指南
@@ -261,3 +225,9 @@
 # 其它 Awesome 清单
 
 其它很棒的 awesome 清单可在 [awesome-awesome](https://github.com/emijrp/awesome-awesome) 和 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 找到。
+
+
+[awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
+[awesome-fish]: https://github.com/bucaran/awesome-fish
+[awesome-link]: https://github.com/sindresorhus/awesome
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
