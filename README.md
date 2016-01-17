@@ -50,6 +50,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [SHML](https://github.com/MaxCDN/shml) - Style framework for the terminal (Shell Markup Language)
+* [Shark](https://github.com/bucaran/shark) - ▁▂▃▅ Sparkline Generator
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spot](https://github.com/rauchg/spot) - Tiny file search utility
 - [snips](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
@@ -201,6 +202,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
+* [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish
+* [getopts](https://github.com/bucaran/getopts) - CLI parser in AWK for fish and other shells
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
