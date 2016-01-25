@@ -28,7 +28,6 @@
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串
 * [autoenv](https://github.com/kennethreitz/autoenv) - 基于目录的环境
 * [autojump](https://github.com/wting/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录
-* [bash-slugify](https://github.com/benlinton/bash-slugify) - 将文件名及目录转换为 web 友好的格式
 * [bashmarks](https://github.com/huyng/bashmarks) - 适用于 shell 的目录书签
 * [bd](https://github.com/vigneshwaranr/bd) - 迅速回到父目录
 * [boilr](https://github.com/tmrts/boilr) - 从 boilerplate 模板创建项目的超快命令行工具
@@ -50,6 +49,7 @@
 * [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
 * [qfc](https://github.com/pindexis/qfc) - 针对 Bash 和 Zsh 的文件补全 widget
 * [SHML](https://github.com/MaxCDN/shml) - 适用于终端的样式框架 (Shell 标记语言)
+* [slugify](https://github.com/benlinton/slugify) - 将文件名及目录转换为 web 友好的格式
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
 * [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
