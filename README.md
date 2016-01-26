@@ -167,6 +167,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
+* [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 * [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 
 ## Games
