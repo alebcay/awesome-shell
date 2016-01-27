@@ -11,7 +11,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 	- [Applications](#applications)
 	- [Games](#games)
 	- [Shell Package Management](#shell-package-management)
-	- [Shell Script Development](#shell-script-development)
+	- [Shell Script Development](#shell-sfanicript-development)
 - [Guides](#guides)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
@@ -155,6 +155,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Bring http://choosealicense.com to your terminal
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook
+* [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup](https://github.com/lord63/isitup) - Check whether a website is up or down
@@ -167,7 +168,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
-* [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 
 ## Games
 
