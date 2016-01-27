@@ -86,8 +86,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code
-* [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku in around 100 lines of Bash.
-* [dokku-alt](https://github.com/dokku-alt/dokku-alt) - It's a fork of the original dokku. The idea behind this fork is to provide complete solution with plugins covering most use-cases which are stable and well tested.
+* [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
