@@ -52,6 +52,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [SHML](https://github.com/MaxCDN/shml) - Style framework for the terminal (Shell Markup Language)
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
+* [Shark](https://github.com/fishery/shark) - ▁▂▃▅ Sparkline Generator
 * [spot](https://github.com/rauchg/spot) - Tiny file search utility
 - [snips](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
@@ -88,6 +89,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code
 * [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
+* [getopts](https://github.com/fishery/getopts) - CLI parser for fish
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
@@ -202,6 +204,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+* [Fishtape](https://github.com/fishery/fishtape) - TAP producer and test harness for fish
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
