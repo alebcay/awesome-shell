@@ -59,6 +59,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tmux](http://tmux.github.io/) - Amazing terminal multiplexer
+* [up](https://github.com/shannonmoeller/up) - Ascend directories by name or count, for bash and zsh.
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [z](https://github.com/rupa/z) - z is the new j, yo
