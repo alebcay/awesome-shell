@@ -53,6 +53,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [Shark](https://github.com/fishery/shark) - ▁▂▃▅ Sparkline Generator
+* [sheet](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 * [spot](https://github.com/rauchg/spot) - Tiny file search utility
 - [snips](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
