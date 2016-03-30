@@ -11,7 +11,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 	- [Applications](#applications)
 	- [Games](#games)
 	- [Shell Package Management](#shell-package-management)
-	- [Shell Script Development](#shell-sfanicript-development)
+	- [Shell Script Development](#shell-script-development)
 - [Guides](#guides)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
