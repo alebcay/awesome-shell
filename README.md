@@ -26,6 +26,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
 
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
+* [aliasme](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
 * [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments
 * [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
