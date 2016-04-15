@@ -51,6 +51,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [SHML](https://github.com/MaxCDN/shml) - Style framework for the terminal (Shell Markup Language)
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
+* [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [Shark](https://github.com/fishery/shark) - ▁▂▃▅ Sparkline Generator
 * [sheet](https://github.com/oscardelben/sheet) -  Text snippets for the command line
