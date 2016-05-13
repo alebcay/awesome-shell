@@ -123,7 +123,7 @@
 
 *使用 shell 脚本编写的自架、轻量级服务器与网络工具。*
 
-* [aria2](https://github.com/tatsuhiro-t/aria2) - aria2 是一款在命令行中操作的轻量级多协议、多来源、及跨平台下载工具，它支持 HTTP/HTTPS、FTP、BitTorrent 及 Metalink
+* [aria2](https://github.com/aria2/aria2) - aria2 是一款在命令行中操作的轻量级多协议、多来源、及跨平台下载工具，它支持 HTTP/HTTPS、FTP、BitTorrent 及 Metalink
 * [balls](https://github.com/jneen/balls) - Bash on Balls，全功能的 web 平台
 * [bashttpd](https://github.com/avleen/bashttpd) - 使用 Bash 编写的 web 服务器
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" 或 "双向目录同步（含正确删除）"
@@ -215,7 +215,7 @@
 
 * [Bash 黑客的维基](http://wiki.bash-hackers.org/)
 * [Greg Wooledge 的 (又名 "greycat") 维基](http://mywiki.wooledge.org)：尤其是 [Bash 指南](http://mywiki.wooledge.org/BashGuide)、[Bash 疑难问答](http://mywiki.wooledge.org/BashFAQ) 及 [Bash 陷阱](http://mywiki.wooledge.org/BashPitfalls)
-* [Google 的 Shell 风格指南](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
+* [Google 的 Shell 风格指南](https://google.github.io/styleguide/shell.xml)
 * [Linux 文档项目: Bash 编程 - 简介/如何做](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
 * [Linux 文档项目: 高级 Bash 脚本指南](http://www.tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell 脚本](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
