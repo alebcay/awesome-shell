@@ -165,6 +165,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook
 * [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
+* [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup](https://github.com/lord63/isitup) - Check whether a website is up or down
