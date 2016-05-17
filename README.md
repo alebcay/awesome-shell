@@ -174,6 +174,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
+* [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
