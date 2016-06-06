@@ -216,6 +216,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+* [optparse](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [sh-semver] (https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
