@@ -216,10 +216,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+* [optparse](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [sh-semver] (https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
+* [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
 * [sub](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
