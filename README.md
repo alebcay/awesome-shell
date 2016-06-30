@@ -144,6 +144,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
+* [melp](https://github.com/lingtalfi/melp) - Memory Assistant, get all those sticky notes in ONE place
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
