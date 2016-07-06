@@ -66,6 +66,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [z](https://github.com/rupa/z) - z is the new j, yo
+* [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for `npm`
 
 ## Customization
 
