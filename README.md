@@ -148,6 +148,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+* [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 * [image-scraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
 * [jq](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
