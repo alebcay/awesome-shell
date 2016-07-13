@@ -178,6 +178,7 @@
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - 从终端浏览 Reddit
 * [SAWS](https://github.com/donnemartin/saws) - 超强的 AWS 命令行界面
 * [transfer.sh](https://transfer.sh/) — 从 shell 快速上传并分享文件
+* [vl](https://github.com/ellisonleao/vl) - 在文本文檔的URL鏈接檢查
 * [wego](https://github.com/schachmat/wego) - 适用于终端的天气预报应用
 * [whereami](https://github.com/rafaelrinaldi/whereami) - 从命令行获得你的地理位置信息
 
