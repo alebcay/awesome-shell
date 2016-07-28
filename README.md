@@ -1,17 +1,16 @@
 # Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
-- [Awesome Bash](#awesome-bash)
-	- [Command-Line Productivity](#command-line-productivity)
-	- [Customization](#customization)
-	- [For Developers](#for-developers)
-	- [System Utilities](#system-utilities)
-	- [Downloading and Serving](#downloading-and-serving)
-	- [Multimedia and File Formats](#multimedia-and-file-formats)
-	- [Applications](#applications)
-	- [Games](#games)
-	- [Shell Package Management](#shell-package-management)
-	- [Shell Script Development](#shell-script-development)
+- [Command-Line Productivity](#command-line-productivity)
+- [Customization](#customization)
+- [For Developers](#for-developers)
+- [System Utilities](#system-utilities)
+- [Downloading and Serving](#downloading-and-serving)
+- [Multimedia and File Formats](#multimedia-and-file-formats)
+- [Applications](#applications)
+- [Games](#games)
+- [Shell Package Management](#shell-package-management)
+- [Shell Script Development](#shell-script-development)
 - [Guides](#guides)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
