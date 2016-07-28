@@ -17,10 +17,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
 - [Other Awesome Lists](#other-awesome-lists)
 
-
-# Awesome Bash
-
-
 ## Command-Line Productivity
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
