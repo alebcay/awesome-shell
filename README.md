@@ -221,6 +221,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sh-semver] (https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
 * [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
+* [shellman](https://github.com/Pawamoy/shellman) - Write documentation in your scripts, generate automatic --help and man pages
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
 * [sub](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
