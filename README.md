@@ -47,7 +47,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
-* [SHML](https://github.com/MaxCDN/shml) - Style framework for the terminal (Shell Markup Language)
+* [SHML](https://github.com/adb/shml) - Style framework for the terminal (Shell Markup Language)
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
