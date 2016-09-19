@@ -119,6 +119,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [histstat](https://github.com/vesche/histstat) - History for netstat
 * [htop](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
 * [lnav](http://lnav.org) - An advanced log file viewer for the small-scale
+* [ls++](https://github.com/trapd00r/ls--) - Colorized ls on steroids
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 * [mtr](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 * [ncdu](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
