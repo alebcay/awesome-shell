@@ -204,6 +204,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
+* [shundle](https://github.com/chilicuil/shundle) - Plugin manager for shell scripts
 
 ## Shell Script Development
 
