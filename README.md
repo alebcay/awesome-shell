@@ -25,6 +25,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [aliasme](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
 * [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments
 * [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+* [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
