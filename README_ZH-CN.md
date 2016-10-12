@@ -50,7 +50,7 @@
 * [pathpicker](https://github.com/facebook/PathPicker) - 允许将 grep、搜索、git 等的输出结果作为输入，并提供友好的选择界面，以便打开或作为命令的参数
 * [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
 * [qfc](https://github.com/pindexis/qfc) - 针对 Bash 和 Zsh 的文件补全 widget
-* [SHML](https://github.com/MaxCDN/shml) - 适用于终端的样式框架 (Shell 标记语言)
+* [SHML](https://github.com/odb/shml) - 适用于终端的样式框架 (Shell 标记语言)
 * [slugify](https://github.com/benlinton/slugify) - 将文件名及目录转换为 web 友好的格式
 * [sman](https://github.com/tokozedg/sman) - :bug: 命令行下的片断管理器
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
