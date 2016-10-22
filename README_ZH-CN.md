@@ -1,44 +1,44 @@
 # Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
 这是一份非常棒的命令行框架、工具包、指南、以及小玩意儿组织清单。由 awesome-php 获得灵感。该 awesome 收集在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu) 上也可用。
-- [Awesome Bash](#awesome-bash)
-    - [命令行效率](#命令行效率)
-    - [定制](#定制)
-    - [针对开发者](#针对开发者)
-    - [系统工具](#系统工具)
-    - [下载与服务](#下载与服务)
-    - [多媒体与文件格式](#多媒体与文件格式)
-    - [应用程序](#应用程序)
-    - [游戏](#游戏)
-    - [Shell 包管理](#shell-包管理)
-    - [Shell 脚本开发](#shell-脚本开发)
+
+- [命令行效率](#命令行效率)
+- [定制](#定制)
+- [针对开发者](#针对开发者)
+- [系统工具](#系统工具)
+- [下载与服务](#下载与服务)
+- [多媒体与文件格式](#多媒体与文件格式)
+- [应用程序](#应用程序)
+- [游戏](#游戏)
+- [Shell 包管理](#shell-包管理)
+- [Shell 脚本开发](#shell-脚本开发)
+- [指南](#指南)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
-- [指南](#指南)
 - [其它 Awesome 清单](#其它-awesome-清单)
-
-
-# Awesome Bash
-
 
 ## 命令行效率
 
 *使你的终端体验更有效率的搜索、书签、多路复用、以及其它工具。*
 
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串
+* [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名
 * [aliasme](https://github.com/Jintin/aliasme) - 用来快速更改目录的 alias 辅助程序
 * [autoenv](https://github.com/kennethreitz/autoenv) - 基于目录的环境
 * [autojump](https://github.com/wting/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录
+* [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: 在云中的 bash 历史，已索引且可搜索。
 * [bashmarks](https://github.com/huyng/bashmarks) - 适用于 shell 的目录书签
 * [bd](https://github.com/vigneshwaranr/bd) - 迅速回到父目录
 * [boilr](https://github.com/tmrts/boilr) - 从 boilerplate 模板创建项目的超快命令行工具
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断
+* [borg](https://github.com/crufter/borg) - 基于终端的 bash 命令搜索引擎
 * [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式
 * [desk](https://github.com/jamesob/desk) - 适用于 shell 的轻量级工作区管理器
 * [direnv](https://github.com/direnv/direnv) - 针对 shell 的环境切换工具（利用 autoenv 比较）
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: 具有交互式过滤功能的下一代 cd 命令
 * [fasd](https://github.com/clvv/fasd) - 命令行效率提升器，提供快速访问文件及目录
+* [foxy](https://github.com/s-p-k/foxy) - 适合 Firefox 及 Surf 浏览器的无格式文本书签
 * [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索器
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - 在命令输出中给单词着色
 * [hr](https://github.com/LuRsT/hr) - 适用于终端的 `<hr />`
@@ -60,6 +60,7 @@
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
+* [sudocabulary](https://github.com/badarsh2/Sudocabulary) - 从终端学习英语词汇
 * [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误
 * [tmux](http://tmux.github.io/) - 很棒的终端复用器
 * [up](https://github.com/shannonmoeller/up) - 按名称或计数升序排列目录，支持 bash 和 zsh
@@ -117,6 +118,7 @@
 * [cv](https://github.com/Xfennec/progress) - 显示 cp、rm、dd 等命令进度的 Linux 工具
 * [glances](https://github.com/nicolargo/glances) - 系统监视之眼
 * [goaccess](https://github.com/allinurl/goaccess) - 运行于 \*nix 系统终端中的实时 web 日志分析器及交互式查看器
+* [histstat](https://github.com/vesche/histstat) - 适用于 netstat 的历史
 * [htop](https://github.com/hishamhm/htop) - 基于 ncurses 的交互式进程查看器，其目标是比 `top` 更好
 * [lnav](http://lnav.org) - 小型的高级日志文件查看器
 * [lsp](https://github.com/dborzov/lsp) - 改进的 `ls`，包含无格式语言的文件说明及智能的文件分组
@@ -148,9 +150,11 @@
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - 基于文本的 Android ROM 定制 kitchen，使用 shell 脚本并支持 Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - 音乐库管理器及 MusicBrainz 标签工具
 * [cmus](https://github.com/cmus/cmus) - 跨平台的命令行音乐播放器
+* [gifgen](https://github.com/lukechilds/gifgen) - 简单高质量的 GIF 编码
 * [image-scraper](https://github.com/sananth12/ImageScraper) - 包含诸多特性的酷命令行图像 scraper
 * [jq](https://github.com/stedolan/jq) - 针对 json 数据的 Sed，你可以使用它分片、过滤、映射及变换结构化数据
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - 让你在 shell 中播放主流的音频及视频格式（使用 ASCII 字符）
+* [nehm](https://github.com/bogem/nehm) - 下载、设置 IDv3 标签、并添加到 iTunes 的控制台工具
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST 将你的 35 刀 Raspberry Pi 变成类 Chromecast 设备
 * [sejda](https://github.com/torakiki/sejda/) - 命令行下的 PDF 文档处理工具（分割、合并、旋转、转换为 jpg、提取文本等）
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - 古老而强大的命令行 XML 格式化、过滤及处理工具
@@ -178,7 +182,7 @@
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - 从终端浏览 Reddit
 * [SAWS](https://github.com/donnemartin/saws) - 超强的 AWS 命令行界面
 * [transfer.sh](https://transfer.sh/) — 从 shell 快速上传并分享文件
-* [vl](https://github.com/ellisonleao/vl) - 在文本文檔的URL鏈接檢查
+* [vl](https://github.com/ellisonleao/vl) - 针对文本文档的 URL 链接检查器
 * [wego](https://github.com/schachmat/wego) - 适用于终端的天气预报应用
 * [whereami](https://github.com/rafaelrinaldi/whereami) - 从命令行获得你的地理位置信息
 
@@ -202,6 +206,7 @@
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
 * [vcsh](https://github.com/RichiH/vcsh) - 基于 Git 的配置管理器
+* [shundle](https://github.com/chilicuil/shundle) - 适用于 shell 脚本的插件管理器
 
 ## Shell 脚本开发
 
