@@ -136,9 +136,12 @@
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" 或 "双向目录同步（含正确删除）"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader 是用来从 Dropbox 上传、下载、列出或删除文件的 Bash 脚本
 * [httpie](https://github.com/jkbrzt/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
+* [http-server](https://www.npmjs.com/package/http-server) - http-server可以启动一个轻量级的http服务
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
 * [youtube-dl](https://github.com/rg3/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
+* [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
+* [lrzsz](https://ohse.de/uwe/software/lrzsz.html) - 可以apt安装，用于上传(rz)和下载(sz)文件，windows下需要使用xshell
 
 ## 多媒体与文件格式
 
@@ -150,10 +153,13 @@
 * [cmus](https://github.com/cmus/cmus) - 跨平台的命令行音乐播放器
 * [image-scraper](https://github.com/sananth12/ImageScraper) - 包含诸多特性的酷命令行图像 scraper
 * [jq](https://github.com/stedolan/jq) - 针对 json 数据的 Sed，你可以使用它分片、过滤、映射及变换结构化数据
+* [csvtookit](https://csvkit.readthedocs.io/en/0.9.1/) - 使用pip install csvki安装, csv文件进行处理的强大工具
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - 让你在 shell 中播放主流的音频及视频格式（使用 ASCII 字符）
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST 将你的 35 刀 Raspberry Pi 变成类 Chromecast 设备
 * [sejda](https://github.com/torakiki/sejda/) - 命令行下的 PDF 文档处理工具（分割、合并、旋转、转换为 jpg、提取文本等）
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - 古老而强大的命令行 XML 格式化、过滤及处理工具
+* [ffmpeg](http://ffmpeg.org/) - 非常强大的视频处理工具
+* [imagmMagick](http://www.imagemagick.org/script/index.php) - 其强大有目共睹
 
 ## 应用程序
 
@@ -181,6 +187,7 @@
 * [vl](https://github.com/ellisonleao/vl) - 在文本文檔的URL鏈接檢查
 * [wego](https://github.com/schachmat/wego) - 适用于终端的天气预报应用
 * [whereami](https://github.com/rafaelrinaldi/whereami) - 从命令行获得你的地理位置信息
+* [fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - SSH防爆破
 
 ## 游戏
 
