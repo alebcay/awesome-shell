@@ -30,7 +30,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 - [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
-* [borg](https://github.com/crufter/borg) - A terminal based search engine for bash commands
+* [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
 * [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
