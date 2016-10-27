@@ -31,7 +31,7 @@
 * [bd](https://github.com/vigneshwaranr/bd) - 迅速回到父目录
 * [boilr](https://github.com/tmrts/boilr) - 从 boilerplate 模板创建项目的超快命令行工具
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断
-* [borg](https://github.com/crufter/borg) - 基于终端的 bash 命令搜索引擎
+* [borg](https://github.com/ok-borg/borg) - 基于终端的 bash 命令搜索引擎
 * [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式
 * [desk](https://github.com/jamesob/desk) - 适用于 shell 的轻量级工作区管理器
