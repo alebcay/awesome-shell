@@ -59,6 +59,7 @@
 * [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
+* [sshpass](https://sourceforge.net/projects/sshpass/) - 通过命令行传递ssh密码，无需再次输入，适合用于脚本之中
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
 * [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误
 * [tmux](http://tmux.github.io/) - 很棒的终端复用器
