@@ -222,9 +222,11 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
+* [lumberjack](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 * [optparse](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
+* [revolver](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [sh-semver] (https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
@@ -234,6 +236,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
+* [zunit](https://github.com/molovo/zunit) - A powerful unit testing framework for ZSH
 
 # Guides
 
