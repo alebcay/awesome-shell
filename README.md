@@ -45,6 +45,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 - [snips](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+* [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tmux](http://tmux.github.io/) - Amazing terminal multiplexer
 * [v](https://github.com/rupa/v) - z for vim.
