@@ -84,7 +84,7 @@
 * [gittify](https://github.com/momeni/gittify) - 彩色的 Bash 提示符及定制的 Git 别名
 * [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - 适用于 GNOME 终端的颜色主题
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - 针对 Bash 和 Zsh 的全功能及用心设计的自适应提示符
-* [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  彩色的 MySQL 命令行客户端
+* [mysql-colorize](https://github.com/horosgrisa/mysql-colorize) -  彩色的 MySQL 命令行客户端
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - 针对 Bash 和 Zsh 的自用 Git 提示符
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - 包含颜色、Git 状态及 Git 分支的 Bash 提示符
 
@@ -255,6 +255,6 @@
 
 
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
-[awesome-fish]: https://github.com/fisherman/awesome-fish
+[awesome-fish]: https://github.com/jbucaran/awesome-fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
