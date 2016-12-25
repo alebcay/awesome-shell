@@ -59,6 +59,9 @@
 * [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
+* [sshpass](https://sourceforge.net/projects/sshpass/) - 通过命令行传递ssh密码，无需再次输入，适合用于脚本之中
+* [autossh](https://sourceforge.net/projects/autossh/) - 自动重启ssh通道和会话
+* [mosh](http://mosh.org) - 第一个实现SSP的应用，MIT的博士项目，使得C/S之间可以保持链接持续，即使断开还能恢复之前的状态
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - 从终端学习英语词汇
 * [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误
@@ -138,9 +141,12 @@
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" 或 "双向目录同步（含正确删除）"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader 是用来从 Dropbox 上传、下载、列出或删除文件的 Bash 脚本
 * [httpie](https://github.com/jkbrzt/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
+* [http-server](https://www.npmjs.com/package/http-server) - http-server可以启动一个轻量级的http服务
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
 * [youtube-dl](https://github.com/rg3/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
+* [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
+* [lrzsz](https://ohse.de/uwe/software/lrzsz.html) - 可以apt安装，用于上传(rz)和下载(sz)文件，windows下需要使用xshell
 
 ## 多媒体与文件格式
 
@@ -153,11 +159,14 @@
 * [gifgen](https://github.com/lukechilds/gifgen) - 简单高质量的 GIF 编码
 * [image-scraper](https://github.com/sananth12/ImageScraper) - 包含诸多特性的酷命令行图像 scraper
 * [jq](https://github.com/stedolan/jq) - 针对 json 数据的 Sed，你可以使用它分片、过滤、映射及变换结构化数据
+* [csvtookit](https://csvkit.readthedocs.io/en/0.9.1/) - 使用pip install csvki安装, csv文件进行处理的强大工具
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - 让你在 shell 中播放主流的音频及视频格式（使用 ASCII 字符）
 * [nehm](https://github.com/bogem/nehm) - 下载、设置 IDv3 标签、并添加到 iTunes 的控制台工具
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST 将你的 35 刀 Raspberry Pi 变成类 Chromecast 设备
 * [sejda](https://github.com/torakiki/sejda/) - 命令行下的 PDF 文档处理工具（分割、合并、旋转、转换为 jpg、提取文本等）
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - 古老而强大的命令行 XML 格式化、过滤及处理工具
+* [ffmpeg](http://ffmpeg.org/) - 非常强大的视频处理工具
+* [imagmMagick](http://www.imagemagick.org/script/index.php) - 其强大有目共睹
 
 ## 应用程序
 
@@ -186,6 +195,7 @@
 * [vl](https://github.com/ellisonleao/vl) - 针对文本文档的 URL 链接检查器
 * [wego](https://github.com/schachmat/wego) - 适用于终端的天气预报应用
 * [whereami](https://github.com/rafaelrinaldi/whereami) - 从命令行获得你的地理位置信息
+* [fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - SSH防爆破
 
 ## 游戏
 
