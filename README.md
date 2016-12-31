@@ -78,6 +78,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [z](https://github.com/rupa/z) - z is the new j, yo
+* [imagegrep-bash](https://github.com/coderofsalvation/imagegrep-bash) - grep text in images or pdf files
 
 ## Customization
 
@@ -120,6 +121,13 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
+* [pm.sh](https://github.com/coderofsalvation/pm.sh) - easy processmanagement like pm2, written in bash, supports git/bb webhooks
+* [testosteron](https://github.com/coderofsalvation/testosteron) - crosslanguage testrunner built in few lines of bash
+* [watchmakers](https://github.com/coderofsalvation/watchmakers) - watch multiple files, directories and run commands accordingly (like nodemon/grunt, but in few lines of bash)
+* [crowdr](https://github.com/coderofsalvation/crowdr) - docker compose in few lines of bash (and scriptable using bash)
+* [datascience.bash](https://github.com/coderofsalvation/datascience.bash) - data science shellscripts for statistics and big data (only bash+awk utils)
+* [logfilter](https://github.com/coderofsalvation/logfilter) - bashscript (wraps 'tail -f') to monitor logfiles including on-the-fly filtering and highlight features
+
 
 ## System Utilities
 
@@ -169,6 +177,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
 * [sejda](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
+* [audiobrowse.sh](https://github.com/coderofsalvation/audiobrowse.bash) - simple commandline audio preview of directories with audiosamples (sample-artists / musician and producers)
+* [soxmasterhouse](https://github.com/coderofsalvation/soxmasterhouse) - automatic batchprocessing/mastering of audio using sox/ladspa/vst + teaspoon of bash
 
 ## Applications
 
@@ -197,6 +207,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
+* [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
+* [flashcard](https://github.com/coderofsalvation/flashcards-using-csv.bash) - simple flashcard (language/word) learning using csv & bash
 
 ## Games
 
@@ -219,6 +231,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
 * [shundle](https://github.com/chilicuil/shundle) - Plugin manager for shell scripts
+* [aap](https://github.com/coderofsalvation/aap) - an npm-like, highlevel dependency manager, buildtool and installer using bash+git
 
 ## Shell Script Development
 
@@ -249,6 +262,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 * [zunit](https://github.com/molovo/zunit) - A powerful unit testing framework for ZSH
+* [powscript](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
+* [framebuffer.sh](http://leon.vankammen.eu/framebuffer.bash) - bash drawing / animation library
+* [bash builtin skeleton](https://github.com/coderofsalvation/bash_builtin_skeleton) - boilerplate for invoking speed-optimized commands in bash (written in C, persistent in memory)
 
 # Guides
 
