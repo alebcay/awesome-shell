@@ -196,6 +196,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
+* [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
