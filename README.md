@@ -127,7 +127,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
 * [atop](http://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
-* [cv](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, rm, dd, ...
+* [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, rm, dd, ...
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 * [histstat](https://github.com/vesche/histstat) - History for netstat
