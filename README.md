@@ -288,8 +288,11 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 ### See also
-* [awesome-badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 * [awesome-fish](https://github.com/jbucaran/awesome-fish)
-* [awesome-link](https://github.com/sindresorhus/awesome)
 * [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins)
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-fish]: https://github.com/jbucaran/awesome-fish
+[awesome-link]: https://github.com/sindresorhus/awesome
+[awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
