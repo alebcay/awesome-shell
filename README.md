@@ -291,3 +291,4 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 [awesome-fish]: https://github.com/jbucaran/awesome-fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[terminals-are-sexy]: https://github.com/k4m4/terminals-are-sexy
