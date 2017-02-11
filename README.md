@@ -292,4 +292,4 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 * [awesome-fish](https://github.com/jbucaran/awesome-fish)
 * [awesome-link](https://github.com/sindresorhus/awesome)
 * [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins)
-* [terminals-are-sexy]: https://github.com/k4m4/terminals-are-sexy
+* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
