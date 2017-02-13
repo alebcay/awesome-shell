@@ -80,14 +80,14 @@
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - 针对 Git 用户的信息及梦幻提示符
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline 风格的 Bash 提示符，纯 Bash 脚本
 * [bashstrap](https://github.com/barryclark/bashstrap) - 美化 OS X 终端的快速方法
-* [bullet-train-oh-my-zsh-theme](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme) - :bullettrain_side: 基于 Powerline Vim 插件的 oh-my-zsh shell 主题
+* [bullet-train-oh-my-zsh-theme](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: 基于 Powerline Vim 插件的 oh-my-zsh shell 主题
 * [emojify](https://github.com/mrowa44/emojify) - 适用于命令行的表情 :scream:
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - 很好的终端颜色主题
 * [git-prompt](https://github.com/lvv/git-prompt) - 包含 Git、SVN 及 HG 模块的 Bash 提示符
 * [gittify](https://github.com/momeni/gittify) - 彩色的 Bash 提示符及定制的 Git 别名
 * [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - 适用于 GNOME 终端的颜色主题
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - 针对 Bash 和 Zsh 的全功能及用心设计的自适应提示符
-* [mysql-colorize](https://github.com/horosgrisa/mysql-colorize) -  彩色的 MySQL 命令行客户端
+* [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) -  彩色的 MySQL 命令行客户端
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - 针对 Bash 和 Zsh 的自用 Git 提示符
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - 包含颜色、Git 状态及 Git 分支的 Bash 提示符
 
@@ -174,7 +174,7 @@
 
 * [ansiweather](https://github.com/fcambus/ansiweather) - 终端中的天气预报，包含 ANSI 颜色及 Unicode 符号
 * [bashblog](https://github.com/cfenollosa/bashblog) - 处理 blog 投递的 Bash 脚本
-* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 把 http://choosealicense.com 带到你的终端
+* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 把 [http://choosealicense.com](https://choosealicense.com/) 带到你的终端
 * [facy](https://github.com/huydx/facy) - 命令行下的 Facebook 客户端
 * [fanyi](https://github.com/afc163/fanyi) - 翻译英文为中文的命令行工具
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - 命令行的 Evernote 客户端
