@@ -174,7 +174,7 @@
 
 * [ansiweather](https://github.com/fcambus/ansiweather) - 终端中的天气预报，包含 ANSI 颜色及 Unicode 符号
 * [bashblog](https://github.com/cfenollosa/bashblog) - 处理 blog 投递的 Bash 脚本
-* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 把 [http://choosealicense.com](https://choosealicense.com/) 带到你的终端
+* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 把 [`http://choosealicense.com`](https://choosealicense.com/) 带到你的终端
 * [facy](https://github.com/huydx/facy) - 命令行下的 Facebook 客户端
 * [fanyi](https://github.com/afc163/fanyi) - 翻译英文为中文的命令行工具
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - 命令行的 Evernote 客户端
