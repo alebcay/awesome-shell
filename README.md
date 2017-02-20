@@ -226,6 +226,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
 * [sedtris](https://github.com/uuner/sedtris) - Tetris in sed
 * [sed-scripts](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
+* [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
 
 ## Shell Package Management
 
