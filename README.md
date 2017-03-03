@@ -207,6 +207,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 * [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+* [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
