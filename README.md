@@ -156,6 +156,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [powertop](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 * [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
+* [colorex](https://bitbucket.org/linibou/colorex/wiki/Home) - Displays files or sdtin with pretty colors for matched patterns.
 
 ## Downloading and Serving
 
