@@ -64,6 +64,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for firefox and surf browsers.
+* [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
