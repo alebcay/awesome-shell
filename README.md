@@ -242,6 +242,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
 * [shundle](https://github.com/chilicuil/shundle) - Plugin manager for shell scripts
+* [yadm](https://thelocehiliosan.github.io/yadm/) - Git-based dotfiles manager supporting encryption, alternates, and bootstrapping
 
 ## Shell Script Development
 
