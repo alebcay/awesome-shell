@@ -286,6 +286,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+* [A guide to learn bash](https://github.com/Idnan/bash-guide)
 
 # Other Awesome Lists
 
