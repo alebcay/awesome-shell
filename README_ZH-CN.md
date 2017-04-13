@@ -257,6 +257,7 @@
 * [使用非官方的 Bash 严格模式 (除非你爱调试)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
 * [学会成为命令行杀手](https://www.learnenough.com/command-line-tutorial)
+* [学习bash的指南](https://github.com/Idnan/bash-guide)
 
 
 # 其它 Awesome 清单
