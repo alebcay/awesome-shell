@@ -1,16 +1,16 @@
 ```
  █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗
 ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝
-███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗  
-██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝  
+███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗
+██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝
 ██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗
 ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-███████╗██╗  ██╗███████╗██╗     ██╗                           
-██╔════╝██║  ██║██╔════╝██║     ██║                           
-███████╗███████║█████╗  ██║     ██║                           
-╚════██║██╔══██║██╔══╝  ██║     ██║                           
-███████║██║  ██║███████╗███████╗███████╗                      
-╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝                      
+███████╗██╗  ██╗███████╗██╗     ██╗
+██╔════╝██║  ██║██╔════╝██║     ██║
+███████╗███████║█████╗  ██║     ██║
+╚════██║██╔══██║██╔══╝  ██║     ██║
+███████║██║  ██║███████╗███████╗███████╗
+╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
 ```
 
 # Awesome Shell [![Awesome][awesome-badge]][awesome-link]
@@ -55,8 +55,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
-- [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
+* [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
+* [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 * [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
@@ -65,12 +66,14 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for firefox and surf browsers.
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+* [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
+* [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 * [parallel](http://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
@@ -181,6 +184,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 * [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 * [image-scraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
+* [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 * [jq](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
 * [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use it) your SoundCloud likes in convenient way
