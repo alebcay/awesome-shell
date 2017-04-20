@@ -275,6 +275,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
 * [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
+* [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 * [sub](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
