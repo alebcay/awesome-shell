@@ -146,7 +146,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
-* [atop](http://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
+* [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, rm, dd, ...
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
@@ -170,7 +170,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
-* [httpie](https://github.com/jkbrzt/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
+* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
