@@ -39,6 +39,7 @@
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: 具有交互式过滤功能的下一代 cd 命令
 * [fasd](https://github.com/clvv/fasd) - 命令行效率提升器，提供快速访问文件及目录
 * [foxy](https://github.com/s-p-k/foxy) - 适合 Firefox 及 Surf 浏览器的无格式文本书签
+* [fz](https://github.com/changyuheng/fz) - z 的无缝模糊补全
 * [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索器
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - 在命令输出中给单词着色
 * [hr](https://github.com/LuRsT/hr) - 适用于终端的 `<hr />`
@@ -117,7 +118,7 @@
 
 *操作系统相关工具，包括系统管理、系统调试、及文件和进程管理。*
 
-* [atop](http://www.atoptool.nl) - 能够报告所有进程活动的 ASCII 全屏性能监视器
+* [atop](https://www.atoptool.nl) - 能够报告所有进程活动的 ASCII 全屏性能监视器
 * [cv](https://github.com/Xfennec/progress) - 显示 cp、rm、dd 等命令进度的 Linux 工具
 * [glances](https://github.com/nicolargo/glances) - 系统监视之眼
 * [goaccess](https://github.com/allinurl/goaccess) - 运行于 \*nix 系统终端中的实时 web 日志分析器及交互式查看器
@@ -140,13 +141,12 @@
 * [bashttpd](https://github.com/avleen/bashttpd) - 使用 Bash 编写的 web 服务器
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" 或 "双向目录同步（含正确删除）"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader 是用来从 Dropbox 上传、下载、列出或删除文件的 Bash 脚本
-* [httpie](https://github.com/jkbrzt/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
+* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
 * [http-server](https://www.npmjs.com/package/http-server) - http-server可以启动一个轻量级的http服务
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
 * [youtube-dl](https://github.com/rg3/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
 * [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
-* [lrzsz](https://ohse.de/uwe/software/lrzsz.html) - 可以apt安装，用于上传(rz)和下载(sz)文件，windows下需要使用xshell
 
 ## 多媒体与文件格式
 
@@ -174,7 +174,7 @@
 
 * [ansiweather](https://github.com/fcambus/ansiweather) - 终端中的天气预报，包含 ANSI 颜色及 Unicode 符号
 * [bashblog](https://github.com/cfenollosa/bashblog) - 处理 blog 投递的 Bash 脚本
-* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 把 [`http://choosealicense.com`](https://choosealicense.com/) 带到你的终端
+* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 从终端选授權合約
 * [facy](https://github.com/huydx/facy) - 命令行下的 Facebook 客户端
 * [fanyi](https://github.com/afc163/fanyi) - 翻译英文为中文的命令行工具
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - 命令行的 Evernote 客户端
@@ -257,6 +257,7 @@
 * [使用非官方的 Bash 严格模式 (除非你爱调试)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
 * [学会成为命令行杀手](https://www.learnenough.com/command-line-tutorial)
+* [学习bash的指南](https://github.com/Idnan/bash-guide)
 
 
 # 其它 Awesome 清单

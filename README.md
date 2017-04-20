@@ -55,8 +55,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
-- [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
+* [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
+* [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 * [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
@@ -64,13 +65,16 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for firefox and surf browsers.
+* [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+* [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
+* [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 * [parallel](http://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
@@ -137,12 +141,13 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
+* [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 
 ## System Utilities
 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
-* [atop](http://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
+* [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
 * [colorex](https://bitbucket.org/linibou/colorex/wiki/Home) - Displays files or sdtin with pretty colors for matched patterns.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, rm, dd, ...
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
@@ -167,7 +172,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
-* [httpie](https://github.com/jkbrzt/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
+* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
@@ -182,6 +187,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 * [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 * [image-scraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
+* [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 * [jq](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
 * [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use it) your SoundCloud likes in convenient way
@@ -196,7 +202,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
 * [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
-* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Bring [`http://choosealicense.com`](https://choosealicense.com/) to your terminal
+* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook
 * [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
@@ -208,6 +214,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 * [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+* [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
@@ -240,8 +247,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
-* [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
 * [shundle](https://github.com/chilicuil/shundle) - Plugin manager for shell scripts
+* [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
+* [yadm](https://thelocehiliosan.github.io/yadm/) - Git-based dotfiles manager supporting encryption, alternates, and bootstrapping
 
 ## Shell Script Development
 
@@ -268,6 +276,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
 * [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
+* [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 * [sub](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
@@ -286,6 +295,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+* [A guide to learn bash](https://github.com/Idnan/bash-guide)
 
 # Other Awesome Lists
 

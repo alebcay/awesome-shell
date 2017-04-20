@@ -4,5 +4,5 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list transfer.sh
-  - awesome_bot README_ZH-CN.md --white-list transfer.sh
+  - awesome_bot README.md
+  - awesome_bot README_ZH-CN.md
