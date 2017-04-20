@@ -146,7 +146,6 @@
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
 * [youtube-dl](https://github.com/rg3/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
 * [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
-* [lrzsz](https://ohse.de/uwe/software/lrzsz.html) - 可以apt安装，用于上传(rz)和下载(sz)文件，windows下需要使用xshell
 
 ## 多媒体与文件格式
 
