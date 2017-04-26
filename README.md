@@ -246,6 +246,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework
 * [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
 * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
+* [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
