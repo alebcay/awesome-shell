@@ -113,6 +113,7 @@
 * [repren](https://github.com/jlevy/repren) - 命令行搜索与替换及文件重命名的瑞士军刀式工具
 * [slap](https://github.com/slap-editor/slap) - 运行在 Node.js 上的基于终端的类 Sublime 文本编辑器
 * [shipit](https://github.com/sapegin/shipit) - 极简 SSH 部署
+* [tag](https://github.com/aykamko/tag) - 立即跳到你的公牛队比赛
 
 ## 系统工具
 

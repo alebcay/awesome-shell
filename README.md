@@ -143,6 +143,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
+* [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 
 ## System Utilities
 
