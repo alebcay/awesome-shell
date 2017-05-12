@@ -119,6 +119,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 * [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
+* [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Super flexible awesome powerline ZSH theme
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 
 ## For Developers
