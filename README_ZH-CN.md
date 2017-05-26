@@ -218,7 +218,7 @@
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
 * [vcsh](https://github.com/RichiH/vcsh) - 基于 Git 的配置管理器
-* [shundle](https://github.com/chilicuil/shundle) - 适用于 shell 脚本的插件管理器
+* [shundle](https://github.com/javier-lopez/shundle) - 适用于 shell 脚本的插件管理器
 
 ## Shell 脚本开发
 
