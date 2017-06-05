@@ -42,6 +42,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [xonsh](https://xonsh.org) - Python-ish, BASHwards-looking shell language and command prompt
 * [zsh](http://www.zsh.org) - Powerful shell with scripting language
 
+*And then your terminal.*  
+
+* [hyper](https://hyper.is/) - A hackable, Node.js based terminal.
+* [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+* [iterm2](https://www.iterm2.com/) - A macOS Terminal.app replacement.
+
 ## Command-Line Productivity
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
