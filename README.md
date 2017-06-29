@@ -232,6 +232,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
+* [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (curl wttr.in)
 
 ## Games
 
