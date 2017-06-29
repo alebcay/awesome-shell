@@ -308,7 +308,7 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 
 ### See also
 
-* [awesome-cli-apps)(https://github.com/aharris88/awesome-cli-apps) 
+* [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps) 
 * [awesome-fish][awesome-fish]
 * [awesome-zsh][awesome-zsh]
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
