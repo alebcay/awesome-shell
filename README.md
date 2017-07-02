@@ -74,6 +74,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
+* [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
 * [modules](http://modules.sourceforge.net/) - Environment manager for the shell (compare to direnv and autoenv)
 * [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
