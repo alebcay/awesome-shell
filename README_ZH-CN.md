@@ -97,7 +97,7 @@
 
 * [clamav](http://www.clamav.net/) - 病毒扫描工具
 * [lynis](https://cisofy.com/lynis/) - 系统安全检测审计工具
-* [php-mal](https://github.com/nbs-system/php-malware-finder/) - php webshell检测工具
+* [php-malware-finder](https://github.com/nbs-system/php-malware-finder/) - php webshell检测工具
 * [ssdeep](http://ssdeep.sourceforge.net/) - 模糊哈希算法实现
 * [yara](https://github.com/VirusTotal/yara) - 著名的神奇的恶意软件检测工具
 
