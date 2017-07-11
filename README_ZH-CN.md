@@ -90,6 +90,16 @@
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - 针对 Bash 和 Zsh 的自用 Git 提示符
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - 包含颜色、Git 状态及 Git 分支的 Bash 提示符
 
+## 系统安全
+
+*安全工具、取证调研，审计检测等。*
+
+* [clamav](http://www.clamav.net/) - 病毒扫描工具
+* [lynis](https://cisofy.com/lynis/) - 系统安全检测审计工具
+* [php-mal](https://github.com/nbs-system/php-malware-finder/) - php webshell检测工具
+* [ssdeep](http://ssdeep.sourceforge.net/) - 模糊哈希算法实现
+* [yara](https://github.com/VirusTotal/yara) - 著名的神奇的恶意软件检测工具
+
 ## 针对开发者
 
 *命令行开发、版本控制、以及部署。*
