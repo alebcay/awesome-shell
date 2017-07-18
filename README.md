@@ -185,7 +185,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for handling video and audio files.*
 
-* [adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
+* [adb-export](https://github.com/snatik/adb-export) - Export Android content providers to CSV format
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
@@ -286,7 +286,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
-* [zunit](https://github.com/molovo/zunit) - A powerful unit testing framework for ZSH
+* [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
 # Guides
 
@@ -308,7 +308,7 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 
 ### See also
 
-* [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps) 
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) 
 * [awesome-fish][awesome-fish]
 * [awesome-zsh][awesome-zsh]
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
