@@ -278,7 +278,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
 * [revolver](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
-* [sh-semver] (https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
+* [sh-semver](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
 * [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
