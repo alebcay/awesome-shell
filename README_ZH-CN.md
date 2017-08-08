@@ -13,33 +13,35 @@
     - [游戏](#游戏)
     - [Shell 包管理](#shell-包管理)
     - [Shell 脚本开发](#shell-脚本开发)
+    - [指南](#指南)
+
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
-- [指南](#指南)
 - [其它 Awesome 清单](#其它-awesome-清单)
-
-
-# Awesome Bash
-
 
 ## 命令行效率
 
 *使你的终端体验更有效率的搜索、书签、多路复用、以及其它工具。*
 
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串
+* [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名
 * [aliasme](https://github.com/Jintin/aliasme) - 用来快速更改目录的 alias 辅助程序
 * [autoenv](https://github.com/kennethreitz/autoenv) - 基于目录的环境
 * [autojump](https://github.com/wting/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录
+* [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: 在云中的 bash 历史，已索引且可搜索。
 * [bashmarks](https://github.com/huyng/bashmarks) - 适用于 shell 的目录书签
 * [bd](https://github.com/vigneshwaranr/bd) - 迅速回到父目录
 * [boilr](https://github.com/tmrts/boilr) - 从 boilerplate 模板创建项目的超快命令行工具
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断
+* [borg](https://github.com/ok-borg/borg) - 基于终端的 bash 命令搜索引擎
 * [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式
 * [desk](https://github.com/jamesob/desk) - 适用于 shell 的轻量级工作区管理器
 * [direnv](https://github.com/direnv/direnv) - 针对 shell 的环境切换工具（利用 autoenv 比较）
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: 具有交互式过滤功能的下一代 cd 命令
 * [fasd](https://github.com/clvv/fasd) - 命令行效率提升器，提供快速访问文件及目录
+* [foxy](https://github.com/s-p-k/foxy) - 适合 Firefox 及 Surf 浏览器的无格式文本书签
+* [fz](https://github.com/changyuheng/fz) - z 的无缝模糊补全
 * [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索器
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - 在命令输出中给单词着色
 * [hr](https://github.com/LuRsT/hr) - 适用于终端的 `<hr />`
@@ -51,7 +53,7 @@
 * [pathpicker](https://github.com/facebook/PathPicker) - 允许将 grep、搜索、git 等的输出结果作为输入，并提供友好的选择界面，以便打开或作为命令的参数
 * [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
 * [qfc](https://github.com/pindexis/qfc) - 针对 Bash 和 Zsh 的文件补全 widget
-* [SHML](https://github.com/MaxCDN/shml) - 适用于终端的样式框架 (Shell 标记语言)
+* [SHML](https://github.com/odb/shml) - 适用于终端的样式框架 (Shell 标记语言)
 * [slugify](https://github.com/benlinton/slugify) - 将文件名及目录转换为 web 友好的格式
 * [sman](https://github.com/tokozedg/sman) - :bug: 命令行下的片断管理器
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
@@ -64,6 +66,7 @@
 * [autossh](https://sourceforge.net/projects/autossh/) - 自动重启ssh通道和会话
 * [mosh](http://mosh.org) - 第一个实现SSP的应用，MIT的博士项目，使得C/S之间可以保持链接持续，即使断开还能恢复之前的状态
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
+* [sudocabulary](https://github.com/badarsh2/Sudocabulary) - 从终端学习英语词汇
 * [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误
 * [tmux](http://tmux.github.io/) - 很棒的终端复用器
 * [up](https://github.com/shannonmoeller/up) - 按名称或计数升序排列目录，支持 bash 和 zsh
@@ -80,14 +83,14 @@
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - 针对 Git 用户的信息及梦幻提示符
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline 风格的 Bash 提示符，纯 Bash 脚本
 * [bashstrap](https://github.com/barryclark/bashstrap) - 美化 OS X 终端的快速方法
-* [bullet-train-oh-my-zsh-theme](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme) - :bullettrain_side: 基于 Powerline Vim 插件的 oh-my-zsh shell 主题
+* [bullet-train-oh-my-zsh-theme](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: 基于 Powerline Vim 插件的 oh-my-zsh shell 主题
 * [emojify](https://github.com/mrowa44/emojify) - 适用于命令行的表情 :scream:
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - 很好的终端颜色主题
 * [git-prompt](https://github.com/lvv/git-prompt) - 包含 Git、SVN 及 HG 模块的 Bash 提示符
 * [gittify](https://github.com/momeni/gittify) - 彩色的 Bash 提示符及定制的 Git 别名
 * [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - 适用于 GNOME 终端的颜色主题
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - 针对 Bash 和 Zsh 的全功能及用心设计的自适应提示符
-* [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  彩色的 MySQL 命令行客户端
+* [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) -  彩色的 MySQL 命令行客户端
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - 针对 Bash 和 Zsh 的自用 Git 提示符
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - 包含颜色、Git 状态及 Git 分支的 Bash 提示符
 
@@ -122,15 +125,17 @@
 * [repren](https://github.com/jlevy/repren) - 命令行搜索与替换及文件重命名的瑞士军刀式工具
 * [slap](https://github.com/slap-editor/slap) - 运行在 Node.js 上的基于终端的类 Sublime 文本编辑器
 * [shipit](https://github.com/sapegin/shipit) - 极简 SSH 部署
+* [tag](https://github.com/aykamko/tag) - 立即跳到你的公牛队比赛
 
 ## 系统工具
 
 *操作系统相关工具，包括系统管理、系统调试、及文件和进程管理。*
 
-* [atop](http://www.atoptool.nl) - 能够报告所有进程活动的 ASCII 全屏性能监视器
+* [atop](https://www.atoptool.nl) - 能够报告所有进程活动的 ASCII 全屏性能监视器
 * [cv](https://github.com/Xfennec/progress) - 显示 cp、rm、dd 等命令进度的 Linux 工具
 * [glances](https://github.com/nicolargo/glances) - 系统监视之眼
 * [goaccess](https://github.com/allinurl/goaccess) - 运行于 \*nix 系统终端中的实时 web 日志分析器及交互式查看器
+* [histstat](https://github.com/vesche/histstat) - 适用于 netstat 的历史
 * [htop](https://github.com/hishamhm/htop) - 基于 ncurses 的交互式进程查看器，其目标是比 `top` 更好
 * [lnav](http://lnav.org) - 小型的高级日志文件查看器
 * [lsp](https://github.com/dborzov/lsp) - 改进的 `ls`，包含无格式语言的文件说明及智能的文件分组
@@ -156,19 +161,22 @@
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
 * [youtube-dl](https://github.com/rg3/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
+* [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
 
 ## 多媒体与文件格式
 
 *用于处理视频及音频文件的工具。*
 
-* [adb-export](https://github.com/sromku/adb-export) - 导出 Android 内容提供商为 CSV 格式
+* [adb-export](https://github.com/snatik/adb-export) - 导出 Android 内容提供商为 CSV 格式
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - 基于文本的 Android ROM 定制 kitchen，使用 shell 脚本并支持 Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - 音乐库管理器及 MusicBrainz 标签工具
 * [cmus](https://github.com/cmus/cmus) - 跨平台的命令行音乐播放器
+* [gifgen](https://github.com/lukechilds/gifgen) - 简单高质量的 GIF 编码
 * [image-scraper](https://github.com/sananth12/ImageScraper) - 包含诸多特性的酷命令行图像 scraper
 * [jq](https://github.com/stedolan/jq) - 针对 json 数据的 Sed，你可以使用它分片、过滤、映射及变换结构化数据
 * [csvtookit](https://csvkit.readthedocs.io/en/0.9.1/) - 使用pip install csvki安装, csv文件进行处理的强大工具
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - 让你在 shell 中播放主流的音频及视频格式（使用 ASCII 字符）
+* [nehm](https://github.com/bogem/nehm) - 下载、设置 IDv3 标签、并添加到 iTunes 的控制台工具
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST 将你的 35 刀 Raspberry Pi 变成类 Chromecast 设备
 * [sejda](https://github.com/torakiki/sejda/) - 命令行下的 PDF 文档处理工具（分割、合并、旋转、转换为 jpg、提取文本等）
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - 古老而强大的命令行 XML 格式化、过滤及处理工具
@@ -181,7 +189,7 @@
 
 * [ansiweather](https://github.com/fcambus/ansiweather) - 终端中的天气预报，包含 ANSI 颜色及 Unicode 符号
 * [bashblog](https://github.com/cfenollosa/bashblog) - 处理 blog 投递的 Bash 脚本
-* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 把 http://choosealicense.com 带到你的终端
+* [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 从终端选授權合約
 * [facy](https://github.com/huydx/facy) - 命令行下的 Facebook 客户端
 * [fanyi](https://github.com/afc163/fanyi) - 翻译英文为中文的命令行工具
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - 命令行的 Evernote 客户端
@@ -197,8 +205,9 @@
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - PushBullet API 的 Bash 接口
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - 从终端浏览 Reddit
 * [SAWS](https://github.com/donnemartin/saws) - 超强的 AWS 命令行界面
+* [taskwarrior](https://taskwarrior.org/) - 一个命令行去做列表管理器
 * [transfer.sh](https://transfer.sh/) — 从 shell 快速上传并分享文件
-* [vl](https://github.com/ellisonleao/vl) - 在文本文檔的URL鏈接檢查
+* [vl](https://github.com/ellisonleao/vl) - 针对文本文档的 URL 链接检查器
 * [wego](https://github.com/schachmat/wego) - 适用于终端的天气预报应用
 * [whereami](https://github.com/rafaelrinaldi/whereami) - 从命令行获得你的地理位置信息
 * [fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - SSH防爆破
@@ -218,11 +227,12 @@
 
 * [bash-it](https://github.com/Bash-it/bash-it) - 社区化的 Bash 框架
 * [basher](https://github.com/basherpm/basher) - 针对 shell 脚本的包管理器
-* [bpkg](http://www.bpkg.io/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
+* [bpkg](http://www.bpkg.sh/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – 使用 Python 编写的基于 Git 的 Shell dotfiles 管理器
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
 * [vcsh](https://github.com/RichiH/vcsh) - 基于 Git 的配置管理器
+* [shundle](https://github.com/javier-lopez/shundle) - 适用于 shell 脚本的插件管理器
 
 ## Shell 脚本开发
 
@@ -241,7 +251,7 @@
 * [optparse](https://github.com/nk412/optparse) - 针对 getopts 的 BASH wrapper，用于简单的命令行参数
 * [rerun](https://github.com/rerun/rerun) - 用来管理保留脚本的模块化 shell 自动化框架
 * [semver_bash](https://github.com/cloudflare/semver_bash) - 使用 Bash 实现的语义化版本
-* [sh-semver] (https://github.com/qzb/sh-semver) - 适用于 bash 的 Semver 工具，匹配指定规则来查找版本
+* [sh-semver](https://github.com/qzb/sh-semver) - 适用于 bash 的 Semver 工具，匹配指定规则来查找版本
 * [shellcheck](https://github.com/koalaman/shellcheck) - 针对 shell 脚本的静态化分析工具
 * [shellfire](https://github.com/shellfire-dev/shellfire) - 命名空间仓库，可写 shell (bash、sh 及 dash) 函数库
 * [shpec](https://github.com/rylnd/shpec) - shell 测试框架
@@ -262,6 +272,7 @@
 * [使用非官方的 Bash 严格模式 (除非你爱调试)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
 * [学会成为命令行杀手](https://www.learnenough.com/command-line-tutorial)
+* [学习bash的指南](https://github.com/Idnan/bash-guide)
 
 
 # 其它 Awesome 清单
@@ -270,6 +281,6 @@
 
 
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
-[awesome-fish]: https://github.com/fisherman/awesome-fish
+[awesome-fish]: https://github.com/jbucaran/awesome-fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
