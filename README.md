@@ -71,6 +71,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
+* [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
@@ -186,7 +187,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for handling video and audio files.*
 
-* [adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
+* [adb-export](https://github.com/snatik/adb-export) - Export Android content providers to CSV format
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
@@ -248,7 +249,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework
 * [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
-* [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
+* [bpkg](http://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
 * [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
@@ -278,7 +279,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
 * [revolver](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
-* [sh-semver] (https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
+* [sh-semver](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
 * [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
@@ -287,7 +288,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
-* [zunit](https://github.com/molovo/zunit) - A powerful unit testing framework for ZSH
+* [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
 # Guides
 
@@ -309,7 +310,7 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 
 ### See also
 
-* [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps) 
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) 
 * [awesome-fish][awesome-fish]
 * [awesome-zsh][awesome-zsh]
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)

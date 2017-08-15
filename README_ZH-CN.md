@@ -153,7 +153,7 @@
 
 *用于处理视频及音频文件的工具。*
 
-* [adb-export](https://github.com/sromku/adb-export) - 导出 Android 内容提供商为 CSV 格式
+* [adb-export](https://github.com/snatik/adb-export) - 导出 Android 内容提供商为 CSV 格式
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - 基于文本的 Android ROM 定制 kitchen，使用 shell 脚本并支持 Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - 音乐库管理器及 MusicBrainz 标签工具
 * [cmus](https://github.com/cmus/cmus) - 跨平台的命令行音乐播放器
@@ -213,7 +213,7 @@
 
 * [bash-it](https://github.com/Bash-it/bash-it) - 社区化的 Bash 框架
 * [basher](https://github.com/basherpm/basher) - 针对 shell 脚本的包管理器
-* [bpkg](http://www.bpkg.io/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
+* [bpkg](http://www.bpkg.sh/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – 使用 Python 编写的基于 Git 的 Shell dotfiles 管理器
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
@@ -237,7 +237,7 @@
 * [optparse](https://github.com/nk412/optparse) - 针对 getopts 的 BASH wrapper，用于简单的命令行参数
 * [rerun](https://github.com/rerun/rerun) - 用来管理保留脚本的模块化 shell 自动化框架
 * [semver_bash](https://github.com/cloudflare/semver_bash) - 使用 Bash 实现的语义化版本
-* [sh-semver] (https://github.com/qzb/sh-semver) - 适用于 bash 的 Semver 工具，匹配指定规则来查找版本
+* [sh-semver](https://github.com/qzb/sh-semver) - 适用于 bash 的 Semver 工具，匹配指定规则来查找版本
 * [shellcheck](https://github.com/koalaman/shellcheck) - 针对 shell 脚本的静态化分析工具
 * [shellfire](https://github.com/shellfire-dev/shellfire) - 命名空间仓库，可写 shell (bash、sh 及 dash) 函数库
 * [shpec](https://github.com/rylnd/shpec) - shell 测试框架
