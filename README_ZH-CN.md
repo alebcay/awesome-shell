@@ -167,7 +167,7 @@
 * [sejda](https://github.com/torakiki/sejda/) - 命令行下的 PDF 文档处理工具（分割、合并、旋转、转换为 jpg、提取文本等）
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - 古老而强大的命令行 XML 格式化、过滤及处理工具
 * [ffmpeg](http://ffmpeg.org/) - 非常强大的视频处理工具
-* [imagmMagick](http://www.imagemagick.org/script/index.php) - 其强大有目共睹
+* [imageMagick](http://www.imagemagick.org/script/index.php) - 其强大有目共睹
 
 ## 应用程序
 
