@@ -211,7 +211,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
 * [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
-* [facy](https://github.com/huydx/facy) - Command line power tool for facebook
+* [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line tool
 * [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
