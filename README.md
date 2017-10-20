@@ -289,6 +289,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 * [sub](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
+* [urchin](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 * [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
