@@ -21,6 +21,7 @@
 
 *使你的终端体验更有效率的搜索、书签、多路复用、以及其它工具。*
 
+* [advanceNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - 以递归的方式快速创建文件和目录。 受Vim插件启发。
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串
 * [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名
 * [aliasme](https://github.com/Jintin/aliasme) - 用来快速更改目录的 alias 辅助程序
