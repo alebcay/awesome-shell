@@ -80,6 +80,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
+* [lazy-cd](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
 * [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 * [Lmod](http://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
