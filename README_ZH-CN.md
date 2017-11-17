@@ -44,6 +44,7 @@
 * [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索器
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - 在命令输出中给单词着色
 * [hr](https://github.com/LuRsT/hr) - 适用于终端的 `<hr />`
+* [hss](https://github.com/six-ddc/hss) - 可交互的ssh批量执行客户端，具有自动完成远端路径和异步执行的特性
 * [hstr](https://github.com/dvorka/hstr) - Bash 历史建议框
 * [k](https://github.com/supercrabtree/k) - k 是一个使目录列表更可读的 Zsh 脚本，它增添了 Git 状态、文件颜色、以及腐朽的日期
 * [k alias](https://github.com/lingtalfi/k) - 获得用于单行的酷 alias
