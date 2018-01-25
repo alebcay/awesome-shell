@@ -61,6 +61,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 * [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+* [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 * [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter

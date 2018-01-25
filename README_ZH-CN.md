@@ -34,6 +34,7 @@
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断
 * [borg](https://github.com/ok-borg/borg) - 基于终端的 bash 命令搜索引擎
 * [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器
+* [CloudClip](https://github.com/skywind3000/CloudClip) - 云剪贴板，在不同的系统之间 copy/paste （使用 gist 作为后端）
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式
 * [desk](https://github.com/jamesob/desk) - 适用于 shell 的轻量级工作区管理器
 * [direnv](https://github.com/direnv/direnv) - 针对 shell 的环境切换工具（利用 autoenv 比较）
