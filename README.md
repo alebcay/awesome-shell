@@ -207,6 +207,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sejda](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
 * [xidel](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
+* [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 
 ## Applications
 
