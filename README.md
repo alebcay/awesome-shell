@@ -144,7 +144,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [mr](https://github.com/joeyh/myrepos) - Multiple Repository management tool
 * [overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
-* [pre-commit](http://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
+* [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
@@ -268,7 +268,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
-* [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+* [bashful](https://github.com/plytophogy/bashful) - A collection of libraries to simplify writing Bash scripts
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
