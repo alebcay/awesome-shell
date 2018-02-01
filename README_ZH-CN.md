@@ -110,7 +110,7 @@
 * [hub](https://github.com/github/hub) - 更易使用 GitHub 的命令行工具
 * [mr](https://github.com/joeyh/myrepos) - 多仓库管理工具
 * [overcommit](https://github.com/brigade/overcommit) - 完全可配置且可扩展的 Git hook 管理器
-* [pre-commit](http://pre-commit.com) - 用于管理及维护多语言 pre-commit hooks 的框架
+* [pre-commit](https://pre-commit.com) - 用于管理及维护多语言 pre-commit hooks 的框架
 * [repren](https://github.com/jlevy/repren) - 命令行搜索与替换及文件重命名的瑞士军刀式工具
 * [slap](https://github.com/slap-editor/slap) - 运行在 Node.js 上的基于终端的类 Sublime 文本编辑器
 * [shipit](https://github.com/sapegin/shipit) - 极简 SSH 部署
@@ -227,7 +227,7 @@
 
 * [ansi](https://github.com/fidian/ansi) - 使用纯 Bash 实现的 ANSI 转义码，包括更改文本颜色、定位光标等等
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
-* [bashful](https://github.com/jmcantrell/bashful) - 简化编写 Bash 脚本的库收集
+* [bashful](https://github.com/plytophogy/bashful) - 简化编写 Bash 脚本的库收集
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - 用来创建命令行工具的微型 Bash 框架
 * [bats](https://github.com/bats-core/bats-core) - Bash 自动化测试系统
 * [Fishtape](https://github.com/fisherman/fishtape) - 适用于 fish 的 TAP 产生器及测试工具
