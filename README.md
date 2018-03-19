@@ -319,12 +319,12 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 
 ### See also
 
-* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) 
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 * [awesome-fish][awesome-fish]
 * [awesome-zsh][awesome-zsh]
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-fish]: https://github.com/JorgeBucaran/awesome-fish
+[awesome-fish]: https://github.com/fisherman/awesome-fish-shell
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
