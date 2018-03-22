@@ -87,6 +87,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [parallel](http://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
+* [q](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [rg](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 * [shell-history](https://github.com/Pawamoy/shell-history) - Visualize your shell usage with Highcharts
