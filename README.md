@@ -70,6 +70,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
+* [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 * [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 * [how2](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
@@ -208,6 +209,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sejda](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
 * [xidel](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
+* [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 
 ## Applications
 
@@ -319,12 +321,12 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 
 ### See also
 
-* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) 
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 * [awesome-fish][awesome-fish]
 * [awesome-zsh][awesome-zsh]
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-fish]: https://github.com/JorgeBucaran/awesome-fish
+[awesome-fish]: https://github.com/fisherman/awesome-fish-shell
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
