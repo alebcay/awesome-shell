@@ -1,16 +1,16 @@
 ```
  █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗
 ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝
-███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗  
-██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝  
+███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗
+██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝
 ██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗
 ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-███████╗██╗  ██╗███████╗██╗     ██╗                           
-██╔════╝██║  ██║██╔════╝██║     ██║                           
-███████╗███████║█████╗  ██║     ██║                           
-╚════██║██╔══██║██╔══╝  ██║     ██║                           
-███████║██║  ██║███████╗███████╗███████╗                      
-╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝                      
+███████╗██╗  ██╗███████╗██╗     ██╗
+██╔════╝██║  ██║██╔════╝██║     ██║
+███████╗███████║█████╗  ██║     ██║
+╚════██║██╔══██║██╔══╝  ██║     ██║
+███████║██║  ██║███████╗███████╗███████╗
+╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
 ```
 
 # Awesome Shell [![Awesome][awesome-badge]][awesome-link]
@@ -165,7 +165,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
 * [ccat](https://github.com/jingweno/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
 * [colorex](https://bitbucket.org/linibou/colorex/wiki/Home) - Displays files or sdtin with pretty colors for matched patterns.
-* [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, rm, dd, ...
+* [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
+* [fortify](https://github.com/alichtman/fortify) - Easily configure MacOS security settings from the terminal.
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 * [histstat](https://github.com/vesche/histstat) - History for netstat
