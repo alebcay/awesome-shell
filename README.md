@@ -199,7 +199,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for handling video and audio files.*
 
-* [adb-export](https://github.com/snatik/adb-export) - Export Android content providers to CSV format
+* [adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
