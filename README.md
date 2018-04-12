@@ -90,7 +90,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [q](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
-* [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results when you get a compiler error
+* [rebound](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
 * [rg](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 * [shell-history](https://github.com/Pawamoy/shell-history) - Visualize your shell usage with Highcharts
 * [SHML](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
