@@ -152,6 +152,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mr](https://github.com/joeyh/myrepos) - Multiple Repository management tool
 * [overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
+* [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
