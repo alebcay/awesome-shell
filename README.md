@@ -243,6 +243,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
+* [awless](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
 * [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
