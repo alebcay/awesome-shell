@@ -242,6 +242,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
+* [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
 * [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
