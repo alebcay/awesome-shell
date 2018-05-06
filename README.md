@@ -159,6 +159,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 * [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
+* [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 
 ## System Utilities
 
