@@ -1,18 +1,20 @@
 # Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
 这是一份非常棒的命令行框架、工具包、指南、以及小玩意儿组织清单。由 awesome-php 获得灵感。该 awesome 收集在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu) 上也可用。
+- [Awesome Bash](#awesome-bash)
+    - [命令行效率](#命令行效率)
+    - [定制](#定制)
+    - [系统安全](#系统安全)
+    - [针对开发者](#针对开发者)
+    - [系统工具](#系统工具)
+    - [下载与服务](#下载与服务)
+    - [多媒体与文件格式](#多媒体与文件格式)
+    - [应用程序](#应用程序)
+    - [游戏](#游戏)
+    - [Shell 包管理](#shell-包管理)
+    - [Shell 脚本开发](#shell-脚本开发)
+    - [指南](#指南)
 
-- [命令行效率](#命令行效率)
-- [定制](#定制)
-- [针对开发者](#针对开发者)
-- [系统工具](#系统工具)
-- [下载与服务](#下载与服务)
-- [多媒体与文件格式](#多媒体与文件格式)
-- [应用程序](#应用程序)
-- [游戏](#游戏)
-- [Shell 包管理](#shell-包管理)
-- [Shell 脚本开发](#shell-脚本开发)
-- [指南](#指南)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
 - [其它 Awesome 清单](#其它-awesome-清单)
@@ -65,7 +67,7 @@
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
 * [sshpass](https://sourceforge.net/projects/sshpass/) - 通过命令行传递ssh密码，无需再次输入，适合用于脚本之中
 * [autossh](https://sourceforge.net/projects/autossh/) - 自动重启ssh通道和会话
-* [mosh](https://mosh.org) - 第一个实现SSP的应用，MIT的博士项目，使得C/S之间可以保持链接持续，即使断开还能恢复之前的状态
+* [mosh](http://mosh.org) - 第一个实现SSP的应用，MIT的博士项目，使得C/S之间可以保持链接持续，即使断开还能恢复之前的状态
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - 从终端学习英语词汇
 * [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误
@@ -94,6 +96,16 @@
 * [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) -  彩色的 MySQL 命令行客户端
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - 针对 Bash 和 Zsh 的自用 Git 提示符
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - 包含颜色、Git 状态及 Git 分支的 Bash 提示符
+
+## 系统安全
+
+*安全工具、取证调研，审计检测等。*
+
+* [clamav](http://www.clamav.net/) - 病毒扫描工具
+* [lynis](https://cisofy.com/lynis/) - 系统安全检测审计工具
+* [php-malware-finder](https://github.com/nbs-system/php-malware-finder/) - php webshell检测工具
+* [ssdeep](http://ssdeep.sourceforge.net/) - 模糊哈希算法实现
+* [yara](https://github.com/VirusTotal/yara) - 著名的神奇的恶意软件检测工具
 
 ## 针对开发者
 
@@ -144,9 +156,11 @@
 * [balls](https://github.com/jneen/balls) - Bash on Balls，全功能的 web 平台
 * [bashttpd](https://github.com/avleen/bashttpd) - 使用 Bash 编写的 web 服务器
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" 或 "双向目录同步（含正确删除）"
+* [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader 是用来从 Dropbox 上传、下载、列出或删除文件的 Bash 脚本
-* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
+* [httpie](https://github.com/jkbrzt/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
 * [http-server](https://www.npmjs.com/package/http-server) - http-server可以启动一个轻量级的http服务
+* [lrzsz](https://ohse.de/uwe/software/lrzsz.html) - 可以apt安装，用于上传(rz)和下载(sz)文件，windows下需要使用xshell
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
 * [youtube-dl](https://github.com/rg3/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
