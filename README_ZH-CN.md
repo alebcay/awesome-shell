@@ -189,6 +189,7 @@
 * [jrnl](https://github.com/maebert/jrnl) - 使用无格式文本文件存储日记的简单命令行程序
 * [ledger](https://github.com/ledger/ledger) - 命令行记账
 * [licen](https://github.com/lord63/licen) - 生成项目 license
+* [md2png](https://github.com/weaming/md2png) - 从 markdown 文件生成 png 图片
 * [moviemon](https://github.com/iCHAIT/moviemon) - 有关在命令行下看电影的每样东东
 * [pushblast](https://github.com/alebcay/pushblast) - 当 shell 程序退出时获得 PushBullet 通知
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - PushBullet API 的 Bash 接口
