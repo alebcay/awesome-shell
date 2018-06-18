@@ -226,6 +226,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Command line-based applications or command line access to existing services.*
 
 * [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
+* [awless](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
 * [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
