@@ -225,6 +225,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Command line-based applications or command line access to existing services.*
 
 * [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
+* [awless](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
 * [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 * [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line tool
@@ -243,7 +244,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
-* [awless](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
 * [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
