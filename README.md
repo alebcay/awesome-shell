@@ -38,6 +38,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell)
 * [fish](https://fishshell.com) - Smart and user-friendly command line shell
+* [shenv](https://github.com/shenv/shenv) - Simple shell version management
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
 * [xonsh](https://xonsh.org) - Python-ish, BASHwards-looking shell language and command prompt
 * [zsh](http://www.zsh.org) - Powerful shell with scripting language
@@ -92,7 +93,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [q](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [rg](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
-* [shell-history](https://github.com/Pawamoy/shell-history) - Visualize your shell usage with Highcharts
+* [shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
 * [SHML](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
@@ -104,7 +105,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
-* [surfraw](http://surfraw.alioth.debian.org/) - browse specific site and search the web from your terminal without browser.
+* [surfraw](https://packages.debian.org/stretch/surfraw) - browse specific site and search the web from your terminal without browser.
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr](https://github.com/raylee/tldr) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](http://tmux.github.io/) - Amazing terminal multiplexer
@@ -151,7 +152,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-up](https://github.com/aanand/git-up) - Automatically rebase incoming changes instead of merging. Be polite!
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
-* [mr](https://github.com/joeyh/myrepos) - Multiple Repository management tool
+* [mr](http://myrepos.branchable.com/) - Multiple Repository management tool
 * [overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [rebound](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
