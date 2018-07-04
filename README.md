@@ -105,6 +105,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 * [surfraw](http://surfraw.alioth.debian.org/) - browse specific site and search the web from your terminal without browser.
+* [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr](https://github.com/raylee/tldr) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](http://tmux.github.io/) - Amazing terminal multiplexer
