@@ -110,7 +110,7 @@
 * [git-sh](https://github.com/rtomayko/git-sh) - 适合 Git 工作的定制 Bash 环境
 * [git-up](https://github.com/aanand/git-up) - 自动变基进来的更改代替合并，优雅！
 * [hub](https://github.com/github/hub) - 更易使用 GitHub 的命令行工具
-* [mr](https://github.com/joeyh/myrepos) - 多仓库管理工具
+* [mr](https://myrepos.branchable.com) - 多仓库管理工具
 * [overcommit](https://github.com/brigade/overcommit) - 完全可配置且可扩展的 Git hook 管理器
 * [pre-commit](https://pre-commit.com) - 用于管理及维护多语言 pre-commit hooks 的框架
 * [repren](https://github.com/jlevy/repren) - 命令行搜索与替换及文件重命名的瑞士军刀式工具
