@@ -324,6 +324,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 # Guides
 
+* [Bash Official Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html)
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/)
 * [Greg Wooledge's (aka "greycat") wiki](http://mywiki.wooledge.org).
   Specifically [Bash Guide](http://mywiki.wooledge.org/BashGuide), [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
