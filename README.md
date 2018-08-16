@@ -37,6 +37,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Choose your base shell.*
 
 * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell)
+* [elvish](https://elvish.io) - Friendly, expressive shell features like anonymous functions and data structures
 * [fish](https://fishshell.com) - Smart and user-friendly command line shell
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
 * [xonsh](https://xonsh.org) - Python-ish, BASHwards-looking shell language and command prompt
