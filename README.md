@@ -73,6 +73,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
+* [googlr](https://github.com/Camji55/googlr) - Command line tool that lets you search Google from your terminal.
 * [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 * [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 * [how2](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
@@ -168,6 +169,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 * [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
+* [xtm](https://github.com/Camji55/xtm) - Command line tool that helps you manage your Xcode project templates.
 
 ## System Utilities
 
