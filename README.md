@@ -68,6 +68,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
+* [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 * [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for firefox and surf browsers.
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
