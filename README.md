@@ -37,7 +37,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Choose your base shell.*
 
 * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell)
-* [elvish](https://elvish.io) - Friendly, expressive shell features like anonymous functions and data structures
+* [elvish](https://elv.sh/) - Friendly, expressive shell features like anonymous functions and data structures
 * [fish](https://fishshell.com) - Smart and user-friendly command line shell
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
 * [xonsh](https://xonsh.org) - Python-ish, BASHwards-looking shell language and command prompt
@@ -83,7 +83,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 * [lazy-cd](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
 * [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
-* [Lmod](http://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
+* [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
 * [modules](http://modules.sourceforge.net/) - Classical Tcl-based Environment Modules managing the shell environment (compare to Lmod, direnv, and autoenv)
 * [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
