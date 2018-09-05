@@ -21,6 +21,7 @@
 
 *使你的终端体验更有效率的搜索、书签、多路复用、以及其它工具。*
 
+* [AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - 以递归的方式快速创建文件和目录。 受Vim插件启发。
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串
 * [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名
 * [aliasme](https://github.com/Jintin/aliasme) - 用来快速更改目录的 alias 辅助程序
@@ -33,6 +34,7 @@
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断
 * [borg](https://github.com/ok-borg/borg) - 基于终端的 bash 命令搜索引擎
 * [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器
+* [CloudClip](https://github.com/skywind3000/CloudClip) - 云剪贴板，在不同的系统之间 copy/paste （使用 gist 作为后端）
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式
 * [desk](https://github.com/jamesob/desk) - 适用于 shell 的轻量级工作区管理器
 * [direnv](https://github.com/direnv/direnv) - 针对 shell 的环境切换工具（利用 autoenv 比较）
@@ -43,6 +45,7 @@
 * [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索器
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - 在命令输出中给单词着色
 * [hr](https://github.com/LuRsT/hr) - 适用于终端的 `<hr />`
+* [hss](https://github.com/six-ddc/hss) - 可交互的ssh批量执行客户端，具有自动完成远端路径和异步执行的特性
 * [hstr](https://github.com/dvorka/hstr) - Bash 历史建议框
 * [k](https://github.com/supercrabtree/k) - k 是一个使目录列表更可读的 Zsh 脚本，它增添了 Git 状态、文件颜色、以及腐朽的日期
 * [k alias](https://github.com/lingtalfi/k) - 获得用于单行的酷 alias
@@ -107,9 +110,9 @@
 * [git-sh](https://github.com/rtomayko/git-sh) - 适合 Git 工作的定制 Bash 环境
 * [git-up](https://github.com/aanand/git-up) - 自动变基进来的更改代替合并，优雅！
 * [hub](https://github.com/github/hub) - 更易使用 GitHub 的命令行工具
-* [mr](https://github.com/joeyh/myrepos) - 多仓库管理工具
+* [mr](https://myrepos.branchable.com) - 多仓库管理工具
 * [overcommit](https://github.com/brigade/overcommit) - 完全可配置且可扩展的 Git hook 管理器
-* [pre-commit](http://pre-commit.com) - 用于管理及维护多语言 pre-commit hooks 的框架
+* [pre-commit](https://pre-commit.com) - 用于管理及维护多语言 pre-commit hooks 的框架
 * [repren](https://github.com/jlevy/repren) - 命令行搜索与替换及文件重命名的瑞士军刀式工具
 * [slap](https://github.com/slap-editor/slap) - 运行在 Node.js 上的基于终端的类 Sublime 文本编辑器
 * [shipit](https://github.com/sapegin/shipit) - 极简 SSH 部署
@@ -167,7 +170,7 @@
 * [sejda](https://github.com/torakiki/sejda/) - 命令行下的 PDF 文档处理工具（分割、合并、旋转、转换为 jpg、提取文本等）
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - 古老而强大的命令行 XML 格式化、过滤及处理工具
 * [ffmpeg](http://ffmpeg.org/) - 非常强大的视频处理工具
-* [imagmMagick](http://www.imagemagick.org/script/index.php) - 其强大有目共睹
+* [imageMagick](http://www.imagemagick.org/script/index.php) - 其强大有目共睹
 
 ## 应用程序
 
@@ -204,6 +207,7 @@
 
 * [bash2048](https://github.com/mydzor/bash2048) - 2048 游戏的 Bash 实现
 * [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - 扫雷的 Bash 实现
+* [piu-piu](https://github.com/vaniacer/piu-piu-SH) - 水平滚动游戏 Bash 实现
 * [sedtris](https://github.com/uuner/sedtris) - 使用 sed 实现的俄罗斯方块
 * [sed-scripts](https://github.com/aureliojargas/sed-scripts) - 使用 sed 编写的 Arkanoid 和 Sokoban
 
@@ -213,7 +217,7 @@
 
 * [bash-it](https://github.com/Bash-it/bash-it) - 社区化的 Bash 框架
 * [basher](https://github.com/basherpm/basher) - 针对 shell 脚本的包管理器
-* [bpkg](http://www.bpkg.io/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
+* [bpkg](http://www.bpkg.sh/) - JavaScript 有 npm、Ruby 有 Gems、Python 有 pip，现在 Shell 有 bpkg
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – 使用 Python 编写的基于 Git 的 Shell dotfiles 管理器
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
@@ -226,9 +230,9 @@
 
 * [ansi](https://github.com/fidian/ansi) - 使用纯 Bash 实现的 ANSI 转义码，包括更改文本颜色、定位光标等等
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
-* [bashful](https://github.com/jmcantrell/bashful) - 简化编写 Bash 脚本的库收集
+* [bashful](https://github.com/plytophogy/bashful) - 简化编写 Bash 脚本的库收集
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - 用来创建命令行工具的微型 Bash 框架
-* [bats](https://github.com/sstephenson/bats) - Bash 自动化测试系统
+* [bats](https://github.com/bats-core/bats-core) - Bash 自动化测试系统
 * [Fishtape](https://github.com/fisherman/fishtape) - 适用于 fish 的 TAP 产生器及测试工具
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - 使用 50 行可移植 shell 脚本写成的命令行参数解析器
@@ -237,7 +241,7 @@
 * [optparse](https://github.com/nk412/optparse) - 针对 getopts 的 BASH wrapper，用于简单的命令行参数
 * [rerun](https://github.com/rerun/rerun) - 用来管理保留脚本的模块化 shell 自动化框架
 * [semver_bash](https://github.com/cloudflare/semver_bash) - 使用 Bash 实现的语义化版本
-* [sh-semver] (https://github.com/qzb/sh-semver) - 适用于 bash 的 Semver 工具，匹配指定规则来查找版本
+* [sh-semver](https://github.com/qzb/sh-semver) - 适用于 bash 的 Semver 工具，匹配指定规则来查找版本
 * [shellcheck](https://github.com/koalaman/shellcheck) - 针对 shell 脚本的静态化分析工具
 * [shellfire](https://github.com/shellfire-dev/shellfire) - 命名空间仓库，可写 shell (bash、sh 及 dash) 函数库
 * [shpec](https://github.com/rylnd/shpec) - shell 测试框架
@@ -267,6 +271,6 @@
 
 
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
-[awesome-fish]: https://github.com/jbucaran/awesome-fish
+[awesome-fish]: https://github.com/fisherman/awesome-fish-shell
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
