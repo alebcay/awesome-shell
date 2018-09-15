@@ -135,6 +135,7 @@
 * [powertop](https://github.com/fenrus75/powertop) - 电池/电源占用及设备状态监视命令行工具，包含调整选项
 * [procdog](https://github.com/jlevy/procdog) - 轻量级的命令行控制类似服务器的长实时进程
 * [quick-secure](https://github.com/marshyski/quick-secure) - 快速的安全并加固 UNIX/Linux 系统
+* [wifi-wand](https://github.com/keithrbennett/wifiwand) - 一个用来管理MacOs上 WiFi无线网络的Ruby命令行应用程序, 安装请执行 `gem install wifi-wand`)
 
 ## 下载与服务
 
