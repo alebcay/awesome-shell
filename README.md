@@ -25,6 +25,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 - [Multimedia and File Formats](#multimedia-and-file-formats)
 - [Applications](#applications)
 - [Games](#games)
+- [Funny](#funny)
 - [Shell Package Management](#shell-package-management)
 - [Shell Script Development](#shell-script-development)
 - [Guides](#guides)
@@ -284,6 +285,18 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sedtris](https://github.com/uuner/sedtris) - Tetris in sed
 * [sed-scripts](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
 * [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
+
+
+## Funny
+
+*Funny Command line-based tools.*
+
+* [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl".
+* [cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation.
+* [cowsay](https://github.com/piuccio/cowsay) - cowsay is a configurable talking cow.
+* [catsay](https://github.com/vaniacer/piu-piu-SH) - catsay is a configurable talking cat.
+* [figlet](http://www.figlet.org/) - FIGlet is a program for making large letters out of ordinary text.
+* [lolcat](https://github.com/busyloop/lolcat) - convert text to Rainbows and unicorns!.
 
 ## Shell Package Management
 
