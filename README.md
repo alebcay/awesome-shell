@@ -244,6 +244,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
 * [awless](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
 * [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
+* [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 * [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line tool
