@@ -283,8 +283,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [piu-piu](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
 * [sedtris](https://github.com/uuner/sedtris) - Tetris in sed
 * [sed-scripts](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
-* [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
 * [SHTAP](https://notimetoplay.org/engines/shtap/) - Reusable text adventure engine for Bash 4
+* [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
 
 ## Shell Package Management
 
