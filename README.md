@@ -118,6 +118,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [up](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
+* [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [z](https://github.com/rupa/z) - z is the new j, yo
 
 ## Customization
