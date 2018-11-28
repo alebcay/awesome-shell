@@ -65,6 +65,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
+* [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 * [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
@@ -95,6 +96,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 * [parallel](http://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
+* [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [q](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
