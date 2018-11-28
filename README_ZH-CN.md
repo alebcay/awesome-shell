@@ -50,6 +50,7 @@
 * [k](https://github.com/supercrabtree/k) - k 是一个使目录列表更可读的 Zsh 脚本，它增添了 Git 状态、文件颜色、以及腐朽的日期
 * [k alias](https://github.com/lingtalfi/k) - 获得用于单行的酷 alias
 * [marker](https://github.com/pindexis/marker) - 将你的 shell 命令加到书签
+* [mackup](https://github.com/lra/mackup/) - 云同步应用程序的配置文件(OS X/Linux)
 * [parallel](http://www.gnu.org/software/parallel/) - 以并行化方式从标准输入构造并执行 shell 命令行
 * [pathpicker](https://github.com/facebook/PathPicker) - 允许将 grep、搜索、git 等的输出结果作为输入，并提供友好的选择界面，以便打开或作为命令的参数
 * [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
