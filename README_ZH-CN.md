@@ -58,7 +58,7 @@
 * [slugify](https://github.com/benlinton/slugify) - 将文件名及目录转换为 web 友好的格式
 * [sman](https://github.com/tokozedg/sman) - :bug: 命令行下的片断管理器
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
-* [Shark](https://github.com/fisherman/shark) - ▁▂▃▅ Sparkline 生成器
+* [Shark](https://github.com/jorgebucaran/shark) - ▁▂▃▅ Sparkline 生成器
 * [sheet](https://github.com/oscardelben/sheet) -  用于命令行的文本片断
 * [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
@@ -102,7 +102,7 @@
 * [bocker](https://github.com/p8952/bocker) - 使用百行 bash 实现的 Docker
 * [cloc](https://github.com/AlDanial/cloc) - 统计代码行数
 * [dokku](https://github.com/dokku/dokku) - 百行 Bash 打造的 Docker 迷你 Heroku
-* [getopts](https://github.com/fisherman/getopts) - 适用于 fish 的命令行解析器
+* [getopts](https://github.com/jorgebucaran/fishopts) - 适用于 fish 的命令行解析器
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - 很多 Git 扩展工具，包括 churn、cut-branch、improved-merge 等
 * [git-extras](https://github.com/tj/git-extras) - Git 工具，包括仓库摘要、repl、更改日志人数、作者提交百分比等
 * [git-open](https://github.com/paulirish/git-open) - 输入 `git open` 在浏览器中打开 GitHub 页面或仓库网站
@@ -235,7 +235,7 @@
 * [bashful](https://github.com/plytophogy/bashful) - 简化编写 Bash 脚本的库收集
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - 用来创建命令行工具的微型 Bash 框架
 * [bats](https://github.com/bats-core/bats-core) - Bash 自动化测试系统
-* [Fishtape](https://github.com/fisherman/fishtape) - 适用于 fish 的 TAP 产生器及测试工具
+* [Fishtape](https://github.com/jorgebucaran/fishtape) - 适用于 fish 的 TAP 产生器及测试工具
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - 使用 50 行可移植 shell 脚本写成的命令行参数解析器
 * [is.sh](https://github.com/qzb/is.sh) - 内置 test 命令的替代品，使 "if" 语句更漂亮
