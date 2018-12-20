@@ -109,7 +109,6 @@
 * [git-open](https://github.com/paulirish/git-open) - 输入 `git open` 在浏览器中打开 GitHub 页面或仓库网站
 * [git-semver](https://github.com/markchalloner/git-semver) - 用来方便的语义化版本及更改日志验证的 Git 插件
 * [git-sh](https://github.com/rtomayko/git-sh) - 适合 Git 工作的定制 Bash 环境
-* [git-up](https://github.com/aanand/git-up) - 自动变基进来的更改代替合并，优雅！
 * [hub](https://github.com/github/hub) - 更易使用 GitHub 的命令行工具
 * [mr](https://myrepos.branchable.com) - 多仓库管理工具
 * [overcommit](https://github.com/brigade/overcommit) - 完全可配置且可扩展的 Git hook 管理器
