@@ -70,6 +70,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
+* [fast_cd_menu](https://github.com/xhawk18/fast_cd_menu) - cd history menu implemented by bash
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 * [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for firefox and surf browsers.
 * [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
