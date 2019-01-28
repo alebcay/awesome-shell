@@ -42,7 +42,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [osh](https://www.oilshell.org) - Bash compatible, with new/modern Unix shell language called Oil
 * [shenv](https://github.com/shenv/shenv) - Simple shell version management
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
-* [xonsh](https://xonsh.org) - Python-ish, BASHwards-looking shell language and command prompt
+* [xonsh](http://xonsh.org) - Python-ish, BASHwards-looking shell language and command prompt
 * [zsh](http://www.zsh.org) - Powerful shell with scripting language
 
 ## Command-Line Productivity
@@ -107,7 +107,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
-* [Shark](https://github.com/jorgebucaran/shark) - ▁▂▃▅ Sparkline Generator
+* [shark](https://github.com/jorgebucaran/fish-spark) - ▁▂▃▅ Sparkline Generator
 * [sheet](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 * [spot](https://github.com/rauchg/spot) - Tiny file search utility
 - [snips](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
@@ -157,7 +157,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code
 * [doclt](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 * [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
-* [fishopts](https://github.com/jorgebucaran/fishopts) - CLI parser for fish
+* [fish-getopts](https://github.com/jorgebucaran/fish-getopts) - CLI parser for fish
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
@@ -185,7 +185,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
 * [catcli](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
 * [ccat](https://github.com/jingweno/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
-* [colorex](https://bitbucket.org/linibou/colorex/wiki/Home) - Displays files or sdtin with pretty colors for matched patterns.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 * [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
@@ -325,7 +324,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash-language-server](https://github.com/mads-hartmann/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 * [crash](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
-* [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
+* [Fishtape](https://github.com/jorgebucaran/fish-tape) - TAP producer and test harness for fish
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
@@ -350,7 +349,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 # Guides
 
-* [Bash Hackers Wiki](http://wiki.bash-hackers.org/)
+* [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 * [Greg Wooledge's (aka "greycat") wiki](http://mywiki.wooledge.org).
   Specifically [Bash Guide](http://mywiki.wooledge.org/BashGuide), [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 * [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
@@ -359,7 +358,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
 
 # Other Awesome Lists
@@ -374,6 +373,6 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-fish]: https://github.com/jorgebucaran/awesome-fish-shell
+[awesome-fish]: https://github.com/jorgebucaran/awesome-fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins

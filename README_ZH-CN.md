@@ -59,7 +59,7 @@
 * [slugify](https://github.com/benlinton/slugify) - 将文件名及目录转换为 web 友好的格式
 * [sman](https://github.com/tokozedg/sman) - :bug: 命令行下的片断管理器
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
-* [Shark](https://github.com/jorgebucaran/shark) - ▁▂▃▅ Sparkline 生成器
+* [shark](https://github.com/jorgebucaran/fish-spark) - ▁▂▃▅ Sparkline 生成器
 * [sheet](https://github.com/oscardelben/sheet) -  用于命令行的文本片断
 * [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
@@ -103,7 +103,7 @@
 * [bocker](https://github.com/p8952/bocker) - 使用百行 bash 实现的 Docker
 * [cloc](https://github.com/AlDanial/cloc) - 统计代码行数
 * [dokku](https://github.com/dokku/dokku) - 百行 Bash 打造的 Docker 迷你 Heroku
-* [getopts](https://github.com/jorgebucaran/fishopts) - 适用于 fish 的命令行解析器
+* [fish-getopts](https://github.com/jorgebucaran/fish-getopts) - 适用于 fish 的命令行解析器
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - 很多 Git 扩展工具，包括 churn、cut-branch、improved-merge 等
 * [git-extras](https://github.com/tj/git-extras) - Git 工具，包括仓库摘要、repl、更改日志人数、作者提交百分比等
 * [git-open](https://github.com/paulirish/git-open) - 输入 `git open` 在浏览器中打开 GitHub 页面或仓库网站
@@ -236,7 +236,7 @@
 * [bashful](https://github.com/plytophogy/bashful) - 简化编写 Bash 脚本的库收集
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - 用来创建命令行工具的微型 Bash 框架
 * [bats](https://github.com/bats-core/bats-core) - Bash 自动化测试系统
-* [Fishtape](https://github.com/jorgebucaran/fishtape) - 适用于 fish 的 TAP 产生器及测试工具
+* [Fishtape](https://github.com/jorgebucaran/fish-tape) - 适用于 fish 的 TAP 产生器及测试工具
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - 使用 50 行可移植 shell 脚本写成的命令行参数解析器
 * [is.sh](https://github.com/qzb/is.sh) - 内置 test 命令的替代品，使 "if" 语句更漂亮
@@ -256,7 +256,7 @@
 
 # 指南
 
-* [Bash 黑客的维基](http://wiki.bash-hackers.org/)
+* [Bash 黑客的维基](https://wiki.bash-hackers.org/)
 * [Greg Wooledge（又名 "greycat"）的维基](http://mywiki.wooledge.org)：尤其是 [Bash 指南](http://mywiki.wooledge.org/BashGuide)、[Bash 疑难问答](http://mywiki.wooledge.org/BashFAQ) 及 [Bash 陷阱](http://mywiki.wooledge.org/BashPitfalls)
 * [Google 的 Shell 风格指南](https://google.github.io/styleguide/shell.xml)
 * [Linux 文档项目: Bash 编程 - 简介/如何做](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
@@ -264,7 +264,7 @@
 * [WikiBooks: Bash Shell 脚本](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [使用非官方的 Bash 严格模式 (除非你爱调试)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
-* [学会成为命令行杀手](https://www.learnenough.com/command-line-tutorial)
+* [学会成为命令行杀手](https://www.learnenough.com/command-line-tutorial/basics)
 * [学习bash的指南](https://github.com/Idnan/bash-guide)
 
 
@@ -274,6 +274,6 @@
 
 
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
-[awesome-fish]: https://github.com/jorgebucaran/awesome-fish-shell
+[awesome-fish]: https://github.com/jorgebucaran/awesome-fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
