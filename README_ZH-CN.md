@@ -236,7 +236,7 @@
 * [bashful](https://github.com/plytophogy/bashful) - 简化编写 Bash 脚本的库收集
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - 用来创建命令行工具的微型 Bash 框架
 * [bats](https://github.com/bats-core/bats-core) - Bash 自动化测试系统
-* [Fishtape](https://github.com/jorgebucaran/fish-tape) - 适用于 fish 的 TAP 产生器及测试工具
+* [Fishtape](https://github.com/jorgebucaran/fishtape) - 适用于 fish 的 TAP 产生器及测试工具
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - 使用 50 行可移植 shell 脚本写成的命令行参数解析器
 * [is.sh](https://github.com/qzb/is.sh) - 内置 test 命令的替代品，使 "if" 语句更漂亮
