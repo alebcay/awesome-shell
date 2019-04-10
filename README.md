@@ -44,6 +44,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
 * [xonsh](http://xonsh.org) - Python-ish, BASHwards-looking shell language and command prompt
 * [zsh](http://www.zsh.org) - Powerful shell with scripting language
+* [shell++](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional and object oriented shell script language.
 
 ## Command-Line Productivity
 
