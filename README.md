@@ -44,6 +44,11 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
 * [xonsh](http://xonsh.org) - Python-ish, BASHwards-looking shell language and command prompt
 * [zsh](http://www.zsh.org) - Powerful shell with scripting language
+* [ksh93](https://github.com/att/ast) - Korn Shell
+* [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
+* [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh
+* [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+* [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 
 ## Command-Line Productivity
 
