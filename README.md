@@ -39,9 +39,14 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell)
 * [elvish](https://elv.sh/) - Friendly, expressive shell features like anonymous functions and data structures
 * [fish](https://fishshell.com) - Smart and user-friendly command line shell
+* [ksh93](https://github.com/att/ast) - Korn Shell
+* [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+* [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 * [osh](https://www.oilshell.org) - Bash compatible, with new/modern Unix shell language called Oil
+* [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
 * [shell++](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
 * [shenv](https://github.com/shenv/shenv) - Simple shell version management
+* [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
 * [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
 * [zsh](http://www.zsh.org) - Powerful shell with scripting language
