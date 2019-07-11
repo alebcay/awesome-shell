@@ -231,7 +231,8 @@
 *用于编写、改进、及管理 Bash 或其它 shell 脚本的工具。*
 
 * [ansi](https://github.com/fidian/ansi) - 使用纯 Bash 实现的 ANSI 转义码，包括更改文本颜色、定位光标等等
-* [assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
+* [torokmark/assert.sh](https://github.com/torokmark/assert.sh) - Assertion lib for shell script users
+* [lehmannro/assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
 * [bashful](https://github.com/plytophogy/bashful) - 简化编写 Bash 脚本的库收集
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - 用来创建命令行工具的微型 Bash 框架
 * [bats](https://github.com/bats-core/bats-core) - Bash 自动化测试系统
