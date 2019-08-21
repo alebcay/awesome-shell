@@ -126,7 +126,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [z](https://github.com/rupa/z) - z is the new j, yo
-* [td-cli](https://github.com/darrikonn/td-cli) - A todo command-line manager to organize and manage your todos across multiple projects.
+* [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 
 
 ## Customization
