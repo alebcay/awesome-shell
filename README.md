@@ -117,6 +117,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 * [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
 * [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
+* [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr](https://github.com/raylee/tldr) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](http://tmux.github.io/) - Amazing terminal multiplexer
@@ -126,8 +127,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [z](https://github.com/rupa/z) - z is the new j, yo
-* [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
-
 
 ## Customization
 
