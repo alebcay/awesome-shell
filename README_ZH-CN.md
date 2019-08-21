@@ -75,6 +75,7 @@
 * [v](https://github.com/rupa/v) - 适用于 Vim 的 z
 * [wemux](https://github.com/zolrath/wemux) - 多用户使用 Tmux 变得更容易
 * [z](https://github.com/rupa/z) - z 是新的 j
+* [td-cli](https://github.com/darrikonn/td-cli) - 组织者命令行管理器，用于跨多个项目组织和管理您的待办事项。
 
 ## 定制
 
