@@ -68,7 +68,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
-* [byobu](http://byobu.co/) - Text-based window manager and terminal multiplexer
+* [byobu](https://byobu.org/) - Text-based window manager and terminal multiplexer
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
