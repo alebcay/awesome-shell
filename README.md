@@ -76,7 +76,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
-* [googlr](https://github.com/Camji55/googlr) - Command line tool that lets you search Google from your terminal.
+* [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
 * [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 * [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 * [how2](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
@@ -168,7 +168,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 * [mr](https://myrepos.branchable.com) - Multiple Repository management tool
-* [overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
+* [overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [rebound](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
@@ -219,7 +219,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
-* [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
+* [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
 
 ## Multimedia and File Formats
 
@@ -309,7 +309,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 * [shundle](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
-* [yadm](https://thelocehiliosan.github.io/yadm/) - Git-based dotfiles manager supporting encryption, alternates, and bootstrapping
+* [yadm](https://yadm.io/) - Git-based dotfiles manager supporting encryption, alternates, and bootstrapping
 
 ## Shell Script Development
 
@@ -324,7 +324,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash-language-server](https://github.com/mads-hartmann/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 * [crash](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
-* [Fishtape](https://github.com/jorgebucaran/fish-tape) - TAP producer and test harness for fish
+* [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
