@@ -25,7 +25,7 @@
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串
 * [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名
 * [aliasme](https://github.com/Jintin/aliasme) - 用来快速更改目录的 alias 辅助程序
-* [autoenv](https://github.com/kennethreitz/autoenv) - 基于目录的环境
+* [autoenv](https://github.com/inishchith/autoenv) - 基于目录的环境
 * [autojump](https://github.com/wting/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: 在云中的 bash 历史，已索引且可搜索。
 * [bashmarks](https://github.com/huyng/bashmarks) - 适用于 shell 的目录书签
@@ -111,7 +111,7 @@
 * [git-sh](https://github.com/rtomayko/git-sh) - 适合 Git 工作的定制 Bash 环境
 * [hub](https://github.com/github/hub) - 更易使用 GitHub 的命令行工具
 * [mr](https://myrepos.branchable.com) - 多仓库管理工具
-* [overcommit](https://github.com/brigade/overcommit) - 完全可配置且可扩展的 Git hook 管理器
+* [overcommit](https://github.com/sds/overcommit) - 完全可配置且可扩展的 Git hook 管理器
 * [pre-commit](https://pre-commit.com) - 用于管理及维护多语言 pre-commit hooks 的框架
 * [repren](https://github.com/jlevy/repren) - 命令行搜索与替换及文件重命名的瑞士军刀式工具
 * [slap](https://github.com/slap-editor/slap) - 运行在 Node.js 上的基于终端的类 Sublime 文本编辑器
@@ -150,7 +150,7 @@
 * [http-server](https://www.npmjs.com/package/http-server) - http-server可以启动一个轻量级的http服务
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
-* [youtube-dl](https://github.com/rg3/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
+* [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
 * [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
 
 ## 多媒体与文件格式
@@ -187,7 +187,7 @@
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - 从终端舒服的浏览 Hacker News
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) - 利用 IP 地址在世界地图上绘点
 * [isitup](https://github.com/lord63/isitup) - 检查一个网站是否正常上线
-* [jrnl](https://github.com/maebert/jrnl) - 使用无格式文本文件存储日记的简单命令行程序
+* [jrnl](https://github.com/jrnl-org/jrnl) - 使用无格式文本文件存储日记的简单命令行程序
 * [ledger](https://github.com/ledger/ledger) - 命令行记账
 * [licen](https://github.com/lord63/licen) - 生成项目 license
 * [md2png](https://github.com/weaming/md2png) - 从 markdown 文件生成 png 图片
@@ -232,10 +232,10 @@
 
 * [ansi](https://github.com/fidian/ansi) - 使用纯 Bash 实现的 ANSI 转义码，包括更改文本颜色、定位光标等等
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
-* [bashful](https://github.com/plytophogy/bashful) - 简化编写 Bash 脚本的库收集
+* [bashful](https://github.com/jmcantrell/bashful) - 简化编写 Bash 脚本的库收集
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - 用来创建命令行工具的微型 Bash 框架
 * [bats](https://github.com/bats-core/bats-core) - Bash 自动化测试系统
-* [Fishtape](https://github.com/jorgebucaran/fish-tape) - 适用于 fish 的 TAP 产生器及测试工具
+* [Fishtape](https://github.com/jorgebucaran/fishtape) - 适用于 fish 的 TAP 产生器及测试工具
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - 使用 50 行可移植 shell 脚本写成的命令行参数解析器
 * [is.sh](https://github.com/qzb/is.sh) - 内置 test 命令的替代品，使 "if" 语句更漂亮
