@@ -42,7 +42,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [osh](https://www.oilshell.org) - Bash compatible, with new/modern Unix shell language called Oil
 * [shenv](https://github.com/shenv/shenv) - Simple shell version management
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
-* [xonsh](http://xonsh.org) - Python-ish, BASHwards-looking shell language and command prompt
+* [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
 * [zsh](http://www.zsh.org) - Powerful shell with scripting language
 
 ## Command-Line Productivity
@@ -76,7 +76,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
-* [googlr](https://github.com/Camji55/googlr) - Command line tool that lets you search Google from your terminal.
+* [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
 * [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 * [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 * [how2](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
@@ -309,7 +309,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 * [shundle](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
-* [yadm](https://thelocehiliosan.github.io/yadm/) - Git-based dotfiles manager supporting encryption, alternates, and bootstrapping
+* [yadm](https://yadm.io/) - Git-based dotfiles manager supporting encryption, alternates, and bootstrapping
 
 ## Shell Script Development
 
