@@ -53,7 +53,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 * [aliasme](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
-* [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments
+* [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments
 * [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
@@ -168,7 +168,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 * [mr](https://myrepos.branchable.com) - Multiple Repository management tool
-* [overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
+* [overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [rebound](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
@@ -219,7 +219,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
-* [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
+* [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
 
 ## Multimedia and File Formats
 
@@ -260,7 +260,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup](https://github.com/lord63/isitup) - Check whether a website is up or down
-* [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
+* [jrnl](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 * [md2png](https://github.com/weaming/md2png) - Convert markdown to PNG image
@@ -317,14 +317,14 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
-* [bashful](https://github.com/plytophogy/bashful) - A collection of libraries to simplify writing Bash scripts
+* [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 * [Bashlets](https://github.com/bashlets) - A modular extensible toolbox for Bash
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
 * [bash-language-server](https://github.com/mads-hartmann/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 * [crash](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
-* [Fishtape](https://github.com/jorgebucaran/fish-tape) - TAP producer and test harness for fish
+* [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
