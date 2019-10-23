@@ -74,6 +74,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 * [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
+* [dnote](https://github.com/dnote/dnote) - A simple, end-to-end encrypted notebook for developers
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
