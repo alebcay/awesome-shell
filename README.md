@@ -42,7 +42,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [osh](https://www.oilshell.org) - Bash compatible, with new/modern Unix shell language called Oil
 * [shenv](https://github.com/shenv/shenv) - Simple shell version management
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
-* [xonsh](http://xonsh.org) - Python-ish, BASHwards-looking shell language and command prompt
+* [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
 * [zsh](http://www.zsh.org) - Powerful shell with scripting language
 
 ## Command-Line Productivity
@@ -53,7 +53,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 * [aliasme](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
-* [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments
+* [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments
 * [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
@@ -260,7 +260,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup](https://github.com/lord63/isitup) - Check whether a website is up or down
-* [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
+* [jrnl](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 * [md2png](https://github.com/weaming/md2png) - Convert markdown to PNG image
@@ -317,7 +317,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
-* [bashful](https://github.com/plytophogy/bashful) - A collection of libraries to simplify writing Bash scripts
+* [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 * [Bashlets](https://github.com/bashlets) - A modular extensible toolbox for Bash
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
