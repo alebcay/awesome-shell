@@ -76,6 +76,7 @@
 * [v](https://github.com/rupa/v) - 适用于 Vim 的 z
 * [wemux](https://github.com/zolrath/wemux) - 多用户使用 Tmux 变得更容易
 * [z](https://github.com/rupa/z) - z 是新的 j
+* [z.lua](https://github.com/skywind3000/z.lua) - 一个会学习你使用习惯的快速 cd 命令
 
 ## 定制
 
