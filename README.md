@@ -161,6 +161,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Command-line development, version control, and deployment.*
 
+* [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
 * [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
