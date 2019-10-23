@@ -69,6 +69,7 @@
 * [mosh](https://mosh.org) - 第一个实现SSP的应用，MIT的博士项目，使得C/S之间可以保持链接持续，即使断开还能恢复之前的状态
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - 从终端学习英语词汇
+* [td-cli](https://github.com/darrikonn/td-cli) - 组织者命令行管理器，用于跨多个项目组织和管理您的待办事项。
 * [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误
 * [tmux](http://tmux.github.io/) - 很棒的终端复用器
 * [up](https://github.com/shannonmoeller/up) - 按名称或计数升序排列目录，支持 bash 和 zsh
