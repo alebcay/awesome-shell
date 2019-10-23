@@ -101,6 +101,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [loop](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
 * [mackup](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux)
+* [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
 * [modules](http://modules.sourceforge.net/) - Classical Tcl-based Environment Modules managing the shell environment (compare to Lmod, direnv, and autoenv)
 * [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 * [parallel](http://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
