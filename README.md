@@ -262,6 +262,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [xidel](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
 * [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
+* [GROQ](https://github.com/sanity-io/groq-cli) – Powerful JSON processor. Query and project (ND)JSON documents from stdin.
 
 ## Applications
 
