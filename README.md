@@ -198,6 +198,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
+* [PSMON](https://github.com/Raphaeangelo/PSMON) - PSMON is a script that checks running processes hashes against malware hashes and alerts you if malware is detected on your machine
 * [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
 * [bat](https://github.com/sharkdp/bat) - A `cat` clone with wings
 * [bmon](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
