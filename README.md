@@ -49,6 +49,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
 * [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
+* [yash](https://yash.osdn.jp/) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
 * [zsh](http://www.zsh.org) - Powerful shell with scripting language
 
 ## Command-Line Productivity
