@@ -41,6 +41,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fish](https://fishshell.com) - Smart and user-friendly command line shell
 * [ksh93](https://github.com/att/ast) - Korn Shell
 * [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+* [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust 
 * [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 * [osh](https://www.oilshell.org) - Bash compatible, with new/modern Unix shell language called Oil
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
