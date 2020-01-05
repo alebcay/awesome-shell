@@ -86,6 +86,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [funky](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+* [gitmux](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 * [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
 * [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
