@@ -154,6 +154,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bullet-train-oh-my-zsh-theme](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 * [emojify](https://github.com/mrowa44/emojify) Emoji on the command line :scream:
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Nicer colors for terminal
+* [geometry](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
 * [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules
 * [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
 * [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
