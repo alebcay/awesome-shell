@@ -67,7 +67,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
-* [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
+* [boom](https://github.com/holman/boom) - Store links and snippets in the command line
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
 * [browsh](https://github.com/browsh-org/browsh) - The modern text-based browser
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
@@ -82,7 +82,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [eureka](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
-* [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for firefox and surf browsers.
+* [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers.
 * [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 * [funky](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
@@ -126,7 +126,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shark](https://github.com/jorgebucaran/fish-spark) - ▁▂▃▅ Sparkline Generator
 * [sheet](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 * [spot](https://github.com/rauchg/spot) - Tiny file search utility
-- [snips](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
+- [snips](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
 * [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
