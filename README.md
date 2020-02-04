@@ -126,6 +126,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shark](https://github.com/jorgebucaran/fish-spark) - ▁▂▃▅ Sparkline Generator
 * [sheet](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 * [spot](https://github.com/rauchg/spot) - Tiny file search utility
+* [snipline-cli](https://github.com/snipline/snipcli/) - A tool for managing shell commands
 - [snips](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
 * [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
