@@ -42,7 +42,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ion](https://github.com/redox-os/ion) - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
 * [ksh93](https://github.com/att/ast) - Korn Shell
 * [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
-* [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust 
+* [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 * [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 * [osh](https://www.oilshell.org) - Bash compatible, with new/modern Unix shell language called Oil
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
@@ -72,7 +72,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
 * [browsh](https://github.com/browsh-org/browsh) - The modern text-based browser
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
-* [byobu](https://byobu.org/) - Text-based window manager and terminal multiplexer
+* [byobu](https://www.byobu.org) - Text-based window manager and terminal multiplexer
 * [cod](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
@@ -355,7 +355,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Bashlets](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
-* [bash-language-server](https://github.com/mads-hartmann/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
+* [bash-language-server](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 * [crash](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 * [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
