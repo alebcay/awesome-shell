@@ -77,6 +77,7 @@
 * [wemux](https://github.com/zolrath/wemux) - 多用户使用 Tmux 变得更容易
 * [z](https://github.com/rupa/z) - z 是新的 j
 * [z.lua](https://github.com/skywind3000/z.lua) - 一个会学习你使用习惯的快速 cd 命令
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - 用Rust编写的浏览文件系统的更快方法
 
 ## 定制
 
