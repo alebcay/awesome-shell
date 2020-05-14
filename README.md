@@ -204,7 +204,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 * [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 * [wipe-modules](https://github.com/bntzio/wipe-modules) - A little agent that removes the node_modules folder of non-active projects
-* [xtm](https://github.com/Camji55/xtm) - Command line tool that helps you manage your Xcode project templates.
 
 ## System Utilities
 
@@ -302,7 +301,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [md2png](https://github.com/weaming/md2png) - Convert markdown to PNG image
 * [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 * [nomino](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
-* [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
+* [pockyt](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
