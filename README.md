@@ -18,6 +18,7 @@
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [Shells](#shells)
 - [Command-Line Productivity](#command-line-productivity)
+  - [Directory Navigation](#directory-navigation)
 - [Customization](#customization)
 - [For Developers](#for-developers)
 - [System Utilities](#system-utilities)
@@ -61,12 +62,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
-* [aliasme](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
 * [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments
-* [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
-* [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-* [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 * [boom](https://github.com/holman/boom) - Store links and snippets in the command line
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
@@ -74,13 +71,11 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 * [byobu](https://www.byobu.org) - Text-based window manager and terminal multiplexer
 * [cod](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
-* [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 * [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
 * [dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
-* [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
 * [eureka](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
@@ -92,7 +87,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [gitmux](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 * [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-* [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 * [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 * [how2](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -100,10 +94,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
-* [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
-* [lazy-cd](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
 * [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
 * [loop](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
@@ -140,11 +132,23 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [tldr](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
 * [undollar](https://github.com/ImFeelingDucky/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
-* [up](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+
+### Directory Navigation
+
+* [aliasme](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
+* [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+* [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+* [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
+* [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+* [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
+* [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
+* [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
+* [lazy-cd](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
+* [up](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 * [z](https://github.com/rupa/z) - z is the new j, yo
 * [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
 
