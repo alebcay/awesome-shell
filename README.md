@@ -283,6 +283,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
 * [httpie](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * [HTTPLab](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
+* [Kapow!](https://github.com/BBVA/kapow) - If you can script it, you can HTTP it.
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
