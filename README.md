@@ -247,6 +247,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
+* [google-drive-upload](https://github.com/labbots/google-drive-upload) - Google drive uploader is a Bash script to upload/sync files to google drive
 * [httpie](https://github.com/jakubroztocil/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * [HTTPLab](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
