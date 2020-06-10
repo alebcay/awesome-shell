@@ -358,6 +358,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Bashlets](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
+* [bash-boilerplate](https://github.com/pforret/bash-boilerplate) - a Bash boilerplate template script with option/parameter parsing, quiet/verbose output, temp folder/file cleanup, better error reporting
 * [bash-language-server](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 * [crash](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
