@@ -60,13 +60,12 @@
 * [slugify](https://github.com/benlinton/slugify) - 将文件名及目录转换为 web 友好的格式
 * [sman](https://github.com/tokozedg/sman) - :bug: 命令行下的片断管理器
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
-* [shark](https://github.com/jorgebucaran/fish-spark) - ▁▂▃▅ Sparkline 生成器
+* [spark.fish](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline 生成器
 * [sheet](https://github.com/oscardelben/sheet) -  用于命令行的文本片断
 * [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
 * [sshpass](https://sourceforge.net/projects/sshpass/) - 通过命令行传递ssh密码，无需再次输入，适合用于脚本之中
-* [autossh](https://sourceforge.net/projects/autossh/) - 自动重启ssh通道和会话
 * [mosh](https://mosh.org) - 第一个实现SSP的应用，MIT的博士项目，使得C/S之间可以保持链接持续，即使断开还能恢复之前的状态
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - 从终端学习英语词汇
 * [td-cli](https://github.com/darrikonn/td-cli) - 组织者命令行管理器，用于跨多个项目组织和管理您的待办事项。
@@ -106,7 +105,7 @@
 * [bocker](https://github.com/p8952/bocker) - 使用百行 bash 实现的 Docker
 * [cloc](https://github.com/AlDanial/cloc) - 统计代码行数
 * [dokku](https://github.com/dokku/dokku) - 百行 Bash 打造的 Docker 迷你 Heroku
-* [fish-getopts](https://github.com/jorgebucaran/fish-getopts) - 适用于 fish 的命令行解析器
+* [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - 适用于 fish 的命令行解析器
 * [forgit](https://github.com/wfxr/forgit) - Git工具，使用`fzf`提供交互式的操作模式
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - 很多 Git 扩展工具，包括 churn、cut-branch、improved-merge 等
 * [git-extras](https://github.com/tj/git-extras) - Git 工具，包括仓库摘要、repl、更改日志人数、作者提交百分比等
@@ -277,6 +276,6 @@
 
 
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
-[awesome-fish]: https://github.com/jorgebucaran/awesome-fish
+[awesome-fish]: https://github.com/jorgebucaran/awesome.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg

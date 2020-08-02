@@ -118,7 +118,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
-* [shark](https://github.com/jorgebucaran/fish-spark) - ▁▂▃▅ Sparkline Generator
+* [spark.fish](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
 * [sheet](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 * [spot](https://github.com/rauchg/spot) - Tiny file search utility
 - [snips](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
@@ -188,7 +188,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code
 * [doclt](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 * [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
-* [fish-getopts](https://github.com/jorgebucaran/fish-getopts) - CLI parser for fish
+* [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -417,6 +417,6 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 
 [awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-fish]: https://github.com/jorgebucaran/awesome-fish
+[awesome-fish]: https://github.com/jorgebucaran/awesome.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
