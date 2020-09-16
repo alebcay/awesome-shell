@@ -38,7 +38,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Choose your base shell.*
 
 * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell)
-* [dash](https://wiki.archlinux.org/index.php/Dash) - bash compatible shell for debian
+* [dash](https://wiki.archlinux.org/index.php/Dash) - Bash compatible shell for debian
 * [elvish](https://elv.sh/) - Friendly, expressive shell features like anonymous functions and data structures
 * [fish](https://fishshell.com) - Smart and user-friendly command line shell
 * [ion](https://github.com/redox-os/ion) - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
