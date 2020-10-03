@@ -232,6 +232,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ls++](https://github.com/trapd00r/ls--) - Colorized ls on steroids
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 * [maza](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
+* [multitail](https://github.com/flok99/multitail) - Allows you to monitor logfiles and command output in multiple windows, colorize, filter, and merge.
 * [mtr](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 * [ncdu](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 * [nmtui](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
