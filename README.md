@@ -63,6 +63,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 * [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments
+* [bash4all](https://github.com/tpanj/bash4all) - Normalizing bash administration across different distributions
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 * [boom](https://github.com/holman/boom) - Store links and snippets in the command line
