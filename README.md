@@ -380,6 +380,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
 * [revolver](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 * [phases](https://github.com/sorokine/phases) - Minimally invasive bash preprocessor, select sections of your script to run
+* [powscript](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [sh-semver](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
