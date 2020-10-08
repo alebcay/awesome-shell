@@ -218,7 +218,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bat](https://github.com/sharkdp/bat) - A `cat` clone with wings
 * [bmon](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
 * [catcli](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
-* [ccat](https://github.com/jingweno/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
+* [ccat](https://github.com/owenthereal/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
 * [exa](https://github.com/ogham/exa) - A modern version of `ls`.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 * [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
@@ -252,7 +252,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
-* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
+* [httpie](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * [HTTPLab](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
@@ -397,8 +397,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Greg Wooledge's (aka "greycat") wiki](https://mywiki.wooledge.org).
   Specifically [Bash Guide](https://mywiki.wooledge.org/BashGuide), [Bash FAQ](https://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 * [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
-* [The Linux Documentation Project: Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
-* [The Linux Documentation Project: Advanced Bash Scripting Guide](https://www.tldp.org/LDP/abs/html/)
+* [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)

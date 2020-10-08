@@ -149,7 +149,7 @@
 * [bashttpd](https://github.com/avleen/bashttpd) - 使用 Bash 编写的 web 服务器
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" 或 "双向目录同步（含正确删除）"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader 是用来从 Dropbox 上传、下载、列出或删除文件的 Bash 脚本
-* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
+* [httpie](https://github.com/httpie/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
 * [http-server](https://www.npmjs.com/package/http-server) - http-server可以启动一个轻量级的http服务
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
@@ -261,8 +261,8 @@
 * [Bash 黑客的维基](https://wiki.bash-hackers.org/)
 * [Greg Wooledge（又名 "greycat"）的维基](http://mywiki.wooledge.org)：尤其是 [Bash 指南](http://mywiki.wooledge.org/BashGuide)、[Bash 疑难问答](http://mywiki.wooledge.org/BashFAQ) 及 [Bash 陷阱](http://mywiki.wooledge.org/BashPitfalls)
 * [Google 的 Shell 风格指南](https://google.github.io/styleguide/shell.xml)
-* [Linux 文档项目: Bash 编程 - 简介/如何做](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
-* [Linux 文档项目: 高级 Bash 脚本指南](http://www.tldp.org/LDP/abs/html/)
+* [Linux 文档项目: Bash 编程 - 简介/如何做](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [Linux 文档项目: 高级 Bash 脚本指南](https://tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell 脚本](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [使用非官方的 Bash 严格模式 (除非你爱调试)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
