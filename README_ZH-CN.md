@@ -60,13 +60,12 @@
 * [slugify](https://github.com/benlinton/slugify) - 将文件名及目录转换为 web 友好的格式
 * [sman](https://github.com/tokozedg/sman) - :bug: 命令行下的片断管理器
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
-* [shark](https://github.com/jorgebucaran/fish-spark) - ▁▂▃▅ Sparkline 生成器
+* [spark.fish](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline 生成器
 * [sheet](https://github.com/oscardelben/sheet) -  用于命令行的文本片断
 * [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
 * [sshpass](https://sourceforge.net/projects/sshpass/) - 通过命令行传递ssh密码，无需再次输入，适合用于脚本之中
-* [autossh](https://sourceforge.net/projects/autossh/) - 自动重启ssh通道和会话
 * [mosh](https://mosh.org) - 第一个实现SSP的应用，MIT的博士项目，使得C/S之间可以保持链接持续，即使断开还能恢复之前的状态
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - 从终端学习英语词汇
 * [td-cli](https://github.com/darrikonn/td-cli) - 组织者命令行管理器，用于跨多个项目组织和管理您的待办事项。
@@ -77,6 +76,7 @@
 * [wemux](https://github.com/zolrath/wemux) - 多用户使用 Tmux 变得更容易
 * [z](https://github.com/rupa/z) - z 是新的 j
 * [z.lua](https://github.com/skywind3000/z.lua) - 一个会学习你使用习惯的快速 cd 命令
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - 用Rust编写的浏览文件系统的更快方法
 
 ## 定制
 
@@ -105,7 +105,7 @@
 * [bocker](https://github.com/p8952/bocker) - 使用百行 bash 实现的 Docker
 * [cloc](https://github.com/AlDanial/cloc) - 统计代码行数
 * [dokku](https://github.com/dokku/dokku) - 百行 Bash 打造的 Docker 迷你 Heroku
-* [fish-getopts](https://github.com/jorgebucaran/fish-getopts) - 适用于 fish 的命令行解析器
+* [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - 适用于 fish 的命令行解析器
 * [forgit](https://github.com/wfxr/forgit) - Git工具，使用`fzf`提供交互式的操作模式
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - 很多 Git 扩展工具，包括 churn、cut-branch、improved-merge 等
 * [git-extras](https://github.com/tj/git-extras) - Git 工具，包括仓库摘要、repl、更改日志人数、作者提交百分比等
@@ -262,8 +262,8 @@
 * [Bash 黑客的维基](https://wiki.bash-hackers.org/)
 * [Greg Wooledge（又名 "greycat"）的维基](http://mywiki.wooledge.org)：尤其是 [Bash 指南](http://mywiki.wooledge.org/BashGuide)、[Bash 疑难问答](http://mywiki.wooledge.org/BashFAQ) 及 [Bash 陷阱](http://mywiki.wooledge.org/BashPitfalls)
 * [Google 的 Shell 风格指南](https://google.github.io/styleguide/shell.xml)
-* [Linux 文档项目: Bash 编程 - 简介/如何做](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
-* [Linux 文档项目: 高级 Bash 脚本指南](http://www.tldp.org/LDP/abs/html/)
+* [Linux 文档项目: Bash 编程 - 简介/如何做](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [Linux 文档项目: 高级 Bash 脚本指南](https://tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell 脚本](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [使用非官方的 Bash 严格模式 (除非你爱调试)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
@@ -277,6 +277,6 @@
 
 
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
-[awesome-fish]: https://github.com/jorgebucaran/awesome-fish
+[awesome-fish]: https://github.com/jorgebucaran/awesome.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg

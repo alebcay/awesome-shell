@@ -18,6 +18,7 @@
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [Shells](#shells)
 - [Command-Line Productivity](#command-line-productivity)
+  - [Directory Navigation](#directory-navigation)
 - [Customization](#customization)
 - [For Developers](#for-developers)
 - [System Utilities](#system-utilities)
@@ -61,12 +62,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
-* [aliasme](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
 * [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments
-* [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
-* [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-* [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 * [boom](https://github.com/holman/boom) - Store links and snippets in the command line
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
@@ -74,13 +71,11 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 * [byobu](https://www.byobu.org) - Text-based window manager and terminal multiplexer
 * [cod](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
-* [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 * [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
 * [dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
-* [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
 * [eureka](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
@@ -92,7 +87,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [gitmux](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 * [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-* [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 * [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 * [how2](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -100,10 +94,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
-* [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
-* [lazy-cd](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
 * [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
 * [loop](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
@@ -126,7 +118,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
-* [shark](https://github.com/jorgebucaran/fish-spark) - ▁▂▃▅ Sparkline Generator
+* [spark.fish](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
 * [sheet](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 * [spot](https://github.com/rauchg/spot) - Tiny file search utility
 - [snips](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
@@ -137,16 +129,29 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
 * [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
-* [tldr](https://github.com/raylee/tldr) - A fully-functional bash client for tldr, simplified and community-driven man pages
+* [tldr](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
 * [undollar](https://github.com/ImFeelingDucky/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
-* [up](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+
+### Directory Navigation
+
+* [aliasme](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
+* [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+* [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+* [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
+* [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+* [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
+* [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
+* [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
+* [lazy-cd](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
+* [up](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 * [z](https://github.com/rupa/z) - z is the new j, yo
 * [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
 
 ## Customization
 
@@ -168,6 +173,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 * [polyglot](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, dash, and busybox sh
+* [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 * [synth-shell](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
 
@@ -183,7 +189,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code
 * [doclt](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 * [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
-* [fish-getopts](https://github.com/jorgebucaran/fish-getopts) - CLI parser for fish
+* [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -213,7 +219,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bat](https://github.com/sharkdp/bat) - A `cat` clone with wings
 * [bmon](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
 * [catcli](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
-* [ccat](https://github.com/jingweno/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
+* [ccat](https://github.com/owenthereal/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
 * [exa](https://github.com/ogham/exa) - A modern version of `ls`.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 * [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
@@ -298,6 +304,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup](https://github.com/lord63/isitup) - Check whether a website is up or down
 * [jrnl](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
+* [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 * [md2png](https://github.com/weaming/md2png) - Convert markdown to PNG image
@@ -374,6 +381,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
 * [revolver](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 * [phases](https://github.com/sorokine/phases) - Minimally invasive bash preprocessor, select sections of your script to run
+* [powscript](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [sh-semver](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
@@ -389,12 +397,13 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 # Guides
 
+* [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 * [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 * [Greg Wooledge's (aka "greycat") wiki](https://mywiki.wooledge.org).
   Specifically [Bash Guide](https://mywiki.wooledge.org/BashGuide), [Bash FAQ](https://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 * [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
-* [The Linux Documentation Project: Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
-* [The Linux Documentation Project: Advanced Bash Scripting Guide](https://www.tldp.org/LDP/abs/html/)
+* [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
@@ -412,7 +421,7 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 * [awesome-zsh][awesome-zsh]
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-fish]: https://github.com/jorgebucaran/awesome-fish
+[awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-fish]: https://github.com/jorgebucaran/awesome.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
