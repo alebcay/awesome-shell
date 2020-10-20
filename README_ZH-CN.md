@@ -150,7 +150,7 @@
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" 或 "双向目录同步（含正确删除）"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader 是用来从 Dropbox 上传、下载、列出或删除文件的 Bash 脚本
 * [google-drive-upload](https://github.com/labbots/google-drive-upload) - Google云端硬盘上传器是一个Bash脚本，用于将文件上传/同步到Google云端硬盘
-* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
+* [httpie](https://github.com/httpie/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
 * [http-server](https://www.npmjs.com/package/http-server) - http-server可以启动一个轻量级的http服务
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
