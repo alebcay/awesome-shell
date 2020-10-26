@@ -131,7 +131,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
-* [undollar](https://github.com/ImFeelingDucky/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
+* [undollar](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
@@ -259,7 +259,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 * [vesper](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
-* [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
+* [youtube-dl](https://yt-dl.org/) - Small command-line program to download videos from YouTube.com and other video sites
 
 ## Multimedia and File Formats
 

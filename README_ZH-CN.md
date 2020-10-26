@@ -153,7 +153,7 @@
 * [http-server](https://www.npmjs.com/package/http-server) - http-server可以启动一个轻量级的http服务
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
-* [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
+* [youtube-dl](https://yt-dl.org/) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
 * [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
 
 ## 多媒体与文件格式
