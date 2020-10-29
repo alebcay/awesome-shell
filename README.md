@@ -229,6 +229,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hblock](https://github.com/hectorm/hblock) - Hosts-file based adblocker
 * [histstat](https://github.com/vesche/histstat) - History for netstat
 * [htop](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
+* [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor written in Bash which aims to be a better `htop`
+* [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor written in Python which aims to be a better `bashtop`
 * [lnav](https://lnav.org) - An advanced log file viewer for the small-scale
 * [logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 * [ls++](https://github.com/trapd00r/ls--) - Colorized ls on steroids
