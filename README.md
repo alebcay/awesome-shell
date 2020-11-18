@@ -211,6 +211,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 * [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 * [wipe-modules](https://github.com/bntzio/wipe-modules) - A little agent that removes the node_modules folder of non-active projects
+* [EasyDeployer](https://github.com/behrad-kzm/EasyDeployer) - Automatic flask app deployment with Gunicorn and Nginx
 
 ## System Utilities
 
