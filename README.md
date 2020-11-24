@@ -239,6 +239,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [nmtui](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
 * [powertop](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 * [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
+* [recent](https://gist.github.com/KebabLord/14c3e9ab66f1d721c29837042c435e5c) - List recent files from folders. Useful for downloads & screenshots.
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 * [rng](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
 * [wifi-wand](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
@@ -318,6 +319,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 * [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
+* [teriyaki](https://github.com/KebabLord/teriyaki) -  Control your android phone from terminal with powerful commands.
 * [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
