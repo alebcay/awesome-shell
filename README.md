@@ -425,6 +425,6 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 
 [awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-fish]: https://github.com/jorgebucaran/awesome.fish
+[awesome-fish]: https://github.com/jorgebucaran/awsm.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
