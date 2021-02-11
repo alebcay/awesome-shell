@@ -367,6 +367,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+* [bashew](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
 * [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 * [Bashlets](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
