@@ -137,6 +137,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [xiki](https://xiki.org) - Makes the shell console more friendly and powerful
+* [xplr](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
