@@ -1,0 +1,21 @@
+name: GitHub Actions CI
+on:
+  push:
+    branches: master
+  pull_request:
+
+jobs:
+  check_links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.0.8
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check lychee exit code
+        run: exit ${{ steps.lychee.outputs.exit_code }}
