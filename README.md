@@ -260,6 +260,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
+* [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. Think ShellHub as centralized SSH for the the edge and cloud computing.
 * [vesper](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
 * [youtube-dl](https://yt-dl.org/) - Small command-line program to download videos from YouTube.com and other video sites
 
