@@ -414,6 +414,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
+* [The Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 
 # Other Awesome Lists
 
