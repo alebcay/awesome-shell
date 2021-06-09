@@ -268,6 +268,7 @@
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
 * [学会成为命令行杀手](https://www.learnenough.com/command-line-tutorial/basics)
 * [学习bash的指南](https://github.com/Idnan/bash-guide)
+* [Terminal Cheat Sheet](https://terminalcheatsheet.com)
 
 
 # 其它 Awesome 清单
