@@ -49,6 +49,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 * [osh](https://www.oilshell.org) - Bash compatible, with new/modern Unix shell language called Oil
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
+* [scrift](https://github.com/FerhatGec/scrift-lang) - New generation Shell and Scripting Language project.
 * [shell++](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
 * [shenv](https://github.com/shenv/shenv) - Simple shell version management
 * [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
