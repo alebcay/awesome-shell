@@ -296,6 +296,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 * [xidel](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
+* [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 
 ## Applications
 
@@ -404,6 +405,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
 * [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
+* [shfmt](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
 * [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 * [sub](https://github.com/basecamp/sub) - A delicious way to organize programs
