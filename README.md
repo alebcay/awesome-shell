@@ -290,6 +290,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 * [xidel](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
+* [tmv](https://github.com/kal39/TerminalMediaViewer) - An truecolor image/video (including youtube) viewer
 
 ## Applications
 
