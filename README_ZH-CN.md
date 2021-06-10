@@ -41,6 +41,7 @@
 * [dnote](https://github.com/dnote/dnote) - 命令行上的笔记本，支持多设备同步和网络界面。
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: 具有交互式过滤功能的下一代 cd 命令
 * [fasd](https://github.com/clvv/fasd) - 命令行效率提升器，提供快速访问文件及目录
+* [fast_cd_menu](https://github.com/xhawk18/fast_cd_menu) - 菜单形式快速进入cd历史目录（纯bash实现）
 * [foxy](https://github.com/s-p-k/foxy) - 适合 Firefox 及 Surf 浏览器的无格式文本书签
 * [fz](https://github.com/changyuheng/fz) - z 的无缝模糊补全
 * [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索器
