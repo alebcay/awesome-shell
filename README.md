@@ -384,6 +384,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
 * [bash-language-server](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
+* [bash-modules](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled. 
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 * [crash](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 * [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
