@@ -42,6 +42,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [es](https://wryun.github.io/es-shell/) - The extensible shell, based on Plan 9's [rc](https://github.com/rakitzis/rc) shell
 * [fish](https://fishshell.com) - Smart and user-friendly command line shell
 * [ion](https://github.com/redox-os/ion) - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
+* [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 * [ksh93](https://github.com/att/ast) - Korn Shell
 * [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
 * [ngs](https://github.com/ngs-lang/ngs) - Fully featured scripting language created specifically for Ops. REPL is being developed.
