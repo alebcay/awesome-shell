@@ -335,6 +335,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
 * [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
+* [ticker](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
