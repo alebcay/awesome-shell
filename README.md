@@ -200,13 +200,13 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
 * [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
-* [gita](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
+* [gita](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [just](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
