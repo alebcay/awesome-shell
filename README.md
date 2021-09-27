@@ -99,6 +99,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 * [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
+* [lowcharts](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
 * [loop](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
