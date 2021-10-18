@@ -25,7 +25,7 @@
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串
 * [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名
 * [aliasme](https://github.com/Jintin/aliasme) - 用来快速更改目录的 alias 辅助程序
-* [autoenv](https://github.com/kennethreitz/autoenv) - 基于目录的环境
+* [autoenv](https://github.com/inishchith/autoenv) - 基于目录的环境
 * [autojump](https://github.com/wting/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: 在云中的 bash 历史，已索引且可搜索。
 * [bashmarks](https://github.com/huyng/bashmarks) - 适用于 shell 的目录书签
@@ -33,11 +33,12 @@
 * [boilr](https://github.com/tmrts/boilr) - 从 boilerplate 模板创建项目的超快命令行工具
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断
 * [borg](https://github.com/ok-borg/borg) - 基于终端的 bash 命令搜索引擎
-* [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器
+* [byobu](https://www.byobu.org) - 基于文本的窗口管理器及终端多路复用器
 * [CloudClip](https://github.com/skywind3000/CloudClip) - 云剪贴板，在不同的系统之间 copy/paste （使用 gist 作为后端）
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式
 * [desk](https://github.com/jamesob/desk) - 适用于 shell 的轻量级工作区管理器
 * [direnv](https://github.com/direnv/direnv) - 针对 shell 的环境切换工具（利用 autoenv 比较）
+* [dnote](https://github.com/dnote/dnote) - 命令行上的笔记本，支持多设备同步和网络界面。
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: 具有交互式过滤功能的下一代 cd 命令
 * [fasd](https://github.com/clvv/fasd) - 命令行效率提升器，提供快速访问文件及目录
 * [foxy](https://github.com/s-p-k/foxy) - 适合 Firefox 及 Surf 浏览器的无格式文本书签
@@ -50,6 +51,7 @@
 * [k](https://github.com/supercrabtree/k) - k 是一个使目录列表更可读的 Zsh 脚本，它增添了 Git 状态、文件颜色、以及腐朽的日期
 * [k alias](https://github.com/lingtalfi/k) - 获得用于单行的酷 alias
 * [marker](https://github.com/pindexis/marker) - 将你的 shell 命令加到书签
+* [mackup](https://github.com/lra/mackup/) - 云同步应用程序的配置文件(OS X/Linux)
 * [parallel](http://www.gnu.org/software/parallel/) - 以并行化方式从标准输入构造并执行 shell 命令行
 * [pathpicker](https://github.com/facebook/PathPicker) - 允许将 grep、搜索、git 等的输出结果作为输入，并提供友好的选择界面，以便打开或作为命令的参数
 * [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
@@ -58,22 +60,23 @@
 * [slugify](https://github.com/benlinton/slugify) - 将文件名及目录转换为 web 友好的格式
 * [sman](https://github.com/tokozedg/sman) - :bug: 命令行下的片断管理器
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
-* [Shark](https://github.com/fisherman/shark) - ▁▂▃▅ Sparkline 生成器
+* [spark.fish](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline 生成器
 * [sheet](https://github.com/oscardelben/sheet) -  用于命令行的文本片断
 * [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
 * [sshpass](https://sourceforge.net/projects/sshpass/) - 通过命令行传递ssh密码，无需再次输入，适合用于脚本之中
-* [autossh](https://sourceforge.net/projects/autossh/) - 自动重启ssh通道和会话
 * [mosh](https://mosh.org) - 第一个实现SSP的应用，MIT的博士项目，使得C/S之间可以保持链接持续，即使断开还能恢复之前的状态
-* [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - 从终端学习英语词汇
+* [td-cli](https://github.com/darrikonn/td-cli) - 组织者命令行管理器，用于跨多个项目组织和管理您的待办事项。
 * [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误
 * [tmux](http://tmux.github.io/) - 很棒的终端复用器
 * [up](https://github.com/shannonmoeller/up) - 按名称或计数升序排列目录，支持 bash 和 zsh
 * [v](https://github.com/rupa/v) - 适用于 Vim 的 z
 * [wemux](https://github.com/zolrath/wemux) - 多用户使用 Tmux 变得更容易
 * [z](https://github.com/rupa/z) - z 是新的 j
+* [z.lua](https://github.com/skywind3000/z.lua) - 一个会学习你使用习惯的快速 cd 命令
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - 用Rust编写的浏览文件系统的更快方法
 
 ## 定制
 
@@ -102,16 +105,16 @@
 * [bocker](https://github.com/p8952/bocker) - 使用百行 bash 实现的 Docker
 * [cloc](https://github.com/AlDanial/cloc) - 统计代码行数
 * [dokku](https://github.com/dokku/dokku) - 百行 Bash 打造的 Docker 迷你 Heroku
-* [getopts](https://github.com/fisherman/getopts) - 适用于 fish 的命令行解析器
+* [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - 适用于 fish 的命令行解析器
+* [forgit](https://github.com/wfxr/forgit) - Git工具，使用`fzf`提供交互式的操作模式
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - 很多 Git 扩展工具，包括 churn、cut-branch、improved-merge 等
 * [git-extras](https://github.com/tj/git-extras) - Git 工具，包括仓库摘要、repl、更改日志人数、作者提交百分比等
 * [git-open](https://github.com/paulirish/git-open) - 输入 `git open` 在浏览器中打开 GitHub 页面或仓库网站
 * [git-semver](https://github.com/markchalloner/git-semver) - 用来方便的语义化版本及更改日志验证的 Git 插件
 * [git-sh](https://github.com/rtomayko/git-sh) - 适合 Git 工作的定制 Bash 环境
-* [git-up](https://github.com/aanand/git-up) - 自动变基进来的更改代替合并，优雅！
 * [hub](https://github.com/github/hub) - 更易使用 GitHub 的命令行工具
 * [mr](https://myrepos.branchable.com) - 多仓库管理工具
-* [overcommit](https://github.com/brigade/overcommit) - 完全可配置且可扩展的 Git hook 管理器
+* [overcommit](https://github.com/sds/overcommit) - 完全可配置且可扩展的 Git hook 管理器
 * [pre-commit](https://pre-commit.com) - 用于管理及维护多语言 pre-commit hooks 的框架
 * [repren](https://github.com/jlevy/repren) - 命令行搜索与替换及文件重命名的瑞士军刀式工具
 * [slap](https://github.com/slap-editor/slap) - 运行在 Node.js 上的基于终端的类 Sublime 文本编辑器
@@ -135,6 +138,7 @@
 * [powertop](https://github.com/fenrus75/powertop) - 电池/电源占用及设备状态监视命令行工具，包含调整选项
 * [procdog](https://github.com/jlevy/procdog) - 轻量级的命令行控制类似服务器的长实时进程
 * [quick-secure](https://github.com/marshyski/quick-secure) - 快速的安全并加固 UNIX/Linux 系统
+* [wifi-wand](https://github.com/keithrbennett/wifiwand) - 一个用来管理MacOs上 WiFi无线网络的Ruby命令行应用程序, 安装请执行 `gem install wifi-wand`)
 
 ## 下载与服务
 
@@ -145,11 +149,11 @@
 * [bashttpd](https://github.com/avleen/bashttpd) - 使用 Bash 编写的 web 服务器
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" 或 "双向目录同步（含正确删除）"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader 是用来从 Dropbox 上传、下载、列出或删除文件的 Bash 脚本
-* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
+* [httpie](https://github.com/httpie/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
 * [http-server](https://www.npmjs.com/package/http-server) - http-server可以启动一个轻量级的http服务
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
-* [youtube-dl](https://github.com/rg3/youtube-dl) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
+* [youtube-dl](https://yt-dl.org/) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
 * [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
 
 ## 多媒体与文件格式
@@ -186,7 +190,7 @@
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - 从终端舒服的浏览 Hacker News
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) - 利用 IP 地址在世界地图上绘点
 * [isitup](https://github.com/lord63/isitup) - 检查一个网站是否正常上线
-* [jrnl](https://github.com/maebert/jrnl) - 使用无格式文本文件存储日记的简单命令行程序
+* [jrnl](https://github.com/jrnl-org/jrnl) - 使用无格式文本文件存储日记的简单命令行程序
 * [ledger](https://github.com/ledger/ledger) - 命令行记账
 * [licen](https://github.com/lord63/licen) - 生成项目 license
 * [md2png](https://github.com/weaming/md2png) - 从 markdown 文件生成 png 图片
@@ -231,10 +235,10 @@
 
 * [ansi](https://github.com/fidian/ansi) - 使用纯 Bash 实现的 ANSI 转义码，包括更改文本颜色、定位光标等等
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
-* [bashful](https://github.com/plytophogy/bashful) - 简化编写 Bash 脚本的库收集
+* [bashful](https://github.com/jmcantrell/bashful) - 简化编写 Bash 脚本的库收集
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - 用来创建命令行工具的微型 Bash 框架
 * [bats](https://github.com/bats-core/bats-core) - Bash 自动化测试系统
-* [Fishtape](https://github.com/fisherman/fishtape) - 适用于 fish 的 TAP 产生器及测试工具
+* [Fishtape](https://github.com/jorgebucaran/fishtape) - 适用于 fish 的 TAP 产生器及测试工具
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - 使用 50 行可移植 shell 脚本写成的命令行参数解析器
 * [is.sh](https://github.com/qzb/is.sh) - 内置 test 命令的替代品，使 "if" 语句更漂亮
@@ -254,15 +258,15 @@
 
 # 指南
 
-* [Bash 黑客的维基](http://wiki.bash-hackers.org/)
+* [Bash 黑客的维基](https://wiki.bash-hackers.org/)
 * [Greg Wooledge（又名 "greycat"）的维基](http://mywiki.wooledge.org)：尤其是 [Bash 指南](http://mywiki.wooledge.org/BashGuide)、[Bash 疑难问答](http://mywiki.wooledge.org/BashFAQ) 及 [Bash 陷阱](http://mywiki.wooledge.org/BashPitfalls)
 * [Google 的 Shell 风格指南](https://google.github.io/styleguide/shell.xml)
-* [Linux 文档项目: Bash 编程 - 简介/如何做](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
-* [Linux 文档项目: 高级 Bash 脚本指南](http://www.tldp.org/LDP/abs/html/)
+* [Linux 文档项目: Bash 编程 - 简介/如何做](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [Linux 文档项目: 高级 Bash 脚本指南](https://tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell 脚本](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [使用非官方的 Bash 严格模式 (除非你爱调试)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
-* [学会成为命令行杀手](https://www.learnenough.com/command-line-tutorial)
+* [学会成为命令行杀手](https://www.learnenough.com/command-line-tutorial/basics)
 * [学习bash的指南](https://github.com/Idnan/bash-guide)
 
 
@@ -272,6 +276,6 @@
 
 
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
-[awesome-fish]: https://github.com/fisherman/awesome-fish-shell
+[awesome-fish]: https://github.com/jorgebucaran/awsm.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
