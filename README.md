@@ -191,6 +191,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
+* [bashly](https://bashly.dannyb.co/) - Bash command line framework and CLI generator
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
 * [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
 * [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
