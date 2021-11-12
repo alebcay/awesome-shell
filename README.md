@@ -383,10 +383,11 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashew](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
 * [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 * [Bashlets](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
+* [bashly](https://bashly.dannyb.co/) - Bash command line framework and CLI generator
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
 * [bash-language-server](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
-* [bash-modules](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled. 
+* [bash-modules](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled.
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 * [crash](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 * [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
