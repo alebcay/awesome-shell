@@ -184,6 +184,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 * [starship](https://starship.rs/) - Fast, customisable, cross-shell prompt written in rust
 * [synth-shell](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
+* [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine for any shell and platform written in go.
 
 ## For Developers
 
