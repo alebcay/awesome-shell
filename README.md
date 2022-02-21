@@ -197,7 +197,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code
 * [doclt](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 * [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
-* [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -396,6 +395,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
+* [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 * [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 * [lumberjack](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
