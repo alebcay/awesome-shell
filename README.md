@@ -388,12 +388,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash-language-server](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 * [bash-modules](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled.
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+* [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [crash](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 * [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
+* [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [esh](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in ~290 lines of POSIX shell and awk.
 * [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
-* [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
-* [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 * [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 * [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 * [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
