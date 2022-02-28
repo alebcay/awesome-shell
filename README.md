@@ -316,6 +316,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [editly](https://github.com/mifi/editly) - Command line video editor
 * [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line tool
 * [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
+* [far2l](https://github.com/elfmz/far2l) - Linux fork of FAR Manager v2
 * [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
@@ -327,6 +328,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 * [md2png](https://github.com/weaming/md2png) - Convert markdown to PNG image
+* [mc](https://github.com/MidnightCommander/mc) - Midnight Commander
 * [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 * [nomino](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
 * [pcalc](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
