@@ -231,6 +231,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bat](https://github.com/sharkdp/bat) - A `cat` clone with wings
 * [bmon](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
 * [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
+* [blue-deauth](https://github.com/its0x08/blue-deauth) - A simple script that makes possible BLE deauthentication!
 * [catcli](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
 * [ccat](https://github.com/owenthereal/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
 * [exa](https://github.com/ogham/exa) - A modern version of `ls`.
@@ -256,6 +257,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [rng](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
 * [tiptop](https://github.com/nschloe/tiptop) - Graphical command-line system monitor.
 * [wifi-wand](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
+* [wg-install](https://github.com/its0x08/wg-install) - Wireguard road warrior installer for Ubuntu, Debian, CentOS and Fedora 
 * [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 
 ## Downloading and Serving
