@@ -197,6 +197,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
 * [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
 * [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
+* [shc](https://github.com/neurobin/shc) -  Shell script compiler 
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code
 * [doclt](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 * [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
@@ -221,6 +222,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 * [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
+* [upx](https://github.com/upx/upx) - UPX: the Ultimate Packer for eXecutables 
 * [wipe-modules](https://github.com/bntzio/wipe-modules) - A little agent that removes the node_modules folder of non-active projects
 
 ## System Utilities
