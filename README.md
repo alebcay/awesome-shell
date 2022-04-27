@@ -74,6 +74,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 * [byobu](https://www.byobu.org) - Text-based window manager and terminal multiplexer
 * [cod](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
+* [cotp](https://github.com/replydev/cotp) - Trustworthy encrypted TOTP command line authenticator app compatible with multiple backups.
 * [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
