@@ -144,6 +144,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [xplr](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+* [await](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
 
 ### Directory Navigation
 
