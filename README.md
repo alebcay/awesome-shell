@@ -292,6 +292,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Beets](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 * [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+* [dzr](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
 * [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 * [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 * [image-scraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
