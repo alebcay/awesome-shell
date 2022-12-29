@@ -65,6 +65,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 * [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments
+* [await](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
 * [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
@@ -144,7 +145,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [xplr](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
-* [await](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
 
 ### Directory Navigation
 
