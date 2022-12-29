@@ -64,7 +64,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
+* [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
 * [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments
+* [await](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
 * [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
@@ -99,6 +101,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
+* [lf](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
 * [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 * [lowcharts](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
@@ -182,7 +185,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 * [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine for any shell and platform written in go.
-* [polyglot](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, dash, and busybox sh
+* [polyglot](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, dash, yash, and busybox sh
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 * [starship](https://starship.rs/) - Fast, customisable, cross-shell prompt written in rust
@@ -192,6 +195,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Command-line development, version control, and deployment.*
 
+* [1Password SSH Agent](https://developer.1password.com/docs/ssh/) - Authenticate Git and SSH workflows with biometric unlock using 1Password
 * [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
@@ -213,6 +217,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 * [mkdkr](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
 * [mr](https://myrepos.branchable.com) - Multiple Repository management tool
+* [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
 * [overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [rebound](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
@@ -221,6 +226,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 * [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
+* [trunk](https://www.npmjs.com/package/@trunkio/launcher) - Blazingly fast meta code checker and formatter
 * [vmn](https://github.com/final-israel/vmn) - git-based automatic versioning and state recovery solution agnostic to language or architecture
 * [wipe-modules](https://github.com/bntzio/wipe-modules) - A little agent that removes the node_modules folder of non-active projects
 
@@ -288,6 +294,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Beets](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 * [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+* [dzr](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
 * [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 * [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 * [image-scraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
