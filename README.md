@@ -99,6 +99,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
+* [lf](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
 * [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 * [lowcharts](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
@@ -108,7 +109,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
 * [modules](http://modules.sourceforge.net/) - Classical Tcl-based Environment Modules managing the shell environment (compare to Lmod, direnv, and autoenv)
 * [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
-* [lf](https://github.com/gokcehan/lf) - (as in "list files") is a terminal file manager written in Go with a heavy inspiration from ranger file manager.
 * [parallel](https://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 * [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
