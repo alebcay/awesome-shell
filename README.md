@@ -214,6 +214,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [gita](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
 * [hub](https://github.com/github/hub) - hub helps you win at git.
+* [painy](https://github.com/lanesket/painy) - CLI tool which allows you to automatically generate git commit messages based on changes via OpenAI models.
 * [just](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 * [mkdkr](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
