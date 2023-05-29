@@ -20,4 +20,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check lychee exit code
-        run: exit ${{ steps.lychee.outputs.exit_code }}
+        run: exit ${lychee_exit_code}
