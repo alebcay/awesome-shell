@@ -314,6 +314,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [xidel](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
 * [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+* [xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor.
 
 ## Applications
 
