@@ -28,6 +28,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 - [Games](#games)
 - [Shell Package Management](#shell-package-management)
 - [Shell Script Development](#shell-script-development)
+- [Badges](#badges)
 - [Guides](#guides)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
@@ -434,6 +435,10 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 * [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
+
+## Badges
+
+* [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) - Bash Shell Badge
 
 # Guides
 
