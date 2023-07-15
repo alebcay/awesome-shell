@@ -331,6 +331,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 * [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
+* [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Browse various news outlets on the web from your terminal.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
