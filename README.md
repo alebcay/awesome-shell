@@ -384,6 +384,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
+* [Pearl](https://github.com/pearl-core/pearl) - Portable package manager for Linux and OSX that automates reproducible environments, not just for dotfiles
 * [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 * [shundle](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
