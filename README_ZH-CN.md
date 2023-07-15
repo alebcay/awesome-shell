@@ -243,6 +243,7 @@
 * [is.sh](https://github.com/qzb/is.sh) - 内置 test 命令的替代品，使 "if" 语句更漂亮
 * [mo](https://github.com/tests-always-included/mo) - 使用纯 Bash 实现的 Mustache 模板
 * [optparse](https://github.com/nk412/optparse) - 针对 getopts 的 BASH wrapper，用于简单的命令行参数
+* [pipe.sh](https://github.com/kennethho/pipe.sh) - 给 <strong>``bash``</strong>(1) 用的 <strong>``pipe``</strong>(2)
 * [rerun](https://github.com/rerun/rerun) - 用来管理保留脚本的模块化 shell 自动化框架
 * [semver_bash](https://github.com/cloudflare/semver_bash) - 使用 Bash 实现的语义化版本
 * [sh-semver](https://github.com/qzb/sh-semver) - 适用于 bash 的 Semver 工具，匹配指定规则来查找版本

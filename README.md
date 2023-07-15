@@ -416,6 +416,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [lumberjack](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 * [optparse](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
+* [pipe.sh](https://github.com/kennethho/pipe.sh) - <strong>``pipe``</strong>(2) for <strong>``bash``</strong>(1)
 * [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
 * [revolver](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 * [phases](https://github.com/sorokine/phases) - Minimally invasive bash preprocessor, select sections of your script to run
