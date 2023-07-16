@@ -16,22 +16,22 @@
 # Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
-- [Shells](#shells)
-- [Command-Line Productivity](#command-line-productivity)
-  - [Directory Navigation](#directory-navigation)
-- [Customization](#customization)
-- [For Developers](#for-developers)
-- [System Utilities](#system-utilities)
-- [Downloading and Serving](#downloading-and-serving)
-- [Multimedia and File Formats](#multimedia-and-file-formats)
-- [Applications](#applications)
-- [Games](#games)
-- [Shell Package Management](#shell-package-management)
-- [Shell Script Development](#shell-script-development)
+- [Awesome Shell ](#awesome-shell-)
+  - [Shells](#shells)
+  - [Command-Line Productivity](#command-line-productivity)
+    - [Directory Navigation](#directory-navigation)
+  - [Customization](#customization)
+  - [For Developers](#for-developers)
+  - [System Utilities](#system-utilities)
+  - [Downloading and Serving](#downloading-and-serving)
+  - [Multimedia and File Formats](#multimedia-and-file-formats)
+  - [Applications](#applications)
+  - [Games](#games)
+  - [Shell Package Management](#shell-package-management)
+  - [Shell Script Development](#shell-script-development)
 - [Guides](#guides)
-- [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
-- [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
 - [Other Awesome Lists](#other-awesome-lists)
+    - [See also](#see-also)
 
 ## Shells
 
@@ -44,6 +44,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ion](https://github.com/redox-os/ion) - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
 * [ksh93](https://github.com/att/ast) - Korn Shell
 * [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+* [murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 * [ngs](https://github.com/ngs-lang/ngs) - Fully featured scripting language created specifically for Ops. REPL is being developed.
 * [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 * [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh
