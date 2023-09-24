@@ -156,6 +156,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
+* [cdup](https://gitlab.com/radek-sprta/cdup) - Ascend directories by count or fuzzy match. Supports multiple shells.
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
 * [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
