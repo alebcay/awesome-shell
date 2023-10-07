@@ -15,6 +15,7 @@
 - [指南](#指南)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
+- [**Awesome Bash**][awesome-bash] [![Awesome][awesome-badge]][awesome-bash]
 - [其它 Awesome 清单](#其它-awesome-清单)
 
 ## 命令行效率
@@ -278,3 +279,4 @@
 [awesome-fish]: https://github.com/jorgebucaran/awsm.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-bash]: https://github.com/awesome-lists/awesome-bash
