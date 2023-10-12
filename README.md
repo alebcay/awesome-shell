@@ -347,16 +347,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
-* [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 * [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
-* [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 * [ticker](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
 * [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
-* [whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
-* [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 * [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (curl wttr.in)
 
 ## Games
@@ -385,7 +381,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 * [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
 * [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
-* [shundle](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git
 * [yadm](https://yadm.io/) - Git-based dotfiles manager supporting encryption, alternates, and bootstrapping
 
@@ -399,7 +394,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 * [Bashlets](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
 * [bashly](https://bashly.dannyb.co/) - Bash command line framework and CLI generator
-* [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
 * [bash-language-server](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 * [bash-modules](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled.

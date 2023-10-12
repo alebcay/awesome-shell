@@ -197,12 +197,10 @@
 * [moviemon](https://github.com/iCHAIT/moviemon) - 有关在命令行下看电影的每样东东
 * [pushblast](https://github.com/alebcay/pushblast) - 当 shell 程序退出时获得 PushBullet 通知
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - PushBullet API 的 Bash 接口
-* [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - 从终端浏览 Reddit
 * [SAWS](https://github.com/donnemartin/saws) - 超强的 AWS 命令行界面
 * [taskwarrior](https://taskwarrior.org/) - 一个命令行去做列表管理器
 * [vl](https://github.com/ellisonleao/vl) - 针对文本文档的 URL 链接检查器
 * [wego](https://github.com/schachmat/wego) - 适用于终端的天气预报应用
-* [whereami](https://github.com/rafaelrinaldi/whereami) - 从命令行获得你的地理位置信息
 * [fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - SSH防爆破
 
 ## 游戏
@@ -226,7 +224,6 @@
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
 * [vcsh](https://github.com/RichiH/vcsh) - 基于 Git 的配置管理器
-* [shundle](https://github.com/javier-lopez/shundle) - 适用于 shell 脚本的插件管理器
 
 ## Shell 脚本开发
 
@@ -235,7 +232,6 @@
 * [ansi](https://github.com/fidian/ansi) - 使用纯 Bash 实现的 ANSI 转义码，包括更改文本颜色、定位光标等等
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
 * [bashful](https://github.com/jmcantrell/bashful) - 简化编写 Bash 脚本的库收集
-* [bashmanager](https://github.com/lingtalfi/bashmanager) - 用来创建命令行工具的微型 Bash 框架
 * [bats](https://github.com/bats-core/bats-core) - Bash 自动化测试系统
 * [Fishtape](https://github.com/jorgebucaran/fishtape) - 适用于 fish 的 TAP 产生器及测试工具
 * [composure](https://github.com/erichs/composure) - 撰写、文档、版本、及组织你的 shell 函数
