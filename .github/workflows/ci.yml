@@ -13,11 +13,12 @@ jobs:
 
       - name: Check links
         id: lychee
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v1.8.0
         with:
           args: README.md README_ZH-CN.md --verbose --no-progress --exclude wiki.bash-hackers.org/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check lychee exit code
+        if: env.lychee_exit_code !=0
         run: exit ${lychee_exit_code}
