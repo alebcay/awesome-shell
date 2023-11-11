@@ -286,7 +286,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 * [vesper](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
 * [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-* [youtube-dl](https://yt-dl.org/) - Small command-line program to download videos from YouTube.com and other video sites
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
 
 ## Multimedia and File Formats
 
