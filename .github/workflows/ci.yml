@@ -15,7 +15,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v1
         with:
-          args: README.md README_ZH-CN.md --verbose --no-progress --exclude wiki.bash-hackers.org/*
+          args: README.md README_ZH-CN.md --verbose --no-progress
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
