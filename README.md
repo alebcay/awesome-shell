@@ -48,7 +48,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ngs](https://github.com/ngs-lang/ngs) - Fully featured scripting language created specifically for Ops. REPL is being developed.
 * [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 * [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh
-* [osh](https://www.oilshell.org) - Bash compatible, with new/modern Unix shell language called Oil
+* [osh](https://www.oilshell.org) - Bash compatible, also includes ysh, a new/modern Unix shell language
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
 * [powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview) a cross-platform task automation and configuration management framework, consisting of a command-line shell and scripting language
 * [shell++](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
