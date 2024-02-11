@@ -142,6 +142,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
+* [ugrep](https://github.com/Genivia/ugrep) - a fast grep-a-like drop-in finder (interactive with TUI or batch use)
 * [undollar](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
 * [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 * [v](https://github.com/rupa/v) - z for vim.
