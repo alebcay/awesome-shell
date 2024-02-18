@@ -55,7 +55,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shenv](https://github.com/shenv/shenv) - Simple shell version management
 * [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 * [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
-* [yash](https://yash.osdn.jp/) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
+* [yash](https://github.com/magicant/yash) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
 * [zsh](https://www.zsh.org) - Powerful shell with scripting language
 
 ## Command-Line Productivity
