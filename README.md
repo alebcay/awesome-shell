@@ -128,6 +128,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
 * [SHML](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
+* [simplelocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects
 * [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spark.fish](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
