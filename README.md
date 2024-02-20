@@ -164,6 +164,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 * [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 * [lazy-cd](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
+* [p](https://github.com/ddmendes/p) - Path shortcuts manager
 * [up](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 * [z](https://github.com/rupa/z) - z is the new j, yo
 * [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
