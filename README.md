@@ -219,6 +219,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [gita](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
 * [hub](https://github.com/github/hub) - hub helps you win at git.
+* [langdock](https://github.com/lucasdc6/langdock) - langdock is a languages' version manager, powered by [Docker](https://github.com/docker), using principally the [Dockerhub](https://hub.docker.com/)
 * [just](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 * [mkdkr](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
