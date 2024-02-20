@@ -433,6 +433,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
 * [shfmt](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
+* [shpinner](https://gitlab.com/matesitox/shpinner) - A fancy progress spinner to spice up your interactive bash scripts.
 * [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 * [sub](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
