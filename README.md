@@ -78,6 +78,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [browsh](https://github.com/browsh-org/browsh) - The modern text-based browser
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 * [byobu](https://www.byobu.org) - Text-based window manager and terminal multiplexer
+* [cheatshh](https://github.com/AnirudhG07/cheatshh) - An fzf based interactive cheatsheet for command-line
 * [cod](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
 * [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
