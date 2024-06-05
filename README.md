@@ -378,6 +378,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sed-scripts](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
 * [SHTAP](https://notimetoplay.org/engines/shtap/) - Reusable text adventure engine for Bash 4
 * [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
+* [typeinc](https://github.com/AnirudhG07/Typeinc) - An ncurses based cool terminal typing speed test
 
 ## Shell Package Management
 
