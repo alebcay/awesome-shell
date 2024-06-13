@@ -310,6 +310,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [jc](https://github.com/kellyjonbrazil/jc) - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
 * [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
 * [jq](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
+* [json-dotenv](https://github.com/decryptus/json-dotenv) - Manipulate and extract envfiles in json format.
 * [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 * [library](https://github.com/chapmanjacobd/library) - Create SQLITE databases for folders of music, video, images, or online media. Play and track media like Plex but a CLI-only interface with many sorting options.
 * [mpv](https://mpv.io/) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
