@@ -152,6 +152,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [xplr](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+* [x-cmd](https://github.com/x-cmd/x-cmd) - A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
 
 ### Directory Navigation
 
