@@ -67,6 +67,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 * [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
+* [atuin](https://github.com/atuinsh/atuin) - Sync, search and backup shell history
 * [autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 * [await](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
 * [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
