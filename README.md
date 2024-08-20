@@ -38,6 +38,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Choose your base shell.*
 
+* [clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell)
 * [elvish](https://elv.sh/) - Friendly, expressive shell features like anonymous functions and data structures
 * [es](https://wryun.github.io/es-shell/) - The extensible shell, based on Plan 9's [rc](https://github.com/rakitzis/rc) shell
