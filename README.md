@@ -325,6 +325,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Command line-based applications or command line access to existing services.*
 
+* [alice](https://asciinema.org/a/674501) - AI Ghost in your TMUX shell available as a service over SSH
 * [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
 * [awless](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
 * [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
