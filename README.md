@@ -419,6 +419,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 * [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 * [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
+* [lobash](https://github.com/adoyle-h/lobash): A modern, safe, powerful utility/library for Bash script development.
 * [lumberjack](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 * [optparse](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
