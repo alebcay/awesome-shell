@@ -226,6 +226,7 @@
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) – 使用 Python 编写的基于 Git 的 Shell dotfiles 管理器
 * [fresh](https://github.com/freshshell/fresh) - 使你的 dotfiles 保持更新
 * [homeshick](https://github.com/andsens/homeshick) - 使用 Bash 编写的 Git dotfile 同步器
+- [one.bash](https://github.com/one-bash/one.bash) - 一个优雅管理命令、shell 脚本，自动补全、配置的框架，适合 bash 用户。
 * [vcsh](https://github.com/RichiH/vcsh) - 基于 Git 的配置管理器
 * [shundle](https://github.com/javier-lopez/shundle) - 适用于 shell 脚本的插件管理器
 
