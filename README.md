@@ -148,6 +148,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
+* [wut](https://github.com/shobrook/wut) - Explain the output of your last command with an LLM.
 * [xiki](https://github.com/trogdoro/xiki) - Makes the shell console more friendly and powerful
 * [xplr](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
