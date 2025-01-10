@@ -66,6 +66,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
+* [argrelay](https://github.com/argrelay/argrelay) - A stand-by server for ergonomic shell tools: custom args search index, Tab-completion, simple data-assisted input selection, execution delegation framework.
 * [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
 * [autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 * [await](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
