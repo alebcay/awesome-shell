@@ -126,6 +126,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [rg](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 * [screen](https://www.gnu.org/software/screen/) - GNU terminal multiplexer
 * [shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
+* [Shell Sage](https://github.com/dheerajcl/Terminal_assistant) - AI-powered terminal assistant with local LLM support (Ollama) and cloud APIs for command suggestions, error diagnosis, and automation.
 * [SHML](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
