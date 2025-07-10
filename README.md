@@ -269,6 +269,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 * [rng](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
 * [tiptop](https://github.com/nschloe/tiptop) - Graphical command-line system monitor.
+* [UltimateLinuxScript](https://github.com/baxr6/UltimateLinuxScript) - Ultimate Linux system management script featuring backups, package install, GNOME tweaks, and a whiptail-based menu UI.
 * [wifi-wand](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
 * [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 
