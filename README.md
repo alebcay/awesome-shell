@@ -440,6 +440,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 * [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
+* [bash-cli-spinners](https://github.com/simeg/bash-cli-spinners) - Bash/Zsh spinners for scripts and terminal
 
 # Guides
 
