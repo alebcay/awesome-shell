@@ -104,6 +104,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
+* [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
 * [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 * [lowcharts](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
