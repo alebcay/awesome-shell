@@ -287,6 +287,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Kapow!](https://github.com/BBVA/kapow) - If you can script it, you can HTTP it.
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
+* [share](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 * [tshare](https://github.com/trikko/tshare) - File sharing from commandline.
 * [vesper](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
