@@ -341,6 +341,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup](https://github.com/lord63/isitup) - Check whether a website is up or down
+* [Jimmy](https://github.com/marph91/jimmy) - Convert your notes to Markdown
 * [jrnl](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
