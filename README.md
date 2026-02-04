@@ -193,6 +193,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine for any shell and platform written in go.
 * [polyglot](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, oksh, dash, yash, busybox sh, and osh
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
+* [n01d-term](https://github.com/bad-antics/n01d-term) - Cyberpunk terminal toolkit with AI integration, smart aliases, hacking themes, and productivity features for bash/zsh/fish
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 * [starship](https://starship.rs/) - Fast, customisable, cross-shell prompt written in rust
 * [synth-shell](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
