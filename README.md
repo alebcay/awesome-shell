@@ -262,6 +262,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [maza](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 * [mtr](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 * [ncdu](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
+* [noid-privacy-linux](https://github.com/NexusOne23/noid-privacy-linux) - Privacy & security audit for Linux desktops with 300+ checks and AI-powered fix generation
 * [nmtui](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
 * [powertop](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 * [prettyping](https://github.com/denilsonsa/prettyping) - Making the output of `ping` prettier, more colorful, more compact, and easier to read.
