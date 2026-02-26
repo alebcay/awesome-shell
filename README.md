@@ -138,6 +138,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 * [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
+* [task-cli](https://github.com/leomekhe-tech/task-cli) - Simple task tracking from the terminal with priorities and statistics
 * [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
 * [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 * [tere](https://github.com/mgunyho/tere) - A faster alternative to cd + ls
@@ -180,6 +181,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
 * [bashstrap](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
+* [dotfiles-manager](https://github.com/leomekhe-tech/dotfiles-manager) - Simple dotfiles management with symlinks and git tracking
 * [bullet-train-oh-my-zsh-theme](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 * [emojify](https://github.com/mrowa44/emojify) Emoji on the command line :scream:
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Nicer colors for terminal
@@ -214,6 +216,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
+* [git-activity](https://github.com/leomekhe-tech/git-activity) - Track your GitHub activity from the terminal
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
@@ -249,6 +252,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [exa](https://github.com/ogham/exa) - A modern version of `ls`.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 * [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
+* [vps-health](https://github.com/leomekhe-tech/vps-health) - Lightweight VPS health monitor with beautiful output
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 * [hblock](https://github.com/hectorm/hblock) - Hosts-file based adblocker
