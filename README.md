@@ -377,6 +377,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sed-scripts](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
 * [SHTAP](https://notimetoplay.org/engines/shtap/) - Reusable text adventure engine for Bash 4
 * [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
+* [YouBrokeProd](https://youbrokeprod.com) - Interactive production incident simulator where you debug outages using realistic terminal commands.
 
 ## Shell Package Management
 
