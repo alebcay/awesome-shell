@@ -331,6 +331,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating a terminal-style single-page HTML visualization
 * [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
 * [editly](https://github.com/mifi/editly) - Command line video editor
 * [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line tool
