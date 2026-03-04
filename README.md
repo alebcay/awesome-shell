@@ -83,6 +83,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 * [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
+* [envault](https://github.com/leomekhe-tech/envault) - Encrypted .env file manager with team sharing via AES-256-GCM
 * [dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
 * [eureka](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
