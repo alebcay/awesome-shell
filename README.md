@@ -360,6 +360,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 * [ticker](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
 * [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
+* [wolfpack](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for AI coding agents. Control Claude, Codex, Gemini sessions across machines from your phone, secured by Tailscale.
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
 * [whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
