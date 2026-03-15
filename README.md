@@ -263,6 +263,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mtr](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 * [ncdu](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 * [nmtui](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
+* [onWatch](https://github.com/onllm-dev/onwatch) - Track AI API quotas across 6 providers with a lightweight background daemon and Material Design 3 web dashboard
 * [powertop](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 * [prettyping](https://github.com/denilsonsa/prettyping) - Making the output of `ping` prettier, more colorful, more compact, and easier to read.
 * [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
