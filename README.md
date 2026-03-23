@@ -113,6 +113,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mackup](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux)
 * [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
 * [modules](http://modules.sourceforge.net/) - Classical Tcl-based Environment Modules managing the shell environment (compare to Lmod, direnv, and autoenv)
+* [mise](https://github.com/jdx/mise) - Polyglot tool version manager and task runner; manages Node, Python, Ruby, Go, and more. Drop-in replacement for asdf.
 * [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 * [ok-sh](https://github.com/secretGeek/ok-bash) - Do you work on many different projects? And in each project, are there commands you use that are specific to that project? You need a .ok file.
 * [parallel](https://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
