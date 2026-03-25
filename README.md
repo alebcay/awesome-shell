@@ -364,6 +364,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 * [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (curl wttr.in)
+* [yaw](https://yaw.sh) - Cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant
 
 ## Games
 
