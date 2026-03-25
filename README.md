@@ -346,6 +346,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 * [md2png](https://github.com/weaming/md2png) - Convert markdown to PNG image
+* [mocker](https://github.com/us/mocker) - Docker-compatible container management tool built natively on Apple's Containerization framework for macOS
 * [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 * [nomino](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
 * [pcalc](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
