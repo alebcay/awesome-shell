@@ -249,6 +249,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [exa](https://github.com/ogham/exa) - A modern version of `ls`.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 * [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
+* [touchbridge](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate sudo on any Mac without Touch ID. Free alternative to $199 Magic Keyboard.
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 * [hblock](https://github.com/hectorm/hblock) - Hosts-file based adblocker
