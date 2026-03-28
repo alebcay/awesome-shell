@@ -298,7 +298,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Tools for handling video and audio files.*
 
 * [adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
-* [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
+* [akf](https://github.com/HMAKT99/AKF) - The AI native file format. Embed trust scores, provenance, and compliance metadata into 20+ file formats (DOCX, PDF, images, code). CLI for stamping, inspecting, and auditing AI-generated files.* [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 * [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
