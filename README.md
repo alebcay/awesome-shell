@@ -218,6 +218,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [gita](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
+* [gitty](https://github.com/Omibranch/gitty) - Human-readable Git/GitHub CLI: `gitty up` replaces add→commit→push in one command. Single binary, no dependencies.
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [just](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
