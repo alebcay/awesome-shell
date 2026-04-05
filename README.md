@@ -348,6 +348,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [md2png](https://github.com/weaming/md2png) - Convert markdown to PNG image
 * [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 * [nomino](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
+* [overloop-cli](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts, run multi-channel campaigns (email + LinkedIn), and manage conversations. JSON output.
 * [pcalc](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
 * [pockyt](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
@@ -355,6 +356,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
+* [signals-cli](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output.
 * [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
 * [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
