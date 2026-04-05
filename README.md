@@ -371,6 +371,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 * [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
+* [moody](https://github.com/dinakars777/moody) - Hardware event personality daemon for macOS. Your laptop responds to USB, charger, and lid events with customizable personalities.
 * [nudoku](https://github.com/jubalh/nudoku) - ncurses based sudoku game written in C
 * [piu-piu](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
 * [sedtris](https://github.com/uuner/sedtris) - Tetris in sed
