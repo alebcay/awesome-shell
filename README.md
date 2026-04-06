@@ -33,6 +33,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
 - [**Awesome Bash**][awesome-bash] [![Awesome][awesome-badge]][awesome-bash]
 - [Other Awesome Lists](#other-awesome-lists)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for shell-based multi-agent orchestration, automated task delegation, and infrastructure management. MIT licensed.
 
 ## Shells
 
