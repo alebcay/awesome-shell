@@ -235,6 +235,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [trunk](https://www.npmjs.com/package/@trunkio/launcher) - Blazingly fast meta code checker and formatter
 * [vmn](https://github.com/final-israel/vmn) - git-based automatic versioning and state recovery solution agnostic to language or architecture
 * [wipe-modules](https://github.com/bntzio/wipe-modules) - A little agent that removes the node_modules folder of non-active projects
+* [grug-cli](https://github.com/grug-group420/grug-cli) - Zero-dependency developer toolkit following grug-brained principles. Project scaffolding, dev server, and deployment tools built with Bun.js.
 
 ## System Utilities
 
