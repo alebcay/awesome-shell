@@ -102,6 +102,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
+* [in-cli](https://github.com/inevolin/in-cli) - Execute shell commands across multiple directories sequentially or in parallel
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
