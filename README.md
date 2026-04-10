@@ -336,6 +336,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line tool
 * [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 * [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface
+* [grugbot420](https://github.com/grug-group420/grugbot420) - AI-powered CLI assistant with neuromorphic intelligence, zero dependencies
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
