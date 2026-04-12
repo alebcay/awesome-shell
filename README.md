@@ -211,9 +211,11 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [doclt](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 * [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
+* [gitcommitgen](https://github.com/BenihDev/gitcommitgen) - AI-powered conventional commit message generator
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
+* [gitprune](https://github.com/BenihDev/gitprune) - Safe git branch cleanup tool
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
@@ -228,6 +230,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [rebound](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
+* [secretsweep](https://github.com/BenihDev/secretsweep) - Zero-config secret scanning for staged git files
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
@@ -309,6 +312,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 * [jc](https://github.com/kellyjonbrazil/jc) - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
 * [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
+* [jsonask](https://github.com/BenihDev/jsonask) - JSON query tool
 * [jq](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
 * [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 * [library](https://github.com/chapmanjacobd/library) - Create SQLITE databases for folders of music, video, images, or online media. Play and track media like Plex but a CLI-only interface with many sorting options.
