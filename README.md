@@ -364,6 +364,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 * [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (curl wttr.in)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Games
 
