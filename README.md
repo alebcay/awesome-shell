@@ -71,6 +71,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [await](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
 * [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+* [bash-file-check](https://github.com/AkshatJain34/bash-file-check) - Check if a file exists using a bash script
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 * [boom](https://github.com/holman/boom) - Store links and snippets in the command line
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
