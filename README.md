@@ -226,6 +226,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
 * [overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
+* [project-showcase-skill](https://github.com/ayushxx7/project-showcase-skill) - AI skill for automated project showcases, UI captures, and professional README galleries.
 * [rebound](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
