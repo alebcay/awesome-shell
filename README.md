@@ -240,6 +240,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 * [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
 * [bat](https://github.com/sharkdp/bat) - A `cat` clone with wings
 * [bmon](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
@@ -247,6 +248,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [catcli](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
 * [ccat](https://github.com/owenthereal/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
 * [exa](https://github.com/ogham/exa) - A modern version of `ls`.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 * [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
