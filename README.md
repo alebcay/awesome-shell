@@ -234,6 +234,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 * [trunk](https://www.npmjs.com/package/@trunkio/launcher) - Blazingly fast meta code checker and formatter
 * [vmn](https://github.com/final-israel/vmn) - git-based automatic versioning and state recovery solution agnostic to language or architecture
+* [voidly-cli](https://github.com/voidly-ai/cli) - Query global internet censorship data from the terminal — checks whether any domain is blocked in any country, with non-zero exit codes for CI pipelines
 * [wipe-modules](https://github.com/bntzio/wipe-modules) - A little agent that removes the node_modules folder of non-active projects
 
 ## System Utilities
