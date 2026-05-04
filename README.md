@@ -93,6 +93,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 * [gitmux](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
+* [Gloss](https://github.com/Architeg/gloss) - Local-first command glossary with TUI search, zsh/bash config scanning, and safe managed alias sync.
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 * [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
 * [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
