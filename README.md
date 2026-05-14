@@ -194,6 +194,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [polyglot](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, oksh, dash, yash, busybox sh, and osh
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
+* [splashboard](https://github.com/unhappychoice/splashboard) - A customizable splash screen shown on shell startup and directory change, with per-directory dashboards
 * [starship](https://starship.rs/) - Fast, customisable, cross-shell prompt written in rust
 * [synth-shell](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
 
@@ -218,6 +219,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [gita](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
+* [gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit history replay for the terminal
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [just](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
@@ -370,6 +372,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *All work and no play is a cruddy way to spend your day.*
 
 * [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
+* [gittype](https://github.com/unhappychoice/gittype) - A code-typing game that turns your source code into typing challenges
 * [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
 * [nudoku](https://github.com/jubalh/nudoku) - ncurses based sudoku game written in C
 * [piu-piu](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
