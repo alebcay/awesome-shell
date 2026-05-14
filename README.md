@@ -19,6 +19,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 - [Shells](#shells)
 - [Command-Line Productivity](#command-line-productivity)
   - [Directory Navigation](#directory-navigation)
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Customization](#customization)
 - [For Developers](#for-developers)
 - [System Utilities](#system-utilities)
