@@ -228,6 +228,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [rebound](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
 * [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
+* [say-it](https://github.com/anzy-renlab-ai/pronounce) - Pronounce developer jargon out loud — 1548+ entries (kubectl, GIF, JSON, JWT, …) with cited sources, audible alternates, and a Claude Code skill. Zero-dep Bash wrapping macOS `say` (with `espeak-ng` / PowerShell fallbacks on Linux + Windows).
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
