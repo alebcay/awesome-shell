@@ -246,6 +246,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [btop](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
 * [catcli](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
 * [ccat](https://github.com/owenthereal/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
+* [clean-mac](https://github.com/milyzc/clean-mac) - zsh script to reclaim disk space on macOS dev machines: cleans Xcode caches, Android SDK, Gradle, node_modules, Docker and more.
 * [exa](https://github.com/ogham/exa) - A modern version of `ls`.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 * [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
