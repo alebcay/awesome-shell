@@ -267,6 +267,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [prettyping](https://github.com/denilsonsa/prettyping) - Making the output of `ping` prettier, more colorful, more compact, and easier to read.
 * [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
+* [linux-utils](https://github.com/albilu/linux-utils) - Bash scripts for automated Debian full-disk encryption (LUKS/LVM) with UEFI Secure Boot and custom keys.
 * [rng](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
 * [tiptop](https://github.com/nschloe/tiptop) - Graphical command-line system monitor.
 * [wifi-wand](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
