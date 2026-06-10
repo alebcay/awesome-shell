@@ -34,6 +34,23 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 - [**Awesome Bash**][awesome-bash] [![Awesome][awesome-badge]][awesome-bash]
 - [Other Awesome Lists](#other-awesome-lists)
 
+
+## Table of Contents
+
+- [Shells](#shells)
+- [Command-Line Productivity](#command-line-productivity)
+  - [Directory Navigation](#directory-navigation)
+- [Customization](#customization)
+- [For Developers](#for-developers)
+- [System Utilities](#system-utilities)
+- [Downloading and Serving](#downloading-and-serving)
+- [Multimedia and File Formats](#multimedia-and-file-formats)
+- [Applications](#applications)
+- [Games](#games)
+- [Shell Package Management](#shell-package-management)
+- [Shell Script Development](#shell-script-development)
+  - [See also](#see-also)
+
 ## Shells
 
 *Choose your base shell.*
