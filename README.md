@@ -141,6 +141,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
 * [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 * [tere](https://github.com/mgunyho/tere) - A faster alternative to cd + ls
+* [ccline](https://github.com/jianshuo/ccline) - Type a natural-language thought at your zsh prompt — no command, no prefix — get an AI answer (Claude/Codex) and run any suggested commands from an interactive menu.
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
