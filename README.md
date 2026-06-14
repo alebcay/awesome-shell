@@ -268,6 +268,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 * [rng](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
+- [supercli](https://github.com/javimosch/supercli) - Universal CLI router with 7,000+ plugins. One pattern for every tool. JSON-by-default, agent-native discovery.
 * [tiptop](https://github.com/nschloe/tiptop) - Graphical command-line system monitor.
 * [wifi-wand](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
 * [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
