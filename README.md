@@ -355,6 +355,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
+* [sendmux](https://github.com/Sendmux/sendmux-sdk/tree/main/packages/ts/cli) - CLI for managing Sendmux mailboxes used by AI agents.
 * [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
 * [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
