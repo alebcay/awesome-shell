@@ -300,6 +300,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
+* [capcut-cli](https://github.com/renezander030/capcut-cli) - Read and write CapCut/JianYing draft files to build and edit videos from the terminal.
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 * [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 * [dzr](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
