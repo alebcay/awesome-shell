@@ -352,6 +352,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pockyt](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
+* [Raccoon](https://github.com/thousandflowers/Raccoon) - Security audits, system info and SSH fleet management for macOS, in shellcheck-clean Bash with zero dependencies
 * [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
