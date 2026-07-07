@@ -124,7 +124,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [resh](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
 * [rg](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
-* [rolecraft](https://github.com/sametcelikbicak/rolecraft) - Install AI agent skills as roles & behaviors from any source — local folder, GitHub, GitLab, SSH git URL. Zero-dependency CLI with 66+ agent targets.
+* [rolecraft](https://github.com/sametcelikbicak/rolecraft) - Install AI agent skills as roles & behaviors from any source — local folder, GitHub, GitLab, SSH git URL. Zero-dependency CLI with 82+ agent targets.
 * [screen](https://www.gnu.org/software/screen/) - GNU terminal multiplexer
 * [shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
 * [SHML](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
