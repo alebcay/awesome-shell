@@ -456,6 +456,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
 * [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
+* [Effective Shell](https://effective-shell.com) - A free online book (also in print with No Starch) covering the command line, text manipulation, scripting, git, and developer tooling.
 
 # Other Awesome Lists
 
