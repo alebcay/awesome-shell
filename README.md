@@ -342,6 +342,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup](https://github.com/lord63/isitup) - Check whether a website is up or down
 * [jrnl](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
+* [kaydet](https://github.com/miratcan/kaydet) - Queryable personal database and terminal diary with SQLite search, tags, metadata, and AI integration via MCP
 * [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [licen](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
