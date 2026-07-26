@@ -241,6 +241,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
 * [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
+* [mac-ssd-toolkit](https://github.com/sxrxvxnn/mac-ssd-toolkit) - Use an external SSD as Mac primary storage — terminal menus, 27 automation scripts, 18 launchd agents, one-command installer
 * [bat](https://github.com/sharkdp/bat) - A `cat` clone with wings
 * [bmon](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
 * [btop](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
