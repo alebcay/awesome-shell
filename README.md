@@ -66,6 +66,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 * [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
+* [aliasme](https://github.com/Jintin/aliasme) - Store, organize, and run named command aliases from the command line
 * [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
 * [autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 * [await](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
@@ -155,7 +156,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Directory Navigation
 
-* [aliasme](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
 * [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory

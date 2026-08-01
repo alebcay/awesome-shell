@@ -25,7 +25,7 @@
 * [AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - 以递归的方式快速创建文件和目录。 受Vim插件启发。
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串
 * [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名
-* [aliasme](https://github.com/Jintin/aliasme) - 用来快速更改目录的 alias 辅助程序
+* [aliasme](https://github.com/Jintin/aliasme) - 在命令行储存、组织及执行具名的命令别名
 * [autoenv](https://github.com/inishchith/autoenv) - 基于目录的环境
 * [autojump](https://github.com/wting/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: 在云中的 bash 历史，已索引且可搜索。
