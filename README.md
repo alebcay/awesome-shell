@@ -73,7 +73,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 * [boom](https://github.com/holman/boom) - Store links and snippets in the command line
-* [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
+
 * [broot](https://github.com/Canop/broot) - A better way to navigate directories
 * [browsh](https://github.com/browsh-org/browsh) - The modern text-based browser
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
