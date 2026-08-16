@@ -202,6 +202,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Command-line development, version control, and deployment.*
 
 * [1Password SSH Agent](https://developer.1password.com/docs/ssh/) - Authenticate Git and SSH workflows with biometric unlock using 1Password
+* [5dive](https://github.com/5dive-ai/5dive) - Run a team of AI agents on a server you own, each as its own Linux user under systemd, with an org chart and a shared task queue
 * [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
