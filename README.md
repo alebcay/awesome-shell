@@ -224,6 +224,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mkdkr](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
 * [mr](https://myrepos.branchable.com) - Multiple Repository management tool
 * [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
+* [offset](https://github.com/The-Masked-Bear/offset-terminal) - Neubrutalist terminal coding agent with speculative git branching and multi-model orchestration
 * [overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [rebound](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
