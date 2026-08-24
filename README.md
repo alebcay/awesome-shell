@@ -442,6 +442,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
 # Guides
+* [ShellCraft Cheatsheets](https://ghassan-gaidi.github.io/shellcraft-cheatsheets/?ref=specD2) - Print-ready one-page cheatsheets for bash, find/sed/awk and everyday terminal work.
 
 * [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 * [Bash Hackers Wiki](https://web.archive.org/web/20230406205817/https://wiki.bash-hackers.org/)
