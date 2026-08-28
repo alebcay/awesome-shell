@@ -106,6 +106,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
 * [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
+* [linux-copilot](https://github.com/tusharjamunkar/linux-copilot) - Terminal-native Linux AI copilot, log diagnostician, and destructive command safety shield
 * [lowcharts](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
 * [loop](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
