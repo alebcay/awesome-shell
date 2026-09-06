@@ -38,7 +38,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Choose your base shell.*
 
-* [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell)
+
 * [elvish](https://elv.sh/) - Friendly, expressive shell features like anonymous functions and data structures
 * [es](https://wryun.github.io/es-shell/) - The extensible shell, based on Plan 9's [rc](https://github.com/rakitzis/rc) shell
 * [fish](https://fishshell.com) - Smart and user-friendly command line shell
