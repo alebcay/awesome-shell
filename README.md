@@ -80,6 +80,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [byobu](https://www.byobu.org) - Text-based window manager and terminal multiplexer
 * [cod](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
 * [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
+* [cmux-resurrect](https://github.com/drolosoft/cmux-resurrect) - Save and restore terminal workspaces for cmux and Ghostty: tabs, splits, working directories and startup commands
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 * [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
