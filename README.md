@@ -254,6 +254,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hblock](https://github.com/hectorm/hblock) - Hosts-file based adblocker
 * [histstat](https://github.com/vesche/histstat) - History for netstat
 * [htop](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
+* [linux-server-health-check](https://github.com/iadminiserversupport/linux-server-health-check) - Read-only Bash utility for checking Linux server load, memory, disk, inodes, failed services, listening ports, and uptime.
 * [lnav](https://lnav.org) - An advanced log file viewer for the small-scale
 * [logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 * [ls++](https://github.com/trapd00r/ls--) - Colorized ls on steroids
