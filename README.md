@@ -332,6 +332,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 * [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
+* [dtflow](https://github.com/KenyonY/dtflow) - Terminal browser for LLM training data (SFT/DPO/agent JSONL) with full-file search, filters and mouse support, plus a pipeable CLI to filter, clean, convert and export datasets
 * [editly](https://github.com/mifi/editly) - Command line video editor
 * [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line tool
 * [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
