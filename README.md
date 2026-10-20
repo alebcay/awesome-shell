@@ -138,6 +138,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 * [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
+* [suvadu](https://github.com/AppachiTech/suvadu) - Zsh and Bash history in local SQLite with directory, exit code and AI agent commands, searchable with Ctrl+R.
 * [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
 * [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 * [tere](https://github.com/mgunyho/tere) - A faster alternative to cd + ls
