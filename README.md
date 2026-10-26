@@ -456,6 +456,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
 * [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
+* [Command Line Fundamentals Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0346-command-line-fundamentals-cheat-sheet) - Navigation, redirection, pipes, text processing, permissions, processes, variables, quoting, conditionals and loops, each with an example.
 
 # Other Awesome Lists
 
