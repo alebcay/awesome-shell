@@ -271,10 +271,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [tiptop](https://github.com/nschloe/tiptop) - Graphical command-line system monitor.
 * [wifi-wand](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
 * [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
+* [ci-diff-changed](https://github.com/Yearnless/ci-diff-changed) - Ultra-lightweight composite action to detect changed files between refs with globstar (**), ?, [...] support, exclude pattern, shallow clone handling, invalid pattern fail-fast, empty-tree fallback. Pure bash + git + jq, no container.
 
 ## Downloading and Serving
-
-*Self-hosted, lightweight servers and networking tools written in shell scripts.*
 
 * [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
 * [balls](https://github.com/jneen/balls) - Bash on Balls
