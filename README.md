@@ -131,6 +131,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [spark.fish](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
+* [spb](https://github.com/henri/spb) - manage your web browser from the shell (fish focused)
 * [sheet](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 * [spot](https://github.com/rauchg/spot) - Tiny file search utility
 - [snips](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
