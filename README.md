@@ -208,6 +208,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
 * [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code
+* [deja-vu](https://github.com/vshulcz/deja-vu) - Search, blame, and resume local AI coding sessions across 43 agents
 * [doclt](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 * [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
