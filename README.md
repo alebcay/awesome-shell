@@ -436,7 +436,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 * [sub](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts](https://github.com/thinkerbot/ts) - A shell test script
-* [urchin](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
 * [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 * [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
@@ -447,7 +446,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Bash Hackers Wiki](https://web.archive.org/web/20230406205817/https://wiki.bash-hackers.org/)
 * [Greg Wooledge's (aka "greycat") wiki](https://mywiki.wooledge.org).
   Specifically [Bash Guide](https://mywiki.wooledge.org/BashGuide), [Bash FAQ](https://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
-* [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+* [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
 * [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
