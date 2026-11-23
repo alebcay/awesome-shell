@@ -429,6 +429,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [sh-semver](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
+* [ShellCheck Error Decoder](https://bashsnippets.xyz/tools/shellcheck-error-decoder) - Paste an SC code for the rule name, a plain-English explanation and a before/after fix; links the ShellCheck wiki for codes it does not cover
 * [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
 * [shfmt](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
